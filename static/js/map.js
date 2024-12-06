@@ -1,16 +1,25 @@
 // Initialize the map
-const map = L.map('map').setView([56, 10], 7);
+const map = L.map('map').setView([56, 10], 7); // Centered on Denmark
 
 // Add OpenStreetMap tiles
 L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     attribution: '&copy; OpenStreetMap contributors'
 }).addTo(map);
 
-// Load turbine data
+// Function to load turbine data from all kommunes
 const loadTurbineData = async () => {
     const kommunes = [
-        "broenderslev", "aalborg", "aabenraa", "assens", "bornholm"
-    ]; // Add more as needed
+        "aalborg",
+        "aarhus",
+        "aabenraa",
+        "aeroe",
+        "alleroed",
+        "assens",
+        "billund",
+        "bornholm",
+        "broendby",
+        "broenderslev"
+    ];
 
     for (const kommune of kommunes) {
         const filePath = `/data/communes/${kommune}.json`;
@@ -18,26 +27,37 @@ const loadTurbineData = async () => {
         try {
             const response = await fetch(filePath);
             if (!response.ok) throw new Error(`HTTP error! status: ${response.status}`);
+
             const data = await response.json();
-
             data.forEach(turbine => {
-                const { x_coord, y_coord, model, capacity_kw, kommune, gsrn_number, connection_date, rotor_diameter_m, hub_height_m, manufacturer, placement_type, owner_area, parcel_number, coordinate_origin, installation_number } = turbine;
+                const {
+                    x_coord,
+                    y_coord,
+                    model,
+                    capacity_kw,
+                    kommune,
+                    gsrn,
+                    nettilslutning,
+                    roter_diameter,
+                    navhoejde,
+                    fabrikat,
+                    matrikel,
+                    koordinatoprindelse
+                } = turbine;
 
-                // Add marker
+                // Add marker to map
                 L.marker([y_coord, x_coord]).addTo(map)
                     .bindPopup(`
-                        <b>Model:</b> ${model || "Ukendt"}<br>
-                        <b>Kapacitet:</b> ${capacity_kw} kW<br>
-                        <b>Kommune:</b> ${kommune}<br>
-                        <b>Nettilslutning:</b> ${connection_date || "Ukendt"}<br>
-                        <b>Rotor diameter:</b> ${rotor_diameter_m || "Ukendt"} m<br>
-                        <b>Navhøjde:</b> ${hub_height_m || "Ukendt"} m<br>
-                        <b>Fabrikat:</b> ${manufacturer || "Ukendt"}<br>
-                        <b>Placeringstype:</b> ${placement_type || "Ukendt"}<br>
-                        <b>Ejerlav:</b> ${owner_area || "Ukendt"}<br>
-                        <b>Matrikel:</b> ${parcel_number || "Ukendt"}<br>
-                        <b>Koordinatoprindelse:</b> ${coordinate_origin || "Ukendt"}<br>
-                        <b>Installationsnummer:</b> ${installation_number || "Ukendt"}<br>
+                        <b>Model:</b> ${model || '?'}<br>
+                        <b>Kapacitet:</b> ${capacity_kw || '?'} kW<br>
+                        <b>Kommune:</b> ${kommune || '?'}<br>
+                        <b>GSRN:</b> ${gsrn || '?'}<br>
+                        <b>Nettilslutning:</b> ${nettilslutning || '?'}<br>
+                        <b>Rotor Diameter:</b> ${roter_diameter || '?'} m<br>
+                        <b>Navhøjde:</b> ${navhoejde || '?'} m<br>
+                        <b>Fabrikat:</b> ${fabrikat || '?'}<br>
+                        <b>Matrikel:</b> ${matrikel || '?'}<br>
+                        <b>Koordinatoprindelse:</b> ${koordinatoprindelse || '?'}
                     `);
             });
 
@@ -48,4 +68,5 @@ const loadTurbineData = async () => {
     }
 };
 
+// Call the function to load turbine data
 loadTurbineData();

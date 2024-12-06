@@ -4,13 +4,31 @@
         "y_coord": 56.067881328321654,
         "model": "M 600/150/48",
         "capacity_kw": 600.0,
-        "kommune": "Gribskov"
+        "kommune": "Gribskov",
+        "gsrn": "570714700000012495",
+        "connection_date": "1997-10-09",
+        "rotor_diameter": 48,
+        "hub_height": 46,
+        "manufacture": "Micon",
+        "location_type": "LAND",
+        "cadastral_district": "Mønge By, Vejby",
+        "cadastral_no": "4b",
+        "coordinate_origin": "SDFE2018"
     },
     {
         "x_coord": 12.34530564715321,
         "y_coord": 56.10415515233102,
         "model": "Ukendt",
         "capacity_kw": 12.0,
-        "kommune": "Gribskov"
+        "kommune": "Gribskov",
+        "gsrn": "570715000000148798",
+        "connection_date": "2011-07-07",
+        "rotor_diameter": 8.5,
+        "hub_height": 15,
+        "manufacture": "Ukendt",
+        "location_type": "Land",
+        "cadastral_district": "N/A",
+        "cadastral_no": "N/A",
+        "coordinate_origin": "SDFE2018"
     }
 ]

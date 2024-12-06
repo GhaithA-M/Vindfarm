@@ -4,13 +4,31 @@
         "y_coord": 56.059493198904114,
         "model": "Ukendt",
         "capacity_kw": 11.0,
-        "kommune": "Helsingør"
+        "kommune": "Helsingør",
+        "gsrn": "570715000000171765",
+        "connection_date": "2012-01-01",
+        "rotor_diameter": 13,
+        "hub_height": 18,
+        "manufacture": "Ukendt",
+        "location_type": "Land",
+        "cadastral_district": "N/A",
+        "cadastral_no": "N/A",
+        "coordinate_origin": "SDFE2018"
     },
     {
         "x_coord": 12.519681385145423,
         "y_coord": 56.037193533869164,
         "model": "Viking 25",
         "capacity_kw": 25.0,
-        "kommune": "Helsingør"
+        "kommune": "Helsingør",
+        "gsrn": "571313174116025533",
+        "connection_date": "2014-08-07",
+        "rotor_diameter": 13,
+        "hub_height": 18,
+        "manufacture": "HSWind Aps",
+        "location_type": "Land",
+        "cadastral_district": "N/A",
+        "cadastral_no": "N/A",
+        "coordinate_origin": "SDFE2018"
     }
 ]

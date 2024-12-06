@@ -4,6 +4,15 @@
         "y_coord": 55.6287193586655,
         "model": "Ukendt",
         "capacity_kw": 11.0,
-        "kommune": "Ishøj"
+        "kommune": "Ishøj",
+        "gsrn": "570714700000105890",
+        "connection_date": "2003-04-14",
+        "rotor_diameter": 13,
+        "hub_height": 18.3,
+        "manufacture": "Ukendt",
+        "location_type": "Land",
+        "cadastral_district": "N/A",
+        "cadastral_no": "N/A",
+        "coordinate_origin": "SDFE2018"
     }
 ]

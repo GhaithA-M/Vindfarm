@@ -4,6 +4,15 @@
         "y_coord": 57.26368261882755,
         "model": "Ukendt",
         "capacity_kw": 180.0,
-        "kommune": "Læsø"
+        "kommune": "Læsø",
+        "gsrn": "570715000000012709",
+        "connection_date": "1988-03-01",
+        "rotor_diameter": 23.2,
+        "hub_height": 30,
+        "manufacture": "Ukendt",
+        "location_type": "LAND",
+        "cadastral_district": "Vesterø",
+        "cadastral_no": "113bl",
+        "coordinate_origin": "SDFE2018"
     }
 ]
