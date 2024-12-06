@@ -1,0 +1,37 @@
+[
+    {
+        "x_coord": 12.287204933861975,
+        "y_coord": 55.86770828529378,
+        "model": "V 39",
+        "capacity_kw": 500.0,
+        "kommune": "Allerød"
+    },
+    {
+        "x_coord": 12.286516024311394,
+        "y_coord": 55.8688817244257,
+        "model": "V 27",
+        "capacity_kw": 225.0,
+        "kommune": "Allerød"
+    },
+    {
+        "x_coord": 12.299365224190069,
+        "y_coord": 55.844043086774334,
+        "model": "Ukendt",
+        "capacity_kw": 11.0,
+        "kommune": "Allerød"
+    },
+    {
+        "x_coord": 12.26755999582219,
+        "y_coord": 55.853113434424266,
+        "model": "Ukendt",
+        "capacity_kw": 11.0,
+        "kommune": "Allerød"
+    },
+    {
+        "x_coord": 12.315379607383575,
+        "y_coord": 55.84241562466382,
+        "model": "V 80 2",
+        "capacity_kw": 2000.0,
+        "kommune": "Allerød"
+    }
+]

@@ -1,0 +1,1969 @@
+[
+    {
+        "x_coord": 9.073743127929715,
+        "y_coord": 55.239237622975246,
+        "model": "WW 2320-180",
+        "capacity_kw": 180.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.959697922340183,
+        "y_coord": 55.143897024953546,
+        "model": "NM 450-250",
+        "capacity_kw": 250.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 9.074421833196903,
+        "y_coord": 55.238454973670535,
+        "model": "WW 2320-180",
+        "capacity_kw": 180.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 9.045832463428356,
+        "y_coord": 55.106287850524325,
+        "model": "N 27",
+        "capacity_kw": 250.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 9.096255949497689,
+        "y_coord": 55.10820092090464,
+        "model": "Ukendt",
+        "capacity_kw": 150.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 9.095934749452967,
+        "y_coord": 55.10655623818201,
+        "model": "Ukendt",
+        "capacity_kw": 150.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 9.096564653793562,
+        "y_coord": 55.109853160708546,
+        "model": "Ukendt",
+        "capacity_kw": 250.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 9.095625374397313,
+        "y_coord": 55.104929697161445,
+        "model": "Ukendt",
+        "capacity_kw": 250.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.956890388335841,
+        "y_coord": 55.14230334860201,
+        "model": "NM 1500-600/150",
+        "capacity_kw": 600.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.957197975767402,
+        "y_coord": 55.141039456425794,
+        "model": "NM 1500-600/150",
+        "capacity_kw": 600.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.957500689185897,
+        "y_coord": 55.13976756378303,
+        "model": "NM 1500-600/150",
+        "capacity_kw": 600.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 9.012502157591953,
+        "y_coord": 55.11679006870495,
+        "model": "NM 1500-750/175",
+        "capacity_kw": 750.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 9.007062913955288,
+        "y_coord": 55.118651826610964,
+        "model": "NM 1500-750/175",
+        "capacity_kw": 750.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 9.009786440444227,
+        "y_coord": 55.1177216517346,
+        "model": "NM 1500-750/175",
+        "capacity_kw": 750.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 9.20088261808621,
+        "y_coord": 55.09793106340374,
+        "model": "N 43/600",
+        "capacity_kw": 600.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 9.200339781353415,
+        "y_coord": 55.09999997295991,
+        "model": "N 43/600",
+        "capacity_kw": 600.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 9.199875811337007,
+        "y_coord": 55.1020554502783,
+        "model": "N 43",
+        "capacity_kw": 600.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 9.199371745707534,
+        "y_coord": 55.104126087669655,
+        "model": "N 43/600",
+        "capacity_kw": 600.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 9.198807414110464,
+        "y_coord": 55.10619160853029,
+        "model": "N 43/600",
+        "capacity_kw": 600.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 9.204652075578776,
+        "y_coord": 55.101914254343484,
+        "model": "N 43/600",
+        "capacity_kw": 600.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 9.204135842086437,
+        "y_coord": 55.103978102564355,
+        "model": "N 43/600",
+        "capacity_kw": 600.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 9.203622261340058,
+        "y_coord": 55.106050031071305,
+        "model": "N 43/600",
+        "capacity_kw": 600.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 9.076082763743187,
+        "y_coord": 55.2399065477027,
+        "model": "N 43/600",
+        "capacity_kw": 600.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 9.176742621492076,
+        "y_coord": 55.10889229081946,
+        "model": "NM 1500-600/150",
+        "capacity_kw": 600.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.958134993161451,
+        "y_coord": 55.137154771214256,
+        "model": "NM 48/750",
+        "capacity_kw": 750.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 9.042260609122478,
+        "y_coord": 55.08962220438379,
+        "model": "Ukendt",
+        "capacity_kw": 600.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 9.041342835152467,
+        "y_coord": 55.09512392300783,
+        "model": "N 43/600",
+        "capacity_kw": 600.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 9.041800969033352,
+        "y_coord": 55.09237198709506,
+        "model": "N 43/600",
+        "capacity_kw": 600.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 9.0427195557395,
+        "y_coord": 55.086868824403695,
+        "model": "N 43/600",
+        "capacity_kw": 600.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 9.04888440777904,
+        "y_coord": 55.08846184286529,
+        "model": "N 43/600",
+        "capacity_kw": 600.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 9.048423359008762,
+        "y_coord": 55.09121470708307,
+        "model": "N 43/600",
+        "capacity_kw": 600.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 9.047965534973322,
+        "y_coord": 55.09396541031344,
+        "model": "N 43/600",
+        "capacity_kw": 600.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.945639302169043,
+        "y_coord": 55.12574892211829,
+        "model": "V 600",
+        "capacity_kw": 600.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.935920089366082,
+        "y_coord": 55.11896866306389,
+        "model": "V 44-600",
+        "capacity_kw": 600.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.935547059918909,
+        "y_coord": 55.11732766733514,
+        "model": "Ukendt",
+        "capacity_kw": 600.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.950791998966341,
+        "y_coord": 55.130483531022875,
+        "model": "Ukendt",
+        "capacity_kw": 600.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.965366308548687,
+        "y_coord": 55.1326733651065,
+        "model": "V 47-660",
+        "capacity_kw": 660.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 9.016129791525737,
+        "y_coord": 55.11795309196011,
+        "model": "V 47-660",
+        "capacity_kw": 660.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 9.015843995418674,
+        "y_coord": 55.11564411301288,
+        "model": "V 47-660",
+        "capacity_kw": 660.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 9.019113256906085,
+        "y_coord": 55.116561409712816,
+        "model": "N 60/1300",
+        "capacity_kw": 1300.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 9.019361062657111,
+        "y_coord": 55.11901812056582,
+        "model": "N 60/1300",
+        "capacity_kw": 1300.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 9.022642039564392,
+        "y_coord": 55.120059150686636,
+        "model": "N 60/1300",
+        "capacity_kw": 1300.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 9.022394117791015,
+        "y_coord": 55.11748625475648,
+        "model": "Ukendt",
+        "capacity_kw": 1300.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 9.025690808850737,
+        "y_coord": 55.118410558693505,
+        "model": "N 60/1300",
+        "capacity_kw": 1300.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.945983048904626,
+        "y_coord": 55.130045842197624,
+        "model": "NM 600-180/43",
+        "capacity_kw": 600.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.750962660566586,
+        "y_coord": 55.101690708328874,
+        "model": 175,
+        "capacity_kw": 160.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.786347677942702,
+        "y_coord": 54.943125215431216,
+        "model": "Ukendt",
+        "capacity_kw": 250.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.787832442610245,
+        "y_coord": 54.94205113949881,
+        "model": "Ukendt",
+        "capacity_kw": 250.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.690171256426938,
+        "y_coord": 55.20384569614563,
+        "model": "Ukendt",
+        "capacity_kw": 150.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.688762774816302,
+        "y_coord": 55.20463271370385,
+        "model": "Ukendt",
+        "capacity_kw": 150.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.753851111143081,
+        "y_coord": 54.97580513040262,
+        "model": "WW 2700-150",
+        "capacity_kw": 150.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.788341697508644,
+        "y_coord": 55.149356275993796,
+        "model": "Ukendt",
+        "capacity_kw": 150.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.75891585768172,
+        "y_coord": 54.9945326545536,
+        "model": "V 39",
+        "capacity_kw": 500.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.894026531896197,
+        "y_coord": 55.035436464578666,
+        "model": "V 42-600",
+        "capacity_kw": 600.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.774005707993524,
+        "y_coord": 55.22347452471845,
+        "model": "NM 1500-600/150",
+        "capacity_kw": 600.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.804720785194965,
+        "y_coord": 54.99425875209844,
+        "model": "V 47",
+        "capacity_kw": 600.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.910959282062286,
+        "y_coord": 54.95059300413533,
+        "model": "V 44-600",
+        "capacity_kw": 600.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.680941958446079,
+        "y_coord": 55.02816343052272,
+        "model": "NM 1500-600/150",
+        "capacity_kw": 600.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.794602000639696,
+        "y_coord": 54.99350852636777,
+        "model": "V 47-660",
+        "capacity_kw": 600.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.796831989006,
+        "y_coord": 55.09217298646361,
+        "model": "V 600",
+        "capacity_kw": 600.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.801559303506913,
+        "y_coord": 55.091207651985684,
+        "model": "V 44",
+        "capacity_kw": 600.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.713097638419539,
+        "y_coord": 55.06087477524883,
+        "model": "V 44",
+        "capacity_kw": 600.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 9.02009358387981,
+        "y_coord": 54.91039279918106,
+        "model": "V 44",
+        "capacity_kw": 600.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.798852916129874,
+        "y_coord": 55.02610265511866,
+        "model": "V 44-600",
+        "capacity_kw": 600.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.715277734598114,
+        "y_coord": 55.2148892067395,
+        "model": "NM 1500-600",
+        "capacity_kw": 600.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.716013161985867,
+        "y_coord": 55.21300787453897,
+        "model": "NM 1500-600",
+        "capacity_kw": 600.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.718621041768955,
+        "y_coord": 55.21299315862986,
+        "model": "NM 1500-600",
+        "capacity_kw": 600.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.717875717753822,
+        "y_coord": 55.214869001977746,
+        "model": "NM 1500-600",
+        "capacity_kw": 600.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.809400266532625,
+        "y_coord": 55.2185698457985,
+        "model": "NM 1500-600",
+        "capacity_kw": 600.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.765724756048177,
+        "y_coord": 55.078302643875645,
+        "model": "V 47",
+        "capacity_kw": 660.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.758482709141235,
+        "y_coord": 55.076506328942,
+        "model": "V 47",
+        "capacity_kw": 660.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.787641451373544,
+        "y_coord": 55.152154265425345,
+        "model": "Ukendt",
+        "capacity_kw": 600.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.863139726447946,
+        "y_coord": 55.09417744997465,
+        "model": "NM 1500-750/175",
+        "capacity_kw": 750.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.864828332190784,
+        "y_coord": 55.09545763494162,
+        "model": "NM 1500-750/175",
+        "capacity_kw": 750.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.766168722251141,
+        "y_coord": 55.20658156363383,
+        "model": "NM 1500-750/175",
+        "capacity_kw": 750.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.771074222975267,
+        "y_coord": 55.206163935511796,
+        "model": "NM 1500-750/175",
+        "capacity_kw": 750.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.744135646688768,
+        "y_coord": 55.06187861943755,
+        "model": "V 44-600",
+        "capacity_kw": 600.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.788319357883514,
+        "y_coord": 55.046425482201414,
+        "model": "V 44-600",
+        "capacity_kw": 600.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.765307694609632,
+        "y_coord": 55.22235506034472,
+        "model": "NM 1500-750/175",
+        "capacity_kw": 750.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.971499577799454,
+        "y_coord": 54.95411693137098,
+        "model": "NM 1500-750/175",
+        "capacity_kw": 750.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.861332313046557,
+        "y_coord": 55.075007797603966,
+        "model": "V 44-600",
+        "capacity_kw": 600.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.856810727423536,
+        "y_coord": 55.07417043236397,
+        "model": "NM 1500-750/175",
+        "capacity_kw": 750.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.85233785586704,
+        "y_coord": 55.073339697841995,
+        "model": "NM 1500-750/175",
+        "capacity_kw": 750.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.83855269191218,
+        "y_coord": 54.98241055821017,
+        "model": "V 44",
+        "capacity_kw": 600.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.859975023997835,
+        "y_coord": 55.224711710470395,
+        "model": "NM 1500-750/175",
+        "capacity_kw": 750.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.859861983988909,
+        "y_coord": 55.22337220276771,
+        "model": "NM 1500-750/175",
+        "capacity_kw": 750.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.859745189865123,
+        "y_coord": 55.22202954520981,
+        "model": "NM 1500-750/175",
+        "capacity_kw": 750.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.783596310190305,
+        "y_coord": 55.032074548679304,
+        "model": "Ukendt",
+        "capacity_kw": 600.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.800860427779927,
+        "y_coord": 55.09440608444079,
+        "model": "V 44-600",
+        "capacity_kw": 600.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.885841547655065,
+        "y_coord": 54.9568044223669,
+        "model": "NM 1500-750/175",
+        "capacity_kw": 750.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.965709132989168,
+        "y_coord": 54.92180900748188,
+        "model": "NM 1500-750/175",
+        "capacity_kw": 750.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 9.001924329729468,
+        "y_coord": 54.97600402614133,
+        "model": "Ukendt",
+        "capacity_kw": 600.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 9.001016208634683,
+        "y_coord": 54.978580004506696,
+        "model": "Ukendt",
+        "capacity_kw": 600.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.965848042905524,
+        "y_coord": 54.921935487181855,
+        "model": "V 44-600",
+        "capacity_kw": 600.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.937214621263648,
+        "y_coord": 54.93798892559474,
+        "model": "600 - MK lV",
+        "capacity_kw": 600.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 9.00279702951663,
+        "y_coord": 54.973449338629464,
+        "model": "600 - MK lV",
+        "capacity_kw": 600.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.876218648333294,
+        "y_coord": 55.041066246046825,
+        "model": "V 47",
+        "capacity_kw": 660.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.873030389770348,
+        "y_coord": 55.03977827127479,
+        "model": "V 47-660",
+        "capacity_kw": 660.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.87264629267242,
+        "y_coord": 55.04202670872503,
+        "model": "Ukendt",
+        "capacity_kw": 660.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.775969414076696,
+        "y_coord": 55.20574501294748,
+        "model": "NM 44/750 46",
+        "capacity_kw": 750.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.780847359342532,
+        "y_coord": 55.20530025255819,
+        "model": "NM 44/750",
+        "capacity_kw": 750.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.78486823487798,
+        "y_coord": 55.207824336220284,
+        "model": "NM 44/750",
+        "capacity_kw": 750.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.78017631957907,
+        "y_coord": 55.208226099865485,
+        "model": "Ukendt",
+        "capacity_kw": 750.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.77528210560141,
+        "y_coord": 55.20864860783433,
+        "model": "NM 44/750",
+        "capacity_kw": 750.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.77038389197903,
+        "y_coord": 55.20906534060864,
+        "model": "NM 1500-750/175",
+        "capacity_kw": 750.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.857279557280043,
+        "y_coord": 55.14601385507037,
+        "model": "V 47-660",
+        "capacity_kw": 660.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.776142003976258,
+        "y_coord": 55.03779825106295,
+        "model": "V 44-600",
+        "capacity_kw": 600.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.710219869321561,
+        "y_coord": 55.06806397254676,
+        "model": "V 44",
+        "capacity_kw": 600.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.851815203644131,
+        "y_coord": 55.14637702809862,
+        "model": "V 47-660",
+        "capacity_kw": 660.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 9.046126128152977,
+        "y_coord": 54.988424183582545,
+        "model": "V 47-660",
+        "capacity_kw": 660.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 9.046753696545505,
+        "y_coord": 54.98326320923758,
+        "model": "NM 48/750",
+        "capacity_kw": 750.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 9.04643133561425,
+        "y_coord": 54.9858420830834,
+        "model": "Ukendt",
+        "capacity_kw": 750.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.897260438787583,
+        "y_coord": 54.96382046958093,
+        "model": "Ukendt",
+        "capacity_kw": 750.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.711655206724226,
+        "y_coord": 55.06446897052254,
+        "model": "V 44-600",
+        "capacity_kw": 600.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.749644225778514,
+        "y_coord": 55.10232917870528,
+        "model": "DW 23-180",
+        "capacity_kw": 180.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.789579553432494,
+        "y_coord": 54.938760252725984,
+        "model": "Ukendt",
+        "capacity_kw": 250.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.69720172538029,
+        "y_coord": 55.22619760547618,
+        "model": "Ukendt",
+        "capacity_kw": 150.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.69701074719918,
+        "y_coord": 55.22720654329503,
+        "model": "Ukendt",
+        "capacity_kw": 150.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.821143499052821,
+        "y_coord": 55.03057358473154,
+        "model": "V 25-200",
+        "capacity_kw": 200.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.755528644469397,
+        "y_coord": 54.995905316668114,
+        "model": "Ukendt",
+        "capacity_kw": 200.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.666682050893257,
+        "y_coord": 55.095058845601145,
+        "model": "Ukendt",
+        "capacity_kw": 22.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.964759765969339,
+        "y_coord": 55.135193107929766,
+        "model": "V 47-660",
+        "capacity_kw": 660.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.82654962942576,
+        "y_coord": 55.19884832685291,
+        "model": "Ukendt",
+        "capacity_kw": 750.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.830494140610577,
+        "y_coord": 55.199459447510165,
+        "model": "Ukendt",
+        "capacity_kw": 750.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.83454787450345,
+        "y_coord": 55.2000920655265,
+        "model": "NM 750-200/48",
+        "capacity_kw": 750.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.838591521993289,
+        "y_coord": 55.20072525422826,
+        "model": "Ukendt",
+        "capacity_kw": 750.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.842588642594233,
+        "y_coord": 55.20135636162845,
+        "model": "NM 48/750",
+        "capacity_kw": 750.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.846567193658371,
+        "y_coord": 55.201987134836365,
+        "model": "NM 48/750",
+        "capacity_kw": 750.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.8225468845941,
+        "y_coord": 55.19821740401308,
+        "model": "NM 48/750",
+        "capacity_kw": 750.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.769671755741818,
+        "y_coord": 55.22291063012679,
+        "model": "NM 44/750",
+        "capacity_kw": 750.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.846044490436965,
+        "y_coord": 55.204057330273216,
+        "model": "V 47",
+        "capacity_kw": 660.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.83809403187748,
+        "y_coord": 55.20279553951319,
+        "model": "Ukendt",
+        "capacity_kw": 750.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.842085561839584,
+        "y_coord": 55.20342072478017,
+        "model": "NM 750",
+        "capacity_kw": 750.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.977293971413296,
+        "y_coord": 54.927752451290814,
+        "model": "NM 750-200/48",
+        "capacity_kw": 750.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.81012141590626,
+        "y_coord": 55.14177730902301,
+        "model": "NM 48/750",
+        "capacity_kw": 750.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.81288846621876,
+        "y_coord": 55.13822555682113,
+        "model": "NM 48/750",
+        "capacity_kw": 750.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.887239879401216,
+        "y_coord": 55.09775702540156,
+        "model": "V 47-660",
+        "capacity_kw": 660.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.888779120996155,
+        "y_coord": 55.0972296874783,
+        "model": "V 47",
+        "capacity_kw": 660.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.85704821395975,
+        "y_coord": 55.095018400658105,
+        "model": "NM 48/750",
+        "capacity_kw": 750.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 9.01039005740022,
+        "y_coord": 55.066924113382875,
+        "model": "N 60/1300",
+        "capacity_kw": 1300.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 9.00411111735888,
+        "y_coord": 55.11338790707491,
+        "model": "V 47-660",
+        "capacity_kw": 660.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.882054610291762,
+        "y_coord": 55.07293249103525,
+        "model": "NM 48/750",
+        "capacity_kw": 750.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.884447572173686,
+        "y_coord": 55.07132183027061,
+        "model": "Ukendt",
+        "capacity_kw": 750.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.738171560563567,
+        "y_coord": 55.05810074492165,
+        "model": "V 44-600",
+        "capacity_kw": 600.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.69738907601097,
+        "y_coord": 55.2251889277918,
+        "model": "Ukendt",
+        "capacity_kw": 150.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.822039818924019,
+        "y_coord": 55.200282399368625,
+        "model": "NM 750-200/48",
+        "capacity_kw": 750.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 9.143628678689977,
+        "y_coord": 55.1933850497672,
+        "model": "V 47-660",
+        "capacity_kw": 660.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.862723354587832,
+        "y_coord": 55.145668206699646,
+        "model": "V 47-660",
+        "capacity_kw": 660.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.879115943676373,
+        "y_coord": 55.07459962715368,
+        "model": "NM 48/750",
+        "capacity_kw": 750.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.851392406013465,
+        "y_coord": 55.14332515365926,
+        "model": "V 47-660",
+        "capacity_kw": 660.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.999889945158484,
+        "y_coord": 55.11441142064449,
+        "model": "V 47-660",
+        "capacity_kw": 660.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.977589446749784,
+        "y_coord": 55.105674357489,
+        "model": "IMW",
+        "capacity_kw": 1000.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.751241860666045,
+        "y_coord": 55.07472216551999,
+        "model": "Ukendt",
+        "capacity_kw": 660.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.816889963738355,
+        "y_coord": 55.141382475342674,
+        "model": "V 47-660",
+        "capacity_kw": 660.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 9.138824725305795,
+        "y_coord": 55.19197691142074,
+        "model": "N 60",
+        "capacity_kw": 1300.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 9.133659140010414,
+        "y_coord": 55.19303244238961,
+        "model": "N 60/1300",
+        "capacity_kw": 1300.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 9.12823690934395,
+        "y_coord": 55.19413439283254,
+        "model": "N 60/1300",
+        "capacity_kw": 1300.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 9.132028511807691,
+        "y_coord": 55.195751807037915,
+        "model": "N 60/1300",
+        "capacity_kw": 1300.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.741172172916697,
+        "y_coord": 55.06000175540805,
+        "model": "V 44-600",
+        "capacity_kw": 600.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 9.037821841384423,
+        "y_coord": 54.96970799699271,
+        "model": "NM 48/750",
+        "capacity_kw": 750.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.946326444593266,
+        "y_coord": 55.14132298271396,
+        "model": "N 60/1300",
+        "capacity_kw": 1300.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.942163682291795,
+        "y_coord": 55.13567036553095,
+        "model": "N 60/1300",
+        "capacity_kw": 1300.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 9.13781392014994,
+        "y_coord": 55.194567864200046,
+        "model": "N 60/1300",
+        "capacity_kw": 1300.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.858707036991873,
+        "y_coord": 55.09630052255684,
+        "model": "V 47-660",
+        "capacity_kw": 660.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.825993183084599,
+        "y_coord": 55.2008977220404,
+        "model": "NM 48/750",
+        "capacity_kw": 750.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.867779597391253,
+        "y_coord": 55.14226442534245,
+        "model": "V 47-660",
+        "capacity_kw": 660.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.942874614658521,
+        "y_coord": 54.977515449524006,
+        "model": "Ukendt",
+        "capacity_kw": 750.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.834091175984458,
+        "y_coord": 55.202165804890384,
+        "model": "NM 48/750",
+        "capacity_kw": 750.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 9.003686957034239,
+        "y_coord": 54.9708812534212,
+        "model": "W 600/45",
+        "capacity_kw": 600.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.877305906589243,
+        "y_coord": 55.01495227737864,
+        "model": "MK lV",
+        "capacity_kw": 600.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.868166593697415,
+        "y_coord": 55.14532042755594,
+        "model": "V 47-660",
+        "capacity_kw": 660.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.856868718122882,
+        "y_coord": 55.14296821418675,
+        "model": "V 47-660",
+        "capacity_kw": 660.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.86233392845759,
+        "y_coord": 55.142617576133944,
+        "model": "V 47-660",
+        "capacity_kw": 660.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.829989807762974,
+        "y_coord": 55.20152897206231,
+        "model": "NM 48/750",
+        "capacity_kw": 750.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.890589080735266,
+        "y_coord": 54.988821908442425,
+        "model": "W 3700-500",
+        "capacity_kw": 500.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.89178464109974,
+        "y_coord": 54.9834804448618,
+        "model": "W 3700-500",
+        "capacity_kw": 500.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.892656561736873,
+        "y_coord": 54.987648233437994,
+        "model": "W 3700-500",
+        "capacity_kw": 500.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.893262495679455,
+        "y_coord": 54.984982577578556,
+        "model": "W 3700-500",
+        "capacity_kw": 500.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.942765847962482,
+        "y_coord": 55.133153428884384,
+        "model": "W 4200/600-150",
+        "capacity_kw": 600.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.94152960832237,
+        "y_coord": 55.13828676030381,
+        "model": "W 4200/600-150",
+        "capacity_kw": 600.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.940911887163935,
+        "y_coord": 55.14082147391188,
+        "model": "W 4200/600-150",
+        "capacity_kw": 600.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.948173738210528,
+        "y_coord": 55.13365961606775,
+        "model": "W 4200/600-150",
+        "capacity_kw": 600.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.947567828334007,
+        "y_coord": 55.13617540932459,
+        "model": "W 4200/600-150",
+        "capacity_kw": 600.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.946936300009899,
+        "y_coord": 55.13878877770515,
+        "model": "W 4200/600-150",
+        "capacity_kw": 600.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.953420394058336,
+        "y_coord": 55.13414150851349,
+        "model": "W 4200/600-150",
+        "capacity_kw": 600.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.952804292173772,
+        "y_coord": 55.13666154716143,
+        "model": "W 4200/600-150",
+        "capacity_kw": 600.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.952173414469852,
+        "y_coord": 55.139272875817504,
+        "model": "W 4200/600-150",
+        "capacity_kw": 600.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.951558544844822,
+        "y_coord": 55.14181096883447,
+        "model": "W 4200/600-150",
+        "capacity_kw": 600.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.958752335407022,
+        "y_coord": 55.13463470630787,
+        "model": "W 4200/600-150",
+        "capacity_kw": 600.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 9.078660322864765,
+        "y_coord": 55.14246837174566,
+        "model": "M 750-400/100",
+        "capacity_kw": 400.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.716227763895027,
+        "y_coord": 55.206568091170034,
+        "model": "M 750-400/100",
+        "capacity_kw": 400.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.716979265612157,
+        "y_coord": 55.204674117716245,
+        "model": "M 750-400/100",
+        "capacity_kw": 400.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.717738547802362,
+        "y_coord": 55.20278069629986,
+        "model": "M 750-400/100",
+        "capacity_kw": 400.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.718534090533788,
+        "y_coord": 55.20077026364316,
+        "model": "M 750-400/100",
+        "capacity_kw": 400.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.720740060461152,
+        "y_coord": 55.206547950319404,
+        "model": "M 750-400/100",
+        "capacity_kw": 400.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.721492143997292,
+        "y_coord": 55.2046524230012,
+        "model": "M 750-400/100",
+        "capacity_kw": 400.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.722245104757627,
+        "y_coord": 55.202755993920725,
+        "model": "M 750-400/100",
+        "capacity_kw": 400.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.723039461182575,
+        "y_coord": 55.20074786584487,
+        "model": "M 750-400/100",
+        "capacity_kw": 400.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.679597037280116,
+        "y_coord": 54.99456692040968,
+        "model": "M 1500-600/150",
+        "capacity_kw": 600.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.67962318457119,
+        "y_coord": 54.99265817128786,
+        "model": "M 1500-600/150",
+        "capacity_kw": 600.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.67964557022946,
+        "y_coord": 54.99075040017094,
+        "model": "M 1500-600/150",
+        "capacity_kw": 600.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.679675914440724,
+        "y_coord": 54.988843817650746,
+        "model": "M 1500-600/150",
+        "capacity_kw": 600.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.664752030341036,
+        "y_coord": 55.04663121894039,
+        "model": "M 1500-600/150",
+        "capacity_kw": 600.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.668836053683219,
+        "y_coord": 55.04664185715439,
+        "model": "M 1500-600/150",
+        "capacity_kw": 600.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.672869943399414,
+        "y_coord": 55.04667810450745,
+        "model": "M 1500-600/150",
+        "capacity_kw": 600.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.677017027489613,
+        "y_coord": 55.046710474657324,
+        "model": "M 1500-600/150",
+        "capacity_kw": 600.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.665254659978201,
+        "y_coord": 55.04431356991255,
+        "model": "M 1500-600/150",
+        "capacity_kw": 600.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.669323148342807,
+        "y_coord": 55.04433861751872,
+        "model": "M 1500-600/150",
+        "capacity_kw": 600.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.673394298382226,
+        "y_coord": 55.04436407547885,
+        "model": "M 1500-600/150",
+        "capacity_kw": 600.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.677453491200147,
+        "y_coord": 55.044378492062215,
+        "model": "M 1500-600/150",
+        "capacity_kw": 600.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.665754258521494,
+        "y_coord": 55.04199581981961,
+        "model": "M 1500-600/150",
+        "capacity_kw": 600.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.669818441470834,
+        "y_coord": 55.04202110898133,
+        "model": "M 1500-600/150",
+        "capacity_kw": 600.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.673886233677809,
+        "y_coord": 55.0420457329394,
+        "model": "M 1500-600/150",
+        "capacity_kw": 600.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.677951524707682,
+        "y_coord": 55.0420705738093,
+        "model": "M 1500-600/150",
+        "capacity_kw": 600.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.662185173560443,
+        "y_coord": 55.03965120804666,
+        "model": "M 1500-600/150",
+        "capacity_kw": 600.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.66625223853745,
+        "y_coord": 55.03967752324984,
+        "model": "M 1500-600/150",
+        "capacity_kw": 600.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.670321351727328,
+        "y_coord": 55.03970271960992,
+        "model": "M 1500-600/150",
+        "capacity_kw": 600.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.674388906496945,
+        "y_coord": 55.03972768591674,
+        "model": "M 1500-600/150",
+        "capacity_kw": 600.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.658614607053325,
+        "y_coord": 55.03730891231654,
+        "model": "M 1500-600/150",
+        "capacity_kw": 600.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.66268254081978,
+        "y_coord": 55.03733373201195,
+        "model": "M 1500-600/150",
+        "capacity_kw": 600.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.666750772217007,
+        "y_coord": 55.03736093277274,
+        "model": "M 1500-600/150",
+        "capacity_kw": 600.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.670817145288906,
+        "y_coord": 55.03738637498686,
+        "model": "M 1500-600/150",
+        "capacity_kw": 600.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.674884787447922,
+        "y_coord": 55.03741024692191,
+        "model": "M 1500-600/150",
+        "capacity_kw": 600.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.678949294788762,
+        "y_coord": 55.03743532262568,
+        "model": "M 1500-600/150",
+        "capacity_kw": 600.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.659115744763215,
+        "y_coord": 55.034991999468154,
+        "model": "M 1500-600/150",
+        "capacity_kw": 600.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.663182510707225,
+        "y_coord": 55.035016170478265,
+        "model": "M 1500-600/150",
+        "capacity_kw": 600.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.667242860504844,
+        "y_coord": 55.03504099685537,
+        "model": "M 1500-600/150",
+        "capacity_kw": 600.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.675376083440899,
+        "y_coord": 55.03509153477439,
+        "model": "M 1500-600/150",
+        "capacity_kw": 600.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.659624035328271,
+        "y_coord": 55.032673396335106,
+        "model": "M 1500-600/150",
+        "capacity_kw": 600.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.663683816861226,
+        "y_coord": 55.0327002273362,
+        "model": "M 1500-600/150",
+        "capacity_kw": 600.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.667746133608656,
+        "y_coord": 55.03272378459803,
+        "model": "M 1500-600/150",
+        "capacity_kw": 600.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.67181204523567,
+        "y_coord": 55.032748294344316,
+        "model": "M 1500-600/150",
+        "capacity_kw": 600.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.675882944882932,
+        "y_coord": 55.032775647072675,
+        "model": "M 1500-600/150",
+        "capacity_kw": 600.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.664180393927257,
+        "y_coord": 55.030381572351175,
+        "model": "M 1500-600/150",
+        "capacity_kw": 600.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.668250134769135,
+        "y_coord": 55.03040603225441,
+        "model": "M 1500-600/150",
+        "capacity_kw": 600.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.67231440707634,
+        "y_coord": 55.03043016162848,
+        "model": "M 1500-600/150",
+        "capacity_kw": 600.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.676383673590287,
+        "y_coord": 55.03045632530935,
+        "model": "M 1500-600/150",
+        "capacity_kw": 600.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.680440742656245,
+        "y_coord": 55.030482410785666,
+        "model": "M 1500-600/150",
+        "capacity_kw": 600.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.668746115421248,
+        "y_coord": 55.02808627817712,
+        "model": "M 1500-600/150",
+        "capacity_kw": 600.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.672812788578106,
+        "y_coord": 55.02811336329829,
+        "model": "M 1500-600/150",
+        "capacity_kw": 600.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.676879024472068,
+        "y_coord": 55.028137076265864,
+        "model": "M 1500-600/150",
+        "capacity_kw": 600.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.940897895286065,
+        "y_coord": 54.93812916422894,
+        "model": "NM 52/900",
+        "capacity_kw": 900.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.944582601775393,
+        "y_coord": 54.938267854079164,
+        "model": "NM 52/900",
+        "capacity_kw": 900.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.882868531825094,
+        "y_coord": 54.976847999375146,
+        "model": "SWP10-14TG20",
+        "capacity_kw": 10.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.692660612662376,
+        "y_coord": 54.98056292465162,
+        "model": "SWP10-14TG20",
+        "capacity_kw": 10.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.679456627886527,
+        "y_coord": 54.99910256325572,
+        "model": "SWP10-14TG20",
+        "capacity_kw": 10.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.792648048173241,
+        "y_coord": 55.02209553889065,
+        "model": "SWP10-14TG20",
+        "capacity_kw": 10.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.737924819312514,
+        "y_coord": 55.05347699592702,
+        "model": "SWP10-14TG20",
+        "capacity_kw": 10.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.822275150783874,
+        "y_coord": 54.98978336074088,
+        "model": "Gaia Wind 133-10 kW",
+        "capacity_kw": 10.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.957933455350648,
+        "y_coord": 55.11952227752164,
+        "model": "Gaia Wind 133-10 kW",
+        "capacity_kw": 10.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.826545940959358,
+        "y_coord": 54.98896735427386,
+        "model": "SWP10-14TG20",
+        "capacity_kw": 10.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.791329240972058,
+        "y_coord": 55.01780604742823,
+        "model": "SWP10-14TG20",
+        "capacity_kw": 10.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.848636825200835,
+        "y_coord": 55.081127549718225,
+        "model": "SWP10-14TG20",
+        "capacity_kw": 10.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.691069692508078,
+        "y_coord": 55.003734391616014,
+        "model": "SWP25-14TG20",
+        "capacity_kw": 25.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.743064877907178,
+        "y_coord": 55.09746206837031,
+        "model": "SWP25-14TG20",
+        "capacity_kw": 25.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.756280786342137,
+        "y_coord": 55.05487359124078,
+        "model": "SWP10-14TG20",
+        "capacity_kw": 10.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.755107069839138,
+        "y_coord": 55.03285899781073,
+        "model": "SWP25-14TG20",
+        "capacity_kw": 25.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.927814140660292,
+        "y_coord": 54.90586080816204,
+        "model": "V126-3.6 MW",
+        "capacity_kw": 3600.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.933907975815302,
+        "y_coord": 54.90557770244102,
+        "model": "V126-3.6 MW",
+        "capacity_kw": 3600.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.940006454952865,
+        "y_coord": 54.905302282515976,
+        "model": "V126-3.6 MW",
+        "capacity_kw": 3600.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.946104851014644,
+        "y_coord": 54.90502655653312,
+        "model": "V126-3.6 MW",
+        "capacity_kw": 3600.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.952203163887372,
+        "y_coord": 54.90475052450174,
+        "model": "V126-3.6 MW",
+        "capacity_kw": 3600.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.958301377862144,
+        "y_coord": 54.904474186425865,
+        "model": "V126-3.6 MW",
+        "capacity_kw": 3600.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.760166317468261,
+        "y_coord": 55.1296077887531,
+        "model": "Ukendt",
+        "capacity_kw": 10.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.833326415227551,
+        "y_coord": 54.98015869154556,
+        "model": "Ukendt",
+        "capacity_kw": 10.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.714019667286175,
+        "y_coord": 55.2307707763982,
+        "model": "HVK 15",
+        "capacity_kw": 25.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.755551051598088,
+        "y_coord": 55.13227364789404,
+        "model": "Ukendt",
+        "capacity_kw": 25.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.765451124507207,
+        "y_coord": 54.98893913617255,
+        "model": "Gaia Wind 133-10 kW",
+        "capacity_kw": 10.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.815014235575937,
+        "y_coord": 55.206464833572426,
+        "model": "Ukendt",
+        "capacity_kw": 10.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.92995521435154,
+        "y_coord": 54.98718198056137,
+        "model": "SWP-10-16 TG20",
+        "capacity_kw": 10.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.808923763199015,
+        "y_coord": 55.18639701838462,
+        "model": "Ukendt",
+        "capacity_kw": 10.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.778408822720936,
+        "y_coord": 55.07774146074288,
+        "model": "Gaia Wind 133-10 kW",
+        "capacity_kw": 10.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.946704981945793,
+        "y_coord": 54.96017249389137,
+        "model": "Gaia Wind 133-10 kW",
+        "capacity_kw": 10.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.908628092165687,
+        "y_coord": 54.98669424619379,
+        "model": "SWP10-14TG20",
+        "capacity_kw": 10.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.919432219907833,
+        "y_coord": 54.958266368139896,
+        "model": "Gaia Wind 133-10 kW",
+        "capacity_kw": 10.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.759071783185966,
+        "y_coord": 55.04861187033782,
+        "model": "SWP10-14TG20",
+        "capacity_kw": 10.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.814474954212224,
+        "y_coord": 55.00917307674728,
+        "model": "SWP10-14TG20",
+        "capacity_kw": 10.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.749822865166719,
+        "y_coord": 54.98843342673192,
+        "model": "Gaia Wind 133-10 kW",
+        "capacity_kw": 10.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.750069985344457,
+        "y_coord": 54.98815068118987,
+        "model": "Gaia Wind 133-10 kW",
+        "capacity_kw": 10.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.946460133315403,
+        "y_coord": 54.96038527609981,
+        "model": "Gaia Wind 133-10 kW",
+        "capacity_kw": 10.0,
+        "kommune": "Tønder"
+    },
+    {
+        "x_coord": 8.919786959213393,
+        "y_coord": 54.98941952579947,
+        "model": "SWP10-14TG20",
+        "capacity_kw": 10.0,
+        "kommune": "Tønder"
+    }
+]

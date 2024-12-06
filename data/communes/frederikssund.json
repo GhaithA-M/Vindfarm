@@ -1,0 +1,72 @@
+[
+    {
+        "x_coord": 11.892790494477156,
+        "y_coord": 55.815717813711586,
+        "model": "M 750",
+        "capacity_kw": 400.0,
+        "kommune": "Frederikssund"
+    },
+    {
+        "x_coord": 11.890591011762925,
+        "y_coord": 55.81641203672703,
+        "model": "M 750",
+        "capacity_kw": 400.0,
+        "kommune": "Frederikssund"
+    },
+    {
+        "x_coord": 11.888464942396475,
+        "y_coord": 55.8159998735316,
+        "model": "M 750",
+        "capacity_kw": 400.0,
+        "kommune": "Frederikssund"
+    },
+    {
+        "x_coord": 11.925930417909381,
+        "y_coord": 55.78516658958349,
+        "model": "M 530",
+        "capacity_kw": 200.0,
+        "kommune": "Frederikssund"
+    },
+    {
+        "x_coord": 11.985706961725818,
+        "y_coord": 55.79918906146299,
+        "model": "Ukendt",
+        "capacity_kw": 600.0,
+        "kommune": "Frederikssund"
+    },
+    {
+        "x_coord": 11.98217387333481,
+        "y_coord": 55.8327710377466,
+        "model": "V 55-11",
+        "capacity_kw": 55.0,
+        "kommune": "Frederikssund"
+    },
+    {
+        "x_coord": 11.925916031022084,
+        "y_coord": 55.78749514042105,
+        "model": "M 530",
+        "capacity_kw": 200.0,
+        "kommune": "Frederikssund"
+    },
+    {
+        "x_coord": 11.935144472670412,
+        "y_coord": 55.757825316639696,
+        "model": "V 17-75",
+        "capacity_kw": 75.0,
+        "kommune": "Frederikssund"
+    },
+    {
+        "x_coord": 11.987598638385899,
+        "y_coord": 55.79901650469947,
+        "model": "Ukendt",
+        "capacity_kw": 600.0,
+        "kommune": "Frederikssund"
+    },
+    {
+        "x_coord": 11.964245864906411,
+        "y_coord": 55.79377630068855,
+        "model": "Ukendt",
+        "capacity_kw": 55.0,
+        "kommune": "Frederikssund"
+    }
+]

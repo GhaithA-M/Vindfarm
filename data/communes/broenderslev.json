@@ -1,0 +1,541 @@
+[
+    {
+        "x_coord": 10.111751052864133,
+        "y_coord": 57.27466434716972,
+        "model": "Ukendt",
+        "capacity_kw": 270.0,
+        "kommune": "Brønderslev"
+    },
+    {
+        "x_coord": 9.95600551455061,
+        "y_coord": 57.31023513700034,
+        "model": "Ukendt",
+        "capacity_kw": 11.0,
+        "kommune": "Brønderslev"
+    },
+    {
+        "x_coord": 10.191210007800077,
+        "y_coord": 57.23853467271933,
+        "model": "Ukendt",
+        "capacity_kw": 150.0,
+        "kommune": "Brønderslev"
+    },
+    {
+        "x_coord": 10.263334095953063,
+        "y_coord": 57.12153616907761,
+        "model": "Ukendt",
+        "capacity_kw": 55.0,
+        "kommune": "Brønderslev"
+    },
+    {
+        "x_coord": 10.272729050685655,
+        "y_coord": 57.11127677439198,
+        "model": "W 2320-160",
+        "capacity_kw": 160.0,
+        "kommune": "Brønderslev"
+    },
+    {
+        "x_coord": 10.319630804882346,
+        "y_coord": 57.25490865314456,
+        "model": "WW 2320-120",
+        "capacity_kw": 120.0,
+        "kommune": "Brønderslev"
+    },
+    {
+        "x_coord": 10.320982277539342,
+        "y_coord": 57.248260314403716,
+        "model": "Ukendt",
+        "capacity_kw": 150.0,
+        "kommune": "Brønderslev"
+    },
+    {
+        "x_coord": 10.331112341444797,
+        "y_coord": 57.156708210810024,
+        "model": "150 kW",
+        "capacity_kw": 150.0,
+        "kommune": "Brønderslev"
+    },
+    {
+        "x_coord": 9.933968680351565,
+        "y_coord": 57.24476868769956,
+        "model": "NM72C/1500/EVOII",
+        "capacity_kw": 1500.0,
+        "kommune": "Brønderslev"
+    },
+    {
+        "x_coord": 9.935275223231985,
+        "y_coord": 57.24307624591877,
+        "model": "NM72C/1500/EVOII",
+        "capacity_kw": 1500.0,
+        "kommune": "Brønderslev"
+    },
+    {
+        "x_coord": 9.936584404763215,
+        "y_coord": 57.24138799222516,
+        "model": "NM72C/1500/EVOII",
+        "capacity_kw": 1500.0,
+        "kommune": "Brønderslev"
+    },
+    {
+        "x_coord": 9.939194573728379,
+        "y_coord": 57.23801599408531,
+        "model": "NM72C/1500/EVOII",
+        "capacity_kw": 1500.0,
+        "kommune": "Brønderslev"
+    },
+    {
+        "x_coord": 9.940474748784393,
+        "y_coord": 57.23636070409444,
+        "model": "NM72C",
+        "capacity_kw": 1500.0,
+        "kommune": "Brønderslev"
+    },
+    {
+        "x_coord": 9.93789062371338,
+        "y_coord": 57.239698668000244,
+        "model": "NM72C/1500/EVOII",
+        "capacity_kw": 1500.0,
+        "kommune": "Brønderslev"
+    },
+    {
+        "x_coord": 9.941715888231279,
+        "y_coord": 57.2346993143275,
+        "model": "NM72C/1500/EVOII",
+        "capacity_kw": 1500.0,
+        "kommune": "Brønderslev"
+    },
+    {
+        "x_coord": 10.209720513515235,
+        "y_coord": 57.12579313179668,
+        "model": 900,
+        "capacity_kw": 900.0,
+        "kommune": "Brønderslev"
+    },
+    {
+        "x_coord": 10.210671143042294,
+        "y_coord": 57.128809094153375,
+        "model": 900,
+        "capacity_kw": 900.0,
+        "kommune": "Brønderslev"
+    },
+    {
+        "x_coord": 10.214216297003262,
+        "y_coord": 57.126001152030426,
+        "model": 900,
+        "capacity_kw": 900.0,
+        "kommune": "Brønderslev"
+    },
+    {
+        "x_coord": 10.21517232634821,
+        "y_coord": 57.129004182670805,
+        "model": 900,
+        "capacity_kw": 900.0,
+        "kommune": "Brønderslev"
+    },
+    {
+        "x_coord": 9.927728742928277,
+        "y_coord": 57.250250180139716,
+        "model": "Ter-30A 11/100/B3T",
+        "capacity_kw": 11.0,
+        "kommune": "Brønderslev"
+    },
+    {
+        "x_coord": 10.21467593605526,
+        "y_coord": 57.127502082643254,
+        "model": "V 52-850",
+        "capacity_kw": 850.0,
+        "kommune": "Brønderslev"
+    },
+    {
+        "x_coord": 10.210205593500284,
+        "y_coord": 57.12729976193628,
+        "model": "V 52-850",
+        "capacity_kw": 850.0,
+        "kommune": "Brønderslev"
+    },
+    {
+        "x_coord": 10.229888355767457,
+        "y_coord": 57.12709526363814,
+        "model": "V112-3.0MW",
+        "capacity_kw": 3075.0,
+        "kommune": "Brønderslev"
+    },
+    {
+        "x_coord": 10.236619618081855,
+        "y_coord": 57.12925391154387,
+        "model": "V112-3.0MW",
+        "capacity_kw": 3075.0,
+        "kommune": "Brønderslev"
+    },
+    {
+        "x_coord": 10.243355843703243,
+        "y_coord": 57.13141376987341,
+        "model": "V112-3.0MW",
+        "capacity_kw": 3075.0,
+        "kommune": "Brønderslev"
+    },
+    {
+        "x_coord": 9.960776151439955,
+        "y_coord": 57.22158544325998,
+        "model": "V112-3.0MW",
+        "capacity_kw": 3075.0,
+        "kommune": "Brønderslev"
+    },
+    {
+        "x_coord": 9.956197428029954,
+        "y_coord": 57.222957692298245,
+        "model": "V112-3.0MW",
+        "capacity_kw": 3075.0,
+        "kommune": "Brønderslev"
+    },
+    {
+        "x_coord": 9.951616854594292,
+        "y_coord": 57.22432906794357,
+        "model": "V112-3.0MW",
+        "capacity_kw": 3075.0,
+        "kommune": "Brønderslev"
+    },
+    {
+        "x_coord": 9.94703728318848,
+        "y_coord": 57.225700985892004,
+        "model": "V112-3.0MW",
+        "capacity_kw": 3075.0,
+        "kommune": "Brønderslev"
+    },
+    {
+        "x_coord": 10.03729261863571,
+        "y_coord": 57.25938241830964,
+        "model": "V 90 2",
+        "capacity_kw": 2000.0,
+        "kommune": "Brønderslev"
+    },
+    {
+        "x_coord": 10.042216105826737,
+        "y_coord": 57.2592633503869,
+        "model": "V 90 2",
+        "capacity_kw": 2000.0,
+        "kommune": "Brønderslev"
+    },
+    {
+        "x_coord": 10.047139194368162,
+        "y_coord": 57.25914292486092,
+        "model": "V 90 2",
+        "capacity_kw": 2000.0,
+        "kommune": "Brønderslev"
+    },
+    {
+        "x_coord": 10.052062784120288,
+        "y_coord": 57.259023649690484,
+        "model": "V 90 2",
+        "capacity_kw": 2000.0,
+        "kommune": "Brønderslev"
+    },
+    {
+        "x_coord": 9.942768080649927,
+        "y_coord": 57.313843476733894,
+        "model": "Ukendt",
+        "capacity_kw": 10.0,
+        "kommune": "Brønderslev"
+    },
+    {
+        "x_coord": 10.004735394875357,
+        "y_coord": 57.26485554303603,
+        "model": "Ukendt",
+        "capacity_kw": 10.0,
+        "kommune": "Brønderslev"
+    },
+    {
+        "x_coord": 10.196563516647362,
+        "y_coord": 57.221424775534885,
+        "model": "Ukendt",
+        "capacity_kw": 10.0,
+        "kommune": "Brønderslev"
+    },
+    {
+        "x_coord": 10.204093577258375,
+        "y_coord": 57.218600031533065,
+        "model": "Ukendt",
+        "capacity_kw": 10.0,
+        "kommune": "Brønderslev"
+    },
+    {
+        "x_coord": 9.92893367999336,
+        "y_coord": 57.29679403192153,
+        "model": "Ukendt",
+        "capacity_kw": 10.0,
+        "kommune": "Brønderslev"
+    },
+    {
+        "x_coord": 9.955878954081104,
+        "y_coord": 57.30631091006771,
+        "model": "Ukendt",
+        "capacity_kw": 10.0,
+        "kommune": "Brønderslev"
+    },
+    {
+        "x_coord": 9.948839573790424,
+        "y_coord": 57.301326225762296,
+        "model": "Ukendt",
+        "capacity_kw": 10.0,
+        "kommune": "Brønderslev"
+    },
+    {
+        "x_coord": 10.043690236803341,
+        "y_coord": 57.22771077355448,
+        "model": "Ukendt",
+        "capacity_kw": 10.0,
+        "kommune": "Brønderslev"
+    },
+    {
+        "x_coord": 10.099151037888893,
+        "y_coord": 57.27179917465178,
+        "model": "SWP25-14TG20",
+        "capacity_kw": 10.0,
+        "kommune": "Brønderslev"
+    },
+    {
+        "x_coord": 10.027042127846808,
+        "y_coord": 57.2772447107807,
+        "model": "Ukendt",
+        "capacity_kw": 10.0,
+        "kommune": "Brønderslev"
+    },
+    {
+        "x_coord": 9.96855543616704,
+        "y_coord": 57.32166981120792,
+        "model": "Ukendt",
+        "capacity_kw": 10.0,
+        "kommune": "Brønderslev"
+    },
+    {
+        "x_coord": 9.881169509866014,
+        "y_coord": 57.269042511728706,
+        "model": "Ukendt",
+        "capacity_kw": 10.0,
+        "kommune": "Brønderslev"
+    },
+    {
+        "x_coord": 9.880241072508577,
+        "y_coord": 57.2685766616198,
+        "model": "Ukendt",
+        "capacity_kw": 10.0,
+        "kommune": "Brønderslev"
+    },
+    {
+        "x_coord": 10.35297861694344,
+        "y_coord": 57.113192087717785,
+        "model": "SWP-10-16 TG20",
+        "capacity_kw": 10.0,
+        "kommune": "Brønderslev"
+    },
+    {
+        "x_coord": 10.183742016639373,
+        "y_coord": 57.190925615533075,
+        "model": "SWP10-14TG20",
+        "capacity_kw": 10.0,
+        "kommune": "Brønderslev"
+    },
+    {
+        "x_coord": 10.095918135956051,
+        "y_coord": 57.318901059619066,
+        "model": "Ukendt",
+        "capacity_kw": 10.0,
+        "kommune": "Brønderslev"
+    },
+    {
+        "x_coord": 10.281835716489814,
+        "y_coord": 57.169176629289915,
+        "model": "Ukendt",
+        "capacity_kw": 10.0,
+        "kommune": "Brønderslev"
+    },
+    {
+        "x_coord": 9.928190366314423,
+        "y_coord": 57.25062111877578,
+        "model": "Gaia Wind 133-10 kW",
+        "capacity_kw": 10.0,
+        "kommune": "Brønderslev"
+    },
+    {
+        "x_coord": 10.028293864807832,
+        "y_coord": 57.310571606011365,
+        "model": "Ukendt",
+        "capacity_kw": 10.0,
+        "kommune": "Brønderslev"
+    },
+    {
+        "x_coord": 9.931415217445812,
+        "y_coord": 57.25767284337093,
+        "model": "Ukendt",
+        "capacity_kw": 10.0,
+        "kommune": "Brønderslev"
+    },
+    {
+        "x_coord": 9.942029958237406,
+        "y_coord": 57.30458705811888,
+        "model": "Ukendt",
+        "capacity_kw": 10.0,
+        "kommune": "Brønderslev"
+    },
+    {
+        "x_coord": 9.888605145179575,
+        "y_coord": 57.34097898522944,
+        "model": "Ukendt",
+        "capacity_kw": 10.0,
+        "kommune": "Brønderslev"
+    },
+    {
+        "x_coord": 10.117266742819735,
+        "y_coord": 57.27521628559315,
+        "model": "Ukendt",
+        "capacity_kw": 10.0,
+        "kommune": "Brønderslev"
+    },
+    {
+        "x_coord": 10.264483139306808,
+        "y_coord": 57.248199292374956,
+        "model": "Ukendt",
+        "capacity_kw": 10.0,
+        "kommune": "Brønderslev"
+    },
+    {
+        "x_coord": 9.83193854973942,
+        "y_coord": 57.32667800736632,
+        "model": "Gaia Wind 133-10 kW",
+        "capacity_kw": 10.0,
+        "kommune": "Brønderslev"
+    },
+    {
+        "x_coord": 9.840712847798486,
+        "y_coord": 57.27803006797281,
+        "model": "Ukendt",
+        "capacity_kw": 10.0,
+        "kommune": "Brønderslev"
+    },
+    {
+        "x_coord": 10.287938608317953,
+        "y_coord": 57.136121194168915,
+        "model": "Gaia Wind 133-10 kW",
+        "capacity_kw": 10.0,
+        "kommune": "Brønderslev"
+    },
+    {
+        "x_coord": 10.262205522779654,
+        "y_coord": 57.1356551490037,
+        "model": "Ukendt",
+        "capacity_kw": 10.0,
+        "kommune": "Brønderslev"
+    },
+    {
+        "x_coord": 9.961367134440387,
+        "y_coord": 57.226313348886336,
+        "model": "V117-3.45 MW",
+        "capacity_kw": 3450.0,
+        "kommune": "Brønderslev"
+    },
+    {
+        "x_coord": 9.956505413937018,
+        "y_coord": 57.227774283793785,
+        "model": "V117-3.45 MW",
+        "capacity_kw": 3450.0,
+        "kommune": "Brønderslev"
+    },
+    {
+        "x_coord": 9.951603173177633,
+        "y_coord": 57.229226711107515,
+        "model": "V117-3.45 MW",
+        "capacity_kw": 3450.0,
+        "kommune": "Brønderslev"
+    },
+    {
+        "x_coord": 10.398057819354236,
+        "y_coord": 57.165161784937176,
+        "model": "V112-3,45MW",
+        "capacity_kw": 3450.0,
+        "kommune": "Brønderslev"
+    },
+    {
+        "x_coord": 10.403659539513384,
+        "y_coord": 57.165485578366656,
+        "model": "V112-3,45MW",
+        "capacity_kw": 3450.0,
+        "kommune": "Brønderslev"
+    },
+    {
+        "x_coord": 10.409037351622827,
+        "y_coord": 57.16635015961861,
+        "model": "V112-3,45MW",
+        "capacity_kw": 3450.0,
+        "kommune": "Brønderslev"
+    },
+    {
+        "x_coord": 10.414073971088804,
+        "y_coord": 57.16770566943998,
+        "model": "V112-3,45MW",
+        "capacity_kw": 3450.0,
+        "kommune": "Brønderslev"
+    },
+    {
+        "x_coord": 10.41855800603261,
+        "y_coord": 57.169529922186186,
+        "model": "V112-3,45MW",
+        "capacity_kw": 3450.0,
+        "kommune": "Brønderslev"
+    },
+    {
+        "x_coord": 10.352236885957552,
+        "y_coord": 57.22092597635988,
+        "model": "V 90-3 MW",
+        "capacity_kw": 3000.0,
+        "kommune": "Brønderslev"
+    },
+    {
+        "x_coord": 10.350599267430976,
+        "y_coord": 57.224887030932,
+        "model": "V 90-3 MW",
+        "capacity_kw": 3000.0,
+        "kommune": "Brønderslev"
+    },
+    {
+        "x_coord": 10.348947781646611,
+        "y_coord": 57.22882251370463,
+        "model": "V 90-3 MW",
+        "capacity_kw": 3000.0,
+        "kommune": "Brønderslev"
+    },
+    {
+        "x_coord": 10.358164101509525,
+        "y_coord": 57.22222762322514,
+        "model": "V 90-3 MW",
+        "capacity_kw": 3000.0,
+        "kommune": "Brønderslev"
+    },
+    {
+        "x_coord": 10.35652046548982,
+        "y_coord": 57.22618046762399,
+        "model": "V 90-3 MW",
+        "capacity_kw": 3000.0,
+        "kommune": "Brønderslev"
+    },
+    {
+        "x_coord": 10.354877142562739,
+        "y_coord": 57.23015125094028,
+        "model": "V 90-3 MW",
+        "capacity_kw": 3000.0,
+        "kommune": "Brønderslev"
+    },
+    {
+        "x_coord": 10.199471974202172,
+        "y_coord": 57.205187304612814,
+        "model": "Ukendt",
+        "capacity_kw": 10.0,
+        "kommune": "Brønderslev"
+    },
+    {
+        "x_coord": 10.204593609128006,
+        "y_coord": 57.212066924829294,
+        "model": "Ukendt",
+        "capacity_kw": 10.0,
+        "kommune": "Brønderslev"
+    }
+]

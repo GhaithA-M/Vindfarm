@@ -1,0 +1,436 @@
+[
+    {
+        "x_coord": 10.761255699438149,
+        "y_coord": 54.92451861615095,
+        "model": "V 44-600",
+        "capacity_kw": 600.0,
+        "kommune": "Langeland"
+    },
+    {
+        "x_coord": 10.761689298850028,
+        "y_coord": 54.92327396780775,
+        "model": "Ukendt",
+        "capacity_kw": 600.0,
+        "kommune": "Langeland"
+    },
+    {
+        "x_coord": 10.74549444047902,
+        "y_coord": 54.939770085028684,
+        "model": "NM 750-200/48",
+        "capacity_kw": 750.0,
+        "kommune": "Langeland"
+    },
+    {
+        "x_coord": 10.746553997812034,
+        "y_coord": 54.92912456249523,
+        "model": "NM 750-200/48",
+        "capacity_kw": 750.0,
+        "kommune": "Langeland"
+    },
+    {
+        "x_coord": 10.763413141480187,
+        "y_coord": 54.934896835495124,
+        "model": "Ukendt",
+        "capacity_kw": 600.0,
+        "kommune": "Langeland"
+    },
+    {
+        "x_coord": 10.778260795713104,
+        "y_coord": 54.93497665220495,
+        "model": "V 47-660",
+        "capacity_kw": 660.0,
+        "kommune": "Langeland"
+    },
+    {
+        "x_coord": 10.762168450711021,
+        "y_coord": 54.93673602915703,
+        "model": "Ukendt",
+        "capacity_kw": 600.0,
+        "kommune": "Langeland"
+    },
+    {
+        "x_coord": 10.779968612336026,
+        "y_coord": 54.93078050434995,
+        "model": "V 47-660",
+        "capacity_kw": 660.0,
+        "kommune": "Langeland"
+    },
+    {
+        "x_coord": 10.779389269317576,
+        "y_coord": 54.93217062269274,
+        "model": "V 47-660",
+        "capacity_kw": 660.0,
+        "kommune": "Langeland"
+    },
+    {
+        "x_coord": 10.778827000232086,
+        "y_coord": 54.93357711556786,
+        "model": "V 47-660",
+        "capacity_kw": 660.0,
+        "kommune": "Langeland"
+    },
+    {
+        "x_coord": 10.762128159026174,
+        "y_coord": 54.92200389510235,
+        "model": "Ukendt",
+        "capacity_kw": 600.0,
+        "kommune": "Langeland"
+    },
+    {
+        "x_coord": 10.762563375602896,
+        "y_coord": 54.920786722543156,
+        "model": "V 44-600",
+        "capacity_kw": 600.0,
+        "kommune": "Langeland"
+    },
+    {
+        "x_coord": 10.746283758271339,
+        "y_coord": 54.910051599779486,
+        "model": "V 47-660",
+        "capacity_kw": 660.0,
+        "kommune": "Langeland"
+    },
+    {
+        "x_coord": 10.748866624595074,
+        "y_coord": 54.90959668815982,
+        "model": "NM 750-200/48",
+        "capacity_kw": 750.0,
+        "kommune": "Langeland"
+    },
+    {
+        "x_coord": 10.747004148020874,
+        "y_coord": 54.91677799319129,
+        "model": "Ukendt",
+        "capacity_kw": 600.0,
+        "kommune": "Langeland"
+    },
+    {
+        "x_coord": 10.722589646629,
+        "y_coord": 54.889401461359036,
+        "model": "HVK 55",
+        "capacity_kw": 55.0,
+        "kommune": "Langeland"
+    },
+    {
+        "x_coord": 10.717841925434266,
+        "y_coord": 54.8688015918202,
+        "model": "1 MW",
+        "capacity_kw": 1000.0,
+        "kommune": "Langeland"
+    },
+    {
+        "x_coord": 10.703858546706513,
+        "y_coord": 54.86243288944834,
+        "model": "Ukendt",
+        "capacity_kw": 600.0,
+        "kommune": "Langeland"
+    },
+    {
+        "x_coord": 10.675241998453027,
+        "y_coord": 54.838593919562214,
+        "model": "N 50/800",
+        "capacity_kw": 800.0,
+        "kommune": "Langeland"
+    },
+    {
+        "x_coord": 10.690802103799363,
+        "y_coord": 54.813835210995386,
+        "model": "N 50/800",
+        "capacity_kw": 800.0,
+        "kommune": "Langeland"
+    },
+    {
+        "x_coord": 10.694605585252525,
+        "y_coord": 54.81469111610584,
+        "model": "V 47-660",
+        "capacity_kw": 660.0,
+        "kommune": "Langeland"
+    },
+    {
+        "x_coord": 10.699464463695287,
+        "y_coord": 54.761258361572345,
+        "model": "1 MW",
+        "capacity_kw": 1000.0,
+        "kommune": "Langeland"
+    },
+    {
+        "x_coord": 10.698818548649822,
+        "y_coord": 54.766312876635716,
+        "model": "1 MW",
+        "capacity_kw": 1000.0,
+        "kommune": "Langeland"
+    },
+    {
+        "x_coord": 10.728555718974146,
+        "y_coord": 54.759401725786624,
+        "model": "1 MW",
+        "capacity_kw": 1000.0,
+        "kommune": "Langeland"
+    },
+    {
+        "x_coord": 10.698898801217771,
+        "y_coord": 54.75247430632097,
+        "model": "V 44-600",
+        "capacity_kw": 600.0,
+        "kommune": "Langeland"
+    },
+    {
+        "x_coord": 10.676437375253803,
+        "y_coord": 54.74044124905826,
+        "model": "V 42-600",
+        "capacity_kw": 600.0,
+        "kommune": "Langeland"
+    },
+    {
+        "x_coord": 10.707874341765779,
+        "y_coord": 54.73785090692165,
+        "model": "V 42-600",
+        "capacity_kw": 600.0,
+        "kommune": "Langeland"
+    },
+    {
+        "x_coord": 10.76092793090335,
+        "y_coord": 54.938576766127746,
+        "model": "V 44-600",
+        "capacity_kw": 600.0,
+        "kommune": "Langeland"
+    },
+    {
+        "x_coord": 10.846685050562721,
+        "y_coord": 55.02475316307413,
+        "model": "V 27-225",
+        "capacity_kw": 225.0,
+        "kommune": "Langeland"
+    },
+    {
+        "x_coord": 10.872275552676193,
+        "y_coord": 55.06697669266904,
+        "model": "Ukendt",
+        "capacity_kw": 500.0,
+        "kommune": "Langeland"
+    },
+    {
+        "x_coord": 10.880882068059393,
+        "y_coord": 55.096879651766756,
+        "model": "MK l",
+        "capacity_kw": 1000.0,
+        "kommune": "Langeland"
+    },
+    {
+        "x_coord": 10.613999483015409,
+        "y_coord": 54.89366737426659,
+        "model": "Ukendt",
+        "capacity_kw": 130.0,
+        "kommune": "Langeland"
+    },
+    {
+        "x_coord": 10.73593459847085,
+        "y_coord": 54.93699886757894,
+        "model": "NM 1500-600/150",
+        "capacity_kw": 600.0,
+        "kommune": "Langeland"
+    },
+    {
+        "x_coord": 10.721031461558988,
+        "y_coord": 54.75824860555779,
+        "model": "NM 52/900",
+        "capacity_kw": 900.0,
+        "kommune": "Langeland"
+    },
+    {
+        "x_coord": 10.751409582300758,
+        "y_coord": 54.90911856819622,
+        "model": "NM 48/750",
+        "capacity_kw": 750.0,
+        "kommune": "Langeland"
+    },
+    {
+        "x_coord": 10.68144457269189,
+        "y_coord": 54.85602325366925,
+        "model": "1 MW",
+        "capacity_kw": 1000.0,
+        "kommune": "Langeland"
+    },
+    {
+        "x_coord": 10.705941629837767,
+        "y_coord": 54.8149092470862,
+        "model": "NM 900",
+        "capacity_kw": 900.0,
+        "kommune": "Langeland"
+    },
+    {
+        "x_coord": 10.911309288237046,
+        "y_coord": 55.04417104212371,
+        "model": "NM 52",
+        "capacity_kw": 900.0,
+        "kommune": "Langeland"
+    },
+    {
+        "x_coord": 10.913552102338166,
+        "y_coord": 55.04829179266061,
+        "model": "NM 52",
+        "capacity_kw": 900.0,
+        "kommune": "Langeland"
+    },
+    {
+        "x_coord": 10.912424925133147,
+        "y_coord": 55.0462314681415,
+        "model": "NM 52",
+        "capacity_kw": 900.0,
+        "kommune": "Langeland"
+    },
+    {
+        "x_coord": 10.706692223612656,
+        "y_coord": 54.790596980862894,
+        "model": "NM 64/1500",
+        "capacity_kw": 1500.0,
+        "kommune": "Langeland"
+    },
+    {
+        "x_coord": 10.699326794572688,
+        "y_coord": 54.791225006497825,
+        "model": "NM 64/1500",
+        "capacity_kw": 1500.0,
+        "kommune": "Langeland"
+    },
+    {
+        "x_coord": 10.700110073945934,
+        "y_coord": 54.756107399986895,
+        "model": "NM 52/900",
+        "capacity_kw": 900.0,
+        "kommune": "Langeland"
+    },
+    {
+        "x_coord": 10.724761668575265,
+        "y_coord": 54.76248879274886,
+        "model": "Ukendt",
+        "capacity_kw": 900.0,
+        "kommune": "Langeland"
+    },
+    {
+        "x_coord": 10.748033887537307,
+        "y_coord": 54.951952581286875,
+        "model": "N 50/43",
+        "capacity_kw": 800.0,
+        "kommune": "Langeland"
+    },
+    {
+        "x_coord": 10.88654508855053,
+        "y_coord": 55.09430248326629,
+        "model": "NM 48/750",
+        "capacity_kw": 750.0,
+        "kommune": "Langeland"
+    },
+    {
+        "x_coord": 10.89907276754027,
+        "y_coord": 55.02359505390423,
+        "model": "SWT 3.0-101",
+        "capacity_kw": 3000.0,
+        "kommune": "Langeland"
+    },
+    {
+        "x_coord": 10.897842135117227,
+        "y_coord": 55.02075443005195,
+        "model": "SWT 3.0-101",
+        "capacity_kw": 3000.0,
+        "kommune": "Langeland"
+    },
+    {
+        "x_coord": 10.896600581854125,
+        "y_coord": 55.017907313014035,
+        "model": "SWT 3.0-101",
+        "capacity_kw": 3000.0,
+        "kommune": "Langeland"
+    },
+    {
+        "x_coord": 10.87249429850999,
+        "y_coord": 55.067807322107285,
+        "model": "Ukendt",
+        "capacity_kw": 500.0,
+        "kommune": "Langeland"
+    },
+    {
+        "x_coord": 10.739615104033863,
+        "y_coord": 54.87607625586077,
+        "model": "Gaia Wind 133-10 kW",
+        "capacity_kw": 10.0,
+        "kommune": "Langeland"
+    },
+    {
+        "x_coord": 10.878571649599287,
+        "y_coord": 55.084816362423496,
+        "model": "SWP-10-16 TG20",
+        "capacity_kw": 10.0,
+        "kommune": "Langeland"
+    },
+    {
+        "x_coord": 10.76914281815275,
+        "y_coord": 54.90776357910574,
+        "model": "Gaia Wind 133-10 kW",
+        "capacity_kw": 10.0,
+        "kommune": "Langeland"
+    },
+    {
+        "x_coord": 10.730587654105124,
+        "y_coord": 54.824332375931185,
+        "model": "SWP25-14TG20",
+        "capacity_kw": 10.0,
+        "kommune": "Langeland"
+    },
+    {
+        "x_coord": 10.889611075618681,
+        "y_coord": 55.07212555071405,
+        "model": "Gaia Wind 133-10 kW",
+        "capacity_kw": 10.0,
+        "kommune": "Langeland"
+    },
+    {
+        "x_coord": 10.887506453113955,
+        "y_coord": 55.07434335872184,
+        "model": "Gaia Wind 133-10 kW",
+        "capacity_kw": 10.0,
+        "kommune": "Langeland"
+    },
+    {
+        "x_coord": 10.885005405200367,
+        "y_coord": 55.06995561382162,
+        "model": "Gaia Wind 133-10 kW",
+        "capacity_kw": 10.0,
+        "kommune": "Langeland"
+    },
+    {
+        "x_coord": 10.749271568858202,
+        "y_coord": 54.91086193780969,
+        "model": "SWP25-14TG20",
+        "capacity_kw": 25.0,
+        "kommune": "Langeland"
+    },
+    {
+        "x_coord": 10.757550868440074,
+        "y_coord": 54.9153092499611,
+        "model": "SWP10-14TG20",
+        "capacity_kw": 10.0,
+        "kommune": "Langeland"
+    },
+    {
+        "x_coord": 10.728309303241211,
+        "y_coord": 54.77255433999486,
+        "model": "SWP10-14TG20",
+        "capacity_kw": 10.0,
+        "kommune": "Langeland"
+    },
+    {
+        "x_coord": 10.725652442548265,
+        "y_coord": 54.751924221206835,
+        "model": "SWP10-14TG20",
+        "capacity_kw": 10.0,
+        "kommune": "Langeland"
+    },
+    {
+        "x_coord": 10.669440102433171,
+        "y_coord": 54.838577407810995,
+        "model": "Gaia Wind 133-10 kW",
+        "capacity_kw": 10.0,
+        "kommune": "Langeland"
+    }
+]

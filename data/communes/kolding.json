@@ -1,0 +1,268 @@
+[
+    {
+        "x_coord": 9.561592237454267,
+        "y_coord": 55.391971405126384,
+        "model": "N 60/1300",
+        "capacity_kw": 1300.0,
+        "kommune": "Kolding"
+    },
+    {
+        "x_coord": 9.574570359210417,
+        "y_coord": 55.39371793565826,
+        "model": "N 60/1300",
+        "capacity_kw": 1300.0,
+        "kommune": "Kolding"
+    },
+    {
+        "x_coord": 9.567583798613944,
+        "y_coord": 55.39778958223974,
+        "model": "V 66 1,65",
+        "capacity_kw": 1650.0,
+        "kommune": "Kolding"
+    },
+    {
+        "x_coord": 9.505629400725809,
+        "y_coord": 55.41800524321029,
+        "model": "NM 52/900 44",
+        "capacity_kw": 900.0,
+        "kommune": "Kolding"
+    },
+    {
+        "x_coord": 9.520469066926982,
+        "y_coord": 55.425975532211794,
+        "model": "NM 52/900 44",
+        "capacity_kw": 900.0,
+        "kommune": "Kolding"
+    },
+    {
+        "x_coord": 9.280097595732405,
+        "y_coord": 55.465466518968434,
+        "model": "V 52-850",
+        "capacity_kw": 850.0,
+        "kommune": "Kolding"
+    },
+    {
+        "x_coord": 9.274557470746199,
+        "y_coord": 55.46535776142806,
+        "model": "V 52-850",
+        "capacity_kw": 850.0,
+        "kommune": "Kolding"
+    },
+    {
+        "x_coord": 9.498530457961692,
+        "y_coord": 55.430974540696866,
+        "model": "1 MW",
+        "capacity_kw": 1000.0,
+        "kommune": "Kolding"
+    },
+    {
+        "x_coord": 9.505659057239159,
+        "y_coord": 55.42559462899037,
+        "model": "1 MW",
+        "capacity_kw": 1000.0,
+        "kommune": "Kolding"
+    },
+    {
+        "x_coord": 9.502097249174428,
+        "y_coord": 55.4282813477898,
+        "model": "1 MW",
+        "capacity_kw": 1000.0,
+        "kommune": "Kolding"
+    },
+    {
+        "x_coord": 9.511170126517332,
+        "y_coord": 55.41154945805389,
+        "model": "V 52-850",
+        "capacity_kw": 850.0,
+        "kommune": "Kolding"
+    },
+    {
+        "x_coord": 9.314680109612727,
+        "y_coord": 55.57095588562881,
+        "model": "V 66 1,65",
+        "capacity_kw": 1650.0,
+        "kommune": "Kolding"
+    },
+    {
+        "x_coord": 9.31125704538806,
+        "y_coord": 55.57244599389181,
+        "model": "V 66 1,65",
+        "capacity_kw": 1650.0,
+        "kommune": "Kolding"
+    },
+    {
+        "x_coord": 9.307817455950229,
+        "y_coord": 55.57394494312015,
+        "model": "V 66 1,65",
+        "capacity_kw": 1650.0,
+        "kommune": "Kolding"
+    },
+    {
+        "x_coord": 9.3600695213635,
+        "y_coord": 55.5297082377316,
+        "model": "N 27/150",
+        "capacity_kw": 150.0,
+        "kommune": "Kolding"
+    },
+    {
+        "x_coord": 9.603407928296638,
+        "y_coord": 55.381231271326804,
+        "model": "150 - MK lll",
+        "capacity_kw": 150.0,
+        "kommune": "Kolding"
+    },
+    {
+        "x_coord": 9.52854617980285,
+        "y_coord": 55.45285486410548,
+        "model": "Ukendt",
+        "capacity_kw": 150.0,
+        "kommune": "Kolding"
+    },
+    {
+        "x_coord": 9.528267467515025,
+        "y_coord": 55.45174595085452,
+        "model": "Ukendt",
+        "capacity_kw": 150.0,
+        "kommune": "Kolding"
+    },
+    {
+        "x_coord": 9.528350416635552,
+        "y_coord": 55.45062945557781,
+        "model": "Ukendt",
+        "capacity_kw": 150.0,
+        "kommune": "Kolding"
+    },
+    {
+        "x_coord": 9.388643590276322,
+        "y_coord": 55.50699801824925,
+        "model": "150 - MK lll",
+        "capacity_kw": 150.0,
+        "kommune": "Kolding"
+    },
+    {
+        "x_coord": 9.388554615222517,
+        "y_coord": 55.50603413010003,
+        "model": "150 - MK lll",
+        "capacity_kw": 150.0,
+        "kommune": "Kolding"
+    },
+    {
+        "x_coord": 9.546438077636747,
+        "y_coord": 55.34091138430896,
+        "model": "V 47-660",
+        "capacity_kw": 660.0,
+        "kommune": "Kolding"
+    },
+    {
+        "x_coord": 9.358546872114484,
+        "y_coord": 55.31627505949306,
+        "model": "N 50/800",
+        "capacity_kw": 800.0,
+        "kommune": "Kolding"
+    },
+    {
+        "x_coord": 9.510951554131275,
+        "y_coord": 55.34417029205063,
+        "model": "V 52-850",
+        "capacity_kw": 850.0,
+        "kommune": "Kolding"
+    },
+    {
+        "x_coord": 9.365145500850746,
+        "y_coord": 55.324050611311264,
+        "model": "N 50/800",
+        "capacity_kw": 800.0,
+        "kommune": "Kolding"
+    },
+    {
+        "x_coord": 9.302334009400093,
+        "y_coord": 55.379014232963286,
+        "model": "NM 52/900-250 44",
+        "capacity_kw": 900.0,
+        "kommune": "Kolding"
+    },
+    {
+        "x_coord": 9.43103249754688,
+        "y_coord": 55.38356886101028,
+        "model": "N 60/1300",
+        "capacity_kw": 1300.0,
+        "kommune": "Kolding"
+    },
+    {
+        "x_coord": 9.4057508464973,
+        "y_coord": 55.384570038174424,
+        "model": "N 60/1300",
+        "capacity_kw": 1300.0,
+        "kommune": "Kolding"
+    },
+    {
+        "x_coord": 9.405233667018102,
+        "y_coord": 55.34790392373061,
+        "model": "V 67-660",
+        "capacity_kw": 660.0,
+        "kommune": "Kolding"
+    },
+    {
+        "x_coord": 9.490455440619998,
+        "y_coord": 55.32258504550571,
+        "model": "M 1800",
+        "capacity_kw": 600.0,
+        "kommune": "Kolding"
+    },
+    {
+        "x_coord": 9.498831911995206,
+        "y_coord": 55.32611931987133,
+        "model": "M 1800",
+        "capacity_kw": 600.0,
+        "kommune": "Kolding"
+    },
+    {
+        "x_coord": 9.42366781673201,
+        "y_coord": 55.38018973494598,
+        "model": "N 60/1300",
+        "capacity_kw": 1300.0,
+        "kommune": "Kolding"
+    },
+    {
+        "x_coord": 9.386558317543972,
+        "y_coord": 55.348364109358826,
+        "model": "V 47-660",
+        "capacity_kw": 660.0,
+        "kommune": "Kolding"
+    },
+    {
+        "x_coord": 9.349466698878219,
+        "y_coord": 55.37157497056718,
+        "model": "N 60/1300",
+        "capacity_kw": 1300.0,
+        "kommune": "Kolding"
+    },
+    {
+        "x_coord": 9.495262331541905,
+        "y_coord": 55.334054504005394,
+        "model": "1,3 MW",
+        "capacity_kw": 1300.0,
+        "kommune": "Kolding"
+    },
+    {
+        "x_coord": 9.331193223284323,
+        "y_coord": 55.37162610430463,
+        "model": "1,3 MW",
+        "capacity_kw": 1300.0,
+        "kommune": "Kolding"
+    },
+    {
+        "x_coord": 9.417369834048241,
+        "y_coord": 55.35870601968258,
+        "model": "N 60/1300",
+        "capacity_kw": 1300.0,
+        "kommune": "Kolding"
+    },
+    {
+        "x_coord": 9.426741921580112,
+        "y_coord": 55.35797670978236,
+        "model": "NM 52/900 44",
+        "capacity_kw": 900.0,
+        "kommune": "Kolding"
+    }
+]

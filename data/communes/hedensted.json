@@ -1,0 +1,352 @@
+[
+    {
+        "x_coord": 9.914217440810269,
+        "y_coord": 55.75201539571636,
+        "model": "VM 17 S",
+        "capacity_kw": 75.0,
+        "kommune": "Hedensted"
+    },
+    {
+        "x_coord": 9.907558159803123,
+        "y_coord": 55.73666940960169,
+        "model": "HVK 30",
+        "capacity_kw": 30.0,
+        "kommune": "Hedensted"
+    },
+    {
+        "x_coord": 9.930577689264677,
+        "y_coord": 55.73310580908261,
+        "model": "V 47",
+        "capacity_kw": 660.0,
+        "kommune": "Hedensted"
+    },
+    {
+        "x_coord": 9.961457906240351,
+        "y_coord": 55.77769919154695,
+        "model": "V 47",
+        "capacity_kw": 750.0,
+        "kommune": "Hedensted"
+    },
+    {
+        "x_coord": 9.803497415775283,
+        "y_coord": 55.73227817970824,
+        "model": "V 47",
+        "capacity_kw": 660.0,
+        "kommune": "Hedensted"
+    },
+    {
+        "x_coord": 9.802478135310677,
+        "y_coord": 55.730572893298266,
+        "model": "V 47",
+        "capacity_kw": 660.0,
+        "kommune": "Hedensted"
+    },
+    {
+        "x_coord": 9.825186242035015,
+        "y_coord": 55.74853002935763,
+        "model": "NM 750-200/48",
+        "capacity_kw": 750.0,
+        "kommune": "Hedensted"
+    },
+    {
+        "x_coord": 9.892535804920595,
+        "y_coord": 55.78112818726415,
+        "model": "NM 1500-750/175",
+        "capacity_kw": 750.0,
+        "kommune": "Hedensted"
+    },
+    {
+        "x_coord": 9.900065923617756,
+        "y_coord": 55.78180364491063,
+        "model": "NM 1500-750/175",
+        "capacity_kw": 750.0,
+        "kommune": "Hedensted"
+    },
+    {
+        "x_coord": 9.923411406097955,
+        "y_coord": 55.73891444966575,
+        "model": "V 47",
+        "capacity_kw": 660.0,
+        "kommune": "Hedensted"
+    },
+    {
+        "x_coord": 9.965153520044698,
+        "y_coord": 55.77453609640451,
+        "model": "NM 750-200/48",
+        "capacity_kw": 750.0,
+        "kommune": "Hedensted"
+    },
+    {
+        "x_coord": 9.85886059284988,
+        "y_coord": 55.729295531559146,
+        "model": "1 MW - 690 V",
+        "capacity_kw": 1000.0,
+        "kommune": "Hedensted"
+    },
+    {
+        "x_coord": 9.859245738768928,
+        "y_coord": 55.731207603407505,
+        "model": "1 MW - 690 V",
+        "capacity_kw": 1000.0,
+        "kommune": "Hedensted"
+    },
+    {
+        "x_coord": 9.859652287292372,
+        "y_coord": 55.733142527260725,
+        "model": "1 MW - 690 V",
+        "capacity_kw": 1000.0,
+        "kommune": "Hedensted"
+    },
+    {
+        "x_coord": 9.89628427797643,
+        "y_coord": 55.78147067723552,
+        "model": "NM 1500-750/175",
+        "capacity_kw": 750.0,
+        "kommune": "Hedensted"
+    },
+    {
+        "x_coord": 9.682499381732606,
+        "y_coord": 55.829106501447164,
+        "model": "NM 52/900 LM",
+        "capacity_kw": 900.0,
+        "kommune": "Hedensted"
+    },
+    {
+        "x_coord": 9.682712424480219,
+        "y_coord": 55.83112542358481,
+        "model": "NM 52/900 LM",
+        "capacity_kw": 900.0,
+        "kommune": "Hedensted"
+    },
+    {
+        "x_coord": 9.575393207112654,
+        "y_coord": 55.82742477469685,
+        "model": "W 200/26",
+        "capacity_kw": 200.0,
+        "kommune": "Hedensted"
+    },
+    {
+        "x_coord": 9.575119232435283,
+        "y_coord": 55.82857923736614,
+        "model": "Ukendt",
+        "capacity_kw": 150.0,
+        "kommune": "Hedensted"
+    },
+    {
+        "x_coord": 9.594179285678022,
+        "y_coord": 55.79154949710253,
+        "model": "M 1500-600/150",
+        "capacity_kw": 600.0,
+        "kommune": "Hedensted"
+    },
+    {
+        "x_coord": 9.563293490237585,
+        "y_coord": 55.81266731088252,
+        "model": "V 44-600",
+        "capacity_kw": 600.0,
+        "kommune": "Hedensted"
+    },
+    {
+        "x_coord": 9.47837830117827,
+        "y_coord": 55.84082509569095,
+        "model": "600 - MK lV",
+        "capacity_kw": 600.0,
+        "kommune": "Hedensted"
+    },
+    {
+        "x_coord": 9.480918182652497,
+        "y_coord": 55.841181166440784,
+        "model": "600 - MK lV",
+        "capacity_kw": 600.0,
+        "kommune": "Hedensted"
+    },
+    {
+        "x_coord": 9.479987195440668,
+        "y_coord": 55.839572929324774,
+        "model": "600 - MK lV",
+        "capacity_kw": 600.0,
+        "kommune": "Hedensted"
+    },
+    {
+        "x_coord": 9.528943179402383,
+        "y_coord": 55.80319631439739,
+        "model": "V 47-660",
+        "capacity_kw": 660.0,
+        "kommune": "Hedensted"
+    },
+    {
+        "x_coord": 9.52540517539574,
+        "y_coord": 55.80422206460066,
+        "model": "V 660",
+        "capacity_kw": 660.0,
+        "kommune": "Hedensted"
+    },
+    {
+        "x_coord": 9.614180922056766,
+        "y_coord": 55.85578241677819,
+        "model": "W 600/45",
+        "capacity_kw": 600.0,
+        "kommune": "Hedensted"
+    },
+    {
+        "x_coord": 9.610455389660089,
+        "y_coord": 55.85461785136223,
+        "model": "W 600/45",
+        "capacity_kw": 600.0,
+        "kommune": "Hedensted"
+    },
+    {
+        "x_coord": 9.528783338386578,
+        "y_coord": 55.805433461004135,
+        "model": "V 47-660",
+        "capacity_kw": 660.0,
+        "kommune": "Hedensted"
+    },
+    {
+        "x_coord": 9.610907063948307,
+        "y_coord": 55.85652697283839,
+        "model": "W 600/45",
+        "capacity_kw": 600.0,
+        "kommune": "Hedensted"
+    },
+    {
+        "x_coord": 9.613824365289245,
+        "y_coord": 55.85384695451068,
+        "model": "W 600/45",
+        "capacity_kw": 600.0,
+        "kommune": "Hedensted"
+    },
+    {
+        "x_coord": 9.593122840828272,
+        "y_coord": 55.90162429582245,
+        "model": "NM 48/750",
+        "capacity_kw": 750.0,
+        "kommune": "Hedensted"
+    },
+    {
+        "x_coord": 9.595550615577443,
+        "y_coord": 55.8992613139458,
+        "model": "NM 48/750",
+        "capacity_kw": 750.0,
+        "kommune": "Hedensted"
+    },
+    {
+        "x_coord": 9.479307251404062,
+        "y_coord": 55.877438333012634,
+        "model": "W 3700-500",
+        "capacity_kw": 550.0,
+        "kommune": "Hedensted"
+    },
+    {
+        "x_coord": 9.545506990071825,
+        "y_coord": 55.82888212611047,
+        "model": "V 17-75",
+        "capacity_kw": 75.0,
+        "kommune": "Hedensted"
+    },
+    {
+        "x_coord": 9.522039199339563,
+        "y_coord": 55.79120705966746,
+        "model": "Ukendt",
+        "capacity_kw": 11.0,
+        "kommune": "Hedensted"
+    },
+    {
+        "x_coord": 9.908422952078029,
+        "y_coord": 55.73000341048638,
+        "model": "V 47",
+        "capacity_kw": 660.0,
+        "kommune": "Hedensted"
+    },
+    {
+        "x_coord": 9.629954219920686,
+        "y_coord": 55.8326094735163,
+        "model": "V 52-850",
+        "capacity_kw": 850.0,
+        "kommune": "Hedensted"
+    },
+    {
+        "x_coord": 9.676604656452797,
+        "y_coord": 55.868363018615725,
+        "model": "V 52-850",
+        "capacity_kw": 850.0,
+        "kommune": "Hedensted"
+    },
+    {
+        "x_coord": 9.678278388506493,
+        "y_coord": 55.8670507489016,
+        "model": "V 52-850",
+        "capacity_kw": 850.0,
+        "kommune": "Hedensted"
+    },
+    {
+        "x_coord": 9.679494071036412,
+        "y_coord": 55.86851297285399,
+        "model": "V 52-850",
+        "capacity_kw": 850.0,
+        "kommune": "Hedensted"
+    },
+    {
+        "x_coord": 9.627486966730002,
+        "y_coord": 55.83416801734395,
+        "model": "V 52-850",
+        "capacity_kw": 850.0,
+        "kommune": "Hedensted"
+    },
+    {
+        "x_coord": 9.774350853334871,
+        "y_coord": 55.780604445998314,
+        "model": "1 MW - 690 V",
+        "capacity_kw": 1000.0,
+        "kommune": "Hedensted"
+    },
+    {
+        "x_coord": 9.626838589983517,
+        "y_coord": 55.89389959249763,
+        "model": "Ukendt",
+        "capacity_kw": 11.0,
+        "kommune": "Hedensted"
+    },
+    {
+        "x_coord": 9.57207537183293,
+        "y_coord": 55.85635921096406,
+        "model": "Ukendt",
+        "capacity_kw": 11.0,
+        "kommune": "Hedensted"
+    },
+    {
+        "x_coord": 9.874775722647527,
+        "y_coord": 55.7517083452753,
+        "model": "11 kW",
+        "capacity_kw": 11.0,
+        "kommune": "Hedensted"
+    },
+    {
+        "x_coord": 9.765723576198193,
+        "y_coord": 55.69290172613018,
+        "model": "Ukendt",
+        "capacity_kw": 10.0,
+        "kommune": "Hedensted"
+    },
+    {
+        "x_coord": 9.777851695593242,
+        "y_coord": 55.70139919599405,
+        "model": "Gaia Wind 133-10 kW",
+        "capacity_kw": 10.0,
+        "kommune": "Hedensted"
+    },
+    {
+        "x_coord": 9.951548686935427,
+        "y_coord": 55.77134098047112,
+        "model": "Gaia Wind 133-10 kW",
+        "capacity_kw": 10.0,
+        "kommune": "Hedensted"
+    },
+    {
+        "x_coord": 9.67999177858897,
+        "y_coord": 55.873328628144336,
+        "model": "Gaia Wind 133-10 kW",
+        "capacity_kw": 10.0,
+        "kommune": "Hedensted"
+    }
+]

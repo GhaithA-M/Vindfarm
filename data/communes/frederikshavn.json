@@ -1,0 +1,534 @@
+[
+    {
+        "x_coord": 10.566032462871481,
+        "y_coord": 57.73745197750771,
+        "model": "W 5200-750",
+        "capacity_kw": 750.0,
+        "kommune": "Frederikshavn"
+    },
+    {
+        "x_coord": 10.30892235749198,
+        "y_coord": 57.429709508684084,
+        "model": "V 44-600",
+        "capacity_kw": 600.0,
+        "kommune": "Frederikshavn"
+    },
+    {
+        "x_coord": 10.307347457449627,
+        "y_coord": 57.43107999184693,
+        "model": "V 44-600",
+        "capacity_kw": 600.0,
+        "kommune": "Frederikshavn"
+    },
+    {
+        "x_coord": 10.439822769039104,
+        "y_coord": 57.462151941203906,
+        "model": "M 250",
+        "capacity_kw": 250.0,
+        "kommune": "Frederikshavn"
+    },
+    {
+        "x_coord": 10.438888236188411,
+        "y_coord": 57.45887329087721,
+        "model": "M 250",
+        "capacity_kw": 250.0,
+        "kommune": "Frederikshavn"
+    },
+    {
+        "x_coord": 10.486435692662239,
+        "y_coord": 57.38321166615708,
+        "model": "V 25-200",
+        "capacity_kw": 200.0,
+        "kommune": "Frederikshavn"
+    },
+    {
+        "x_coord": 10.376649091017095,
+        "y_coord": 57.40417638121878,
+        "model": "M 750-175/44",
+        "capacity_kw": 750.0,
+        "kommune": "Frederikshavn"
+    },
+    {
+        "x_coord": 10.352643993838804,
+        "y_coord": 57.40124909935355,
+        "model": "V 44-600",
+        "capacity_kw": 600.0,
+        "kommune": "Frederikshavn"
+    },
+    {
+        "x_coord": 10.32684072237966,
+        "y_coord": 57.3246054632626,
+        "model": "W 2320-160",
+        "capacity_kw": 150.0,
+        "kommune": "Frederikshavn"
+    },
+    {
+        "x_coord": 10.375931068438783,
+        "y_coord": 57.35686878479992,
+        "model": "Ukendt",
+        "capacity_kw": 18.0,
+        "kommune": "Frederikshavn"
+    },
+    {
+        "x_coord": 10.381470372579823,
+        "y_coord": 57.36368756713139,
+        "model": "Ukendt",
+        "capacity_kw": 150.0,
+        "kommune": "Frederikshavn"
+    },
+    {
+        "x_coord": 10.282497933409704,
+        "y_coord": 57.373836598036064,
+        "model": "M 750-200/48 45",
+        "capacity_kw": 750.0,
+        "kommune": "Frederikshavn"
+    },
+    {
+        "x_coord": 10.286392171012853,
+        "y_coord": 57.372152549571,
+        "model": "M 750-200/48 45",
+        "capacity_kw": 750.0,
+        "kommune": "Frederikshavn"
+    },
+    {
+        "x_coord": 10.290285772221905,
+        "y_coord": 57.37046991185087,
+        "model": "M 750-200/48 45",
+        "capacity_kw": 750.0,
+        "kommune": "Frederikshavn"
+    },
+    {
+        "x_coord": 10.282504613566228,
+        "y_coord": 57.37167895837592,
+        "model": "M 750-200/48 45",
+        "capacity_kw": 750.0,
+        "kommune": "Frederikshavn"
+    },
+    {
+        "x_coord": 10.286393245053612,
+        "y_coord": 57.36999801958111,
+        "model": "M 750-200/48 45",
+        "capacity_kw": 750.0,
+        "kommune": "Frederikshavn"
+    },
+    {
+        "x_coord": 10.271309766483848,
+        "y_coord": 57.36088264176804,
+        "model": "Ukendt",
+        "capacity_kw": 90.0,
+        "kommune": "Frederikshavn"
+    },
+    {
+        "x_coord": 10.341048437929944,
+        "y_coord": 57.59763398799942,
+        "model": "M 52/900-200",
+        "capacity_kw": 900.0,
+        "kommune": "Frederikshavn"
+    },
+    {
+        "x_coord": 10.342434347997775,
+        "y_coord": 57.595866467676245,
+        "model": "M 52/900-200",
+        "capacity_kw": 900.0,
+        "kommune": "Frederikshavn"
+    },
+    {
+        "x_coord": 10.343824595530634,
+        "y_coord": 57.594102208665156,
+        "model": "M 52/900-200",
+        "capacity_kw": 900.0,
+        "kommune": "Frederikshavn"
+    },
+    {
+        "x_coord": 10.345154450444324,
+        "y_coord": 57.595450255585305,
+        "model": "M 52/900-200",
+        "capacity_kw": 900.0,
+        "kommune": "Frederikshavn"
+    },
+    {
+        "x_coord": 10.343774376726865,
+        "y_coord": 57.59721325289093,
+        "model": "M 52/900-200",
+        "capacity_kw": 900.0,
+        "kommune": "Frederikshavn"
+    },
+    {
+        "x_coord": 10.32818287115994,
+        "y_coord": 57.57857921825381,
+        "model": "M 750-200/48 45",
+        "capacity_kw": 750.0,
+        "kommune": "Frederikshavn"
+    },
+    {
+        "x_coord": 10.332200350885422,
+        "y_coord": 57.5796711075413,
+        "model": "M 750-200/48 45",
+        "capacity_kw": 750.0,
+        "kommune": "Frederikshavn"
+    },
+    {
+        "x_coord": 10.327472532173699,
+        "y_coord": 57.57663426081456,
+        "model": "M 750-200/48 45",
+        "capacity_kw": 750.0,
+        "kommune": "Frederikshavn"
+    },
+    {
+        "x_coord": 10.331494889245025,
+        "y_coord": 57.57772881523708,
+        "model": "M 750-200/48 45",
+        "capacity_kw": 750.0,
+        "kommune": "Frederikshavn"
+    },
+    {
+        "x_coord": 10.335523257342109,
+        "y_coord": 57.57881185991047,
+        "model": "M 750-200/48 45",
+        "capacity_kw": 750.0,
+        "kommune": "Frederikshavn"
+    },
+    {
+        "x_coord": 10.460230415439234,
+        "y_coord": 57.286929798364525,
+        "model": "Ukendt",
+        "capacity_kw": 150.0,
+        "kommune": "Frederikshavn"
+    },
+    {
+        "x_coord": 10.32166437056822,
+        "y_coord": 57.27838096164449,
+        "model": "W 2800-150",
+        "capacity_kw": 150.0,
+        "kommune": "Frederikshavn"
+    },
+    {
+        "x_coord": 10.479912980329882,
+        "y_coord": 57.30040882212927,
+        "model": "V 47-660",
+        "capacity_kw": 660.0,
+        "kommune": "Frederikshavn"
+    },
+    {
+        "x_coord": 10.475867562741824,
+        "y_coord": 57.301965545709656,
+        "model": "V 47-660",
+        "capacity_kw": 660.0,
+        "kommune": "Frederikshavn"
+    },
+    {
+        "x_coord": 10.47181190575225,
+        "y_coord": 57.30353618189029,
+        "model": "V 47-660",
+        "capacity_kw": 660.0,
+        "kommune": "Frederikshavn"
+    },
+    {
+        "x_coord": 10.42797043572365,
+        "y_coord": 57.189545577745314,
+        "model": "NM 44/750 45",
+        "capacity_kw": 750.0,
+        "kommune": "Frederikshavn"
+    },
+    {
+        "x_coord": 10.426272518805863,
+        "y_coord": 57.187499015505125,
+        "model": "NM 44/750 45",
+        "capacity_kw": 750.0,
+        "kommune": "Frederikshavn"
+    },
+    {
+        "x_coord": 10.424560838745347,
+        "y_coord": 57.185442434771105,
+        "model": "NM 44/750 45",
+        "capacity_kw": 750.0,
+        "kommune": "Frederikshavn"
+    },
+    {
+        "x_coord": 10.422942527743063,
+        "y_coord": 57.18339088227609,
+        "model": "NM 44/750 45",
+        "capacity_kw": 750.0,
+        "kommune": "Frederikshavn"
+    },
+    {
+        "x_coord": 10.477874883656838,
+        "y_coord": 57.47064148162257,
+        "model": "W 2500-150",
+        "capacity_kw": 150.0,
+        "kommune": "Frederikshavn"
+    },
+    {
+        "x_coord": 10.569572839277859,
+        "y_coord": 57.734914049208534,
+        "model": "NM 52/900",
+        "capacity_kw": 900.0,
+        "kommune": "Frederikshavn"
+    },
+    {
+        "x_coord": 10.56778239278395,
+        "y_coord": 57.736204479023954,
+        "model": "NM 52/900",
+        "capacity_kw": 900.0,
+        "kommune": "Frederikshavn"
+    },
+    {
+        "x_coord": 10.480123378170935,
+        "y_coord": 57.30301448836174,
+        "model": "V 47-660",
+        "capacity_kw": 660.0,
+        "kommune": "Frederikshavn"
+    },
+    {
+        "x_coord": 10.476074707101368,
+        "y_coord": 57.30459632054492,
+        "model": "V 47-660",
+        "capacity_kw": 660.0,
+        "kommune": "Frederikshavn"
+    },
+    {
+        "x_coord": 10.472040743492283,
+        "y_coord": 57.30617676934352,
+        "model": "V 47-660",
+        "capacity_kw": 660.0,
+        "kommune": "Frederikshavn"
+    },
+    {
+        "x_coord": 10.555613083755748,
+        "y_coord": 57.44755773461546,
+        "model": "V 90 3",
+        "capacity_kw": 3000.0,
+        "kommune": "Frederikshavn"
+    },
+    {
+        "x_coord": 10.558821098111213,
+        "y_coord": 57.445695200827295,
+        "model": "2,3 MW",
+        "capacity_kw": 2300.0,
+        "kommune": "Frederikshavn"
+    },
+    {
+        "x_coord": 10.56209589318058,
+        "y_coord": 57.44381980581592,
+        "model": "V 90 3",
+        "capacity_kw": 3000.0,
+        "kommune": "Frederikshavn"
+    },
+    {
+        "x_coord": 10.5654332168991,
+        "y_coord": 57.441972744986245,
+        "model": "N 90/2300",
+        "capacity_kw": 2300.0,
+        "kommune": "Frederikshavn"
+    },
+    {
+        "x_coord": 10.439822769039104,
+        "y_coord": 57.462151941203906,
+        "model": "Ukendt",
+        "capacity_kw": 11.0,
+        "kommune": "Frederikshavn"
+    },
+    {
+        "x_coord": 10.481891014044047,
+        "y_coord": 57.311301270945336,
+        "model": "Ukendt",
+        "capacity_kw": 2000.0,
+        "kommune": "Frederikshavn"
+    },
+    {
+        "x_coord": 10.481050363769326,
+        "y_coord": 57.313942221038666,
+        "model": "Ukendt",
+        "capacity_kw": 2000.0,
+        "kommune": "Frederikshavn"
+    },
+    {
+        "x_coord": 10.457604286843324,
+        "y_coord": 57.29059710754091,
+        "model": "Viking 25",
+        "capacity_kw": 25.0,
+        "kommune": "Frederikshavn"
+    },
+    {
+        "x_coord": 10.33071044508039,
+        "y_coord": 57.30036570338032,
+        "model": "Viking 25",
+        "capacity_kw": 25.0,
+        "kommune": "Frederikshavn"
+    },
+    {
+        "x_coord": 10.476937137667484,
+        "y_coord": 57.311951782757845,
+        "model": "V 80-2 MW",
+        "capacity_kw": 2000.0,
+        "kommune": "Frederikshavn"
+    },
+    {
+        "x_coord": 10.47767443790444,
+        "y_coord": 57.309285841248794,
+        "model": "V 80-2 MW",
+        "capacity_kw": 2000.0,
+        "kommune": "Frederikshavn"
+    },
+    {
+        "x_coord": 10.479386317640774,
+        "y_coord": 57.44502413471033,
+        "model": "Ukendt",
+        "capacity_kw": 10.0,
+        "kommune": "Frederikshavn"
+    },
+    {
+        "x_coord": 10.20855854645882,
+        "y_coord": 57.35477408590943,
+        "model": "Ukendt",
+        "capacity_kw": 10.0,
+        "kommune": "Frederikshavn"
+    },
+    {
+        "x_coord": 10.490825764822254,
+        "y_coord": 57.21679242750696,
+        "model": "Ukendt",
+        "capacity_kw": 10.0,
+        "kommune": "Frederikshavn"
+    },
+    {
+        "x_coord": 10.253504099936727,
+        "y_coord": 57.37405275567736,
+        "model": "Gaia Wind 133-10 kW",
+        "capacity_kw": 10.0,
+        "kommune": "Frederikshavn"
+    },
+    {
+        "x_coord": 10.45340842774676,
+        "y_coord": 57.19982037208487,
+        "model": "Ukendt",
+        "capacity_kw": 10.0,
+        "kommune": "Frederikshavn"
+    },
+    {
+        "x_coord": 10.410934284356914,
+        "y_coord": 57.38923243711714,
+        "model": "Ukendt",
+        "capacity_kw": 10.0,
+        "kommune": "Frederikshavn"
+    },
+    {
+        "x_coord": 10.509058292212057,
+        "y_coord": 57.40904526316227,
+        "model": "SWP-10-16 TG20",
+        "capacity_kw": 10.0,
+        "kommune": "Frederikshavn"
+    },
+    {
+        "x_coord": 10.257275496504752,
+        "y_coord": 57.28123392472652,
+        "model": "Gaia Wind 133-10 kW",
+        "capacity_kw": 10.0,
+        "kommune": "Frederikshavn"
+    },
+    {
+        "x_coord": 10.392693270805504,
+        "y_coord": 57.346839765028754,
+        "model": "Ukendt",
+        "capacity_kw": 10.0,
+        "kommune": "Frederikshavn"
+    },
+    {
+        "x_coord": 10.392506407312306,
+        "y_coord": 57.34667104505475,
+        "model": "Ukendt",
+        "capacity_kw": 10.0,
+        "kommune": "Frederikshavn"
+    },
+    {
+        "x_coord": 10.438049505300906,
+        "y_coord": 57.4506008473403,
+        "model": "SWP10-14TG20",
+        "capacity_kw": 10.0,
+        "kommune": "Frederikshavn"
+    },
+    {
+        "x_coord": 10.226146848883024,
+        "y_coord": 57.32639315300787,
+        "model": "SWP10-14TG20",
+        "capacity_kw": 10.0,
+        "kommune": "Frederikshavn"
+    },
+    {
+        "x_coord": 10.348566230404431,
+        "y_coord": 57.26999140090365,
+        "model": "SWP10-14TG20",
+        "capacity_kw": 10.0,
+        "kommune": "Frederikshavn"
+    },
+    {
+        "x_coord": 10.511233726740079,
+        "y_coord": 57.40495912949043,
+        "model": "SWP10-14TG20",
+        "capacity_kw": 10.0,
+        "kommune": "Frederikshavn"
+    },
+    {
+        "x_coord": 10.376544364103701,
+        "y_coord": 57.49908572661703,
+        "model": "Viking 25",
+        "capacity_kw": 25.0,
+        "kommune": "Frederikshavn"
+    },
+    {
+        "x_coord": 10.325614164015958,
+        "y_coord": 57.36938310903053,
+        "model": "V 90-3 MW",
+        "capacity_kw": 3000.0,
+        "kommune": "Frederikshavn"
+    },
+    {
+        "x_coord": 10.32164177523753,
+        "y_coord": 57.370838856072076,
+        "model": "V 90-3 MW",
+        "capacity_kw": 3000.0,
+        "kommune": "Frederikshavn"
+    },
+    {
+        "x_coord": 10.317680151731192,
+        "y_coord": 57.372297417375535,
+        "model": "V 90-3 MW",
+        "capacity_kw": 3000.0,
+        "kommune": "Frederikshavn"
+    },
+    {
+        "x_coord": 10.313666602932136,
+        "y_coord": 57.373768252309794,
+        "model": "V 90-3 MW",
+        "capacity_kw": 3000.0,
+        "kommune": "Frederikshavn"
+    },
+    {
+        "x_coord": 10.420799547699673,
+        "y_coord": 57.33370782309233,
+        "model": "Viking 25",
+        "capacity_kw": 25.0,
+        "kommune": "Frederikshavn"
+    },
+    {
+        "x_coord": 10.46248544534464,
+        "y_coord": 57.43875102055656,
+        "model": "Ukendt",
+        "capacity_kw": 10.0,
+        "kommune": "Frederikshavn"
+    },
+    {
+        "x_coord": 10.428149658385884,
+        "y_coord": 57.175738327756854,
+        "model": "Ukendt",
+        "capacity_kw": 10.0,
+        "kommune": "Frederikshavn"
+    },
+    {
+        "x_coord": 10.509065935107087,
+        "y_coord": 57.408737282861594,
+        "model": "SWP-10-16 TG20",
+        "capacity_kw": 10.0,
+        "kommune": "Frederikshavn"
+    }
+]

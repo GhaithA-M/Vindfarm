@@ -1,0 +1,184 @@
+[
+    {
+        "x_coord": 11.377992231104832,
+        "y_coord": 55.96229811784172,
+        "model": "Ukendt",
+        "capacity_kw": 10.0,
+        "kommune": "Odsherred"
+    },
+    {
+        "x_coord": 11.347670556576384,
+        "y_coord": 55.97075640933063,
+        "model": "Ukendt",
+        "capacity_kw": 10.0,
+        "kommune": "Odsherred"
+    },
+    {
+        "x_coord": 11.479860866232007,
+        "y_coord": 55.82503080873797,
+        "model": "Ukendt",
+        "capacity_kw": 10.0,
+        "kommune": "Odsherred"
+    },
+    {
+        "x_coord": 11.568554802105991,
+        "y_coord": 55.8759339658996,
+        "model": "Ukendt",
+        "capacity_kw": 11.0,
+        "kommune": "Odsherred"
+    },
+    {
+        "x_coord": 11.482320107308075,
+        "y_coord": 55.76691637191536,
+        "model": "Ukendt",
+        "capacity_kw": 550.0,
+        "kommune": "Odsherred"
+    },
+    {
+        "x_coord": 11.48405405943771,
+        "y_coord": 55.76779481308105,
+        "model": "Ukendt",
+        "capacity_kw": 550.0,
+        "kommune": "Odsherred"
+    },
+    {
+        "x_coord": 11.48579085953055,
+        "y_coord": 55.76865663424482,
+        "model": "Ukendt",
+        "capacity_kw": 550.0,
+        "kommune": "Odsherred"
+    },
+    {
+        "x_coord": 11.500755662062664,
+        "y_coord": 55.8256945523162,
+        "model": "15 S",
+        "capacity_kw": 55.0,
+        "kommune": "Odsherred"
+    },
+    {
+        "x_coord": 11.623760758272937,
+        "y_coord": 55.85715229119266,
+        "model": "Viking 25",
+        "capacity_kw": 25.0,
+        "kommune": "Odsherred"
+    },
+    {
+        "x_coord": 11.628160930645233,
+        "y_coord": 55.893763959011146,
+        "model": "V 25-200",
+        "capacity_kw": 200.0,
+        "kommune": "Odsherred"
+    },
+    {
+        "x_coord": 11.629170362168326,
+        "y_coord": 55.89205802046282,
+        "model": "V 25-200",
+        "capacity_kw": 200.0,
+        "kommune": "Odsherred"
+    },
+    {
+        "x_coord": 11.62723275178552,
+        "y_coord": 55.890630484798,
+        "model": "V 25-200",
+        "capacity_kw": 200.0,
+        "kommune": "Odsherred"
+    },
+    {
+        "x_coord": 11.618619095122913,
+        "y_coord": 55.878770269201254,
+        "model": "V 16",
+        "capacity_kw": 25.0,
+        "kommune": "Odsherred"
+    },
+    {
+        "x_coord": 11.631967249921058,
+        "y_coord": 55.88691741170316,
+        "model": "V 55-16",
+        "capacity_kw": 55.0,
+        "kommune": "Odsherred"
+    },
+    {
+        "x_coord": 11.413377849734456,
+        "y_coord": 55.95287636381614,
+        "model": "Ukendt",
+        "capacity_kw": 22.0,
+        "kommune": "Odsherred"
+    },
+    {
+        "x_coord": 11.414899009343646,
+        "y_coord": 55.95794471652119,
+        "model": "Ukendt",
+        "capacity_kw": 22.0,
+        "kommune": "Odsherred"
+    },
+    {
+        "x_coord": 11.386803003439248,
+        "y_coord": 55.960139873323904,
+        "model": "V 55-16",
+        "capacity_kw": 55.0,
+        "kommune": "Odsherred"
+    },
+    {
+        "x_coord": 11.737165342335457,
+        "y_coord": 55.909110724017246,
+        "model": "Ukendt",
+        "capacity_kw": 200.0,
+        "kommune": "Odsherred"
+    },
+    {
+        "x_coord": 11.646133110696828,
+        "y_coord": 55.85386448519544,
+        "model": "V 17-55",
+        "capacity_kw": 75.0,
+        "kommune": "Odsherred"
+    },
+    {
+        "x_coord": 11.652591537120717,
+        "y_coord": 55.8333227357129,
+        "model": "Ukendt",
+        "capacity_kw": 180.0,
+        "kommune": "Odsherred"
+    },
+    {
+        "x_coord": 11.573450012477668,
+        "y_coord": 55.89555687620832,
+        "model": "Ukendt",
+        "capacity_kw": 11.0,
+        "kommune": "Odsherred"
+    },
+    {
+        "x_coord": 11.631078090369371,
+        "y_coord": 55.83695933290986,
+        "model": "Ukendt",
+        "capacity_kw": 11.0,
+        "kommune": "Odsherred"
+    },
+    {
+        "x_coord": 11.53492900735112,
+        "y_coord": 55.93866166329998,
+        "model": "Ukendt",
+        "capacity_kw": 11.0,
+        "kommune": "Odsherred"
+    },
+    {
+        "x_coord": 11.639413227508575,
+        "y_coord": 55.84260690457959,
+        "model": "V 47-660",
+        "capacity_kw": 660.0,
+        "kommune": "Odsherred"
+    },
+    {
+        "x_coord": 11.642184660333005,
+        "y_coord": 55.84299574442413,
+        "model": "V 47-660",
+        "capacity_kw": 660.0,
+        "kommune": "Odsherred"
+    },
+    {
+        "x_coord": 11.645009457407975,
+        "y_coord": 55.84340027336249,
+        "model": "V 47-660",
+        "capacity_kw": 660.0,
+        "kommune": "Odsherred"
+    }
+]

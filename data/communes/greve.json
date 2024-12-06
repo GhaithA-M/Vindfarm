@@ -1,0 +1,44 @@
+[
+    {
+        "x_coord": 12.20981705741022,
+        "y_coord": 55.58030876862378,
+        "model": "COMBI",
+        "capacity_kw": 300.0,
+        "kommune": "Greve"
+    },
+    {
+        "x_coord": 12.211006956365376,
+        "y_coord": 55.579531895028744,
+        "model": "COMBI",
+        "capacity_kw": 300.0,
+        "kommune": "Greve"
+    },
+    {
+        "x_coord": 12.212184438040373,
+        "y_coord": 55.5787725968717,
+        "model": "COMBI",
+        "capacity_kw": 300.0,
+        "kommune": "Greve"
+    },
+    {
+        "x_coord": 12.1955376603353,
+        "y_coord": 55.574923920594436,
+        "model": "Ukendt",
+        "capacity_kw": 180.0,
+        "kommune": "Greve"
+    },
+    {
+        "x_coord": 12.196084755879536,
+        "y_coord": 55.576234682261926,
+        "model": "Ukendt",
+        "capacity_kw": 180.0,
+        "kommune": "Greve"
+    },
+    {
+        "x_coord": 12.210669989817793,
+        "y_coord": 55.59575536822773,
+        "model": "Ukendt",
+        "capacity_kw": 11.0,
+        "kommune": "Greve"
+    }
+]

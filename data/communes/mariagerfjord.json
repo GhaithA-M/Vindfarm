@@ -1,0 +1,457 @@
+[
+    {
+        "x_coord": 9.89137403719861,
+        "y_coord": 56.66446082935839,
+        "model": "D 175 S",
+        "capacity_kw": 175.0,
+        "kommune": "Mariagerfjord"
+    },
+    {
+        "x_coord": 9.905509285750837,
+        "y_coord": 56.69132318729378,
+        "model": "Ukendt",
+        "capacity_kw": 150.0,
+        "kommune": "Mariagerfjord"
+    },
+    {
+        "x_coord": 9.906119292112407,
+        "y_coord": 56.69047422013691,
+        "model": "Ukendt",
+        "capacity_kw": 150.0,
+        "kommune": "Mariagerfjord"
+    },
+    {
+        "x_coord": 9.823169518488617,
+        "y_coord": 56.76194206380384,
+        "model": "Ukendt",
+        "capacity_kw": 150.0,
+        "kommune": "Mariagerfjord"
+    },
+    {
+        "x_coord": 9.86340107159368,
+        "y_coord": 56.70359644696618,
+        "model": "Ukendt",
+        "capacity_kw": 600.0,
+        "kommune": "Mariagerfjord"
+    },
+    {
+        "x_coord": 9.86556613408544,
+        "y_coord": 56.70331243552692,
+        "model": "Ukendt",
+        "capacity_kw": 600.0,
+        "kommune": "Mariagerfjord"
+    },
+    {
+        "x_coord": 9.88201934182312,
+        "y_coord": 56.71265450561665,
+        "model": "Ukendt",
+        "capacity_kw": 600.0,
+        "kommune": "Mariagerfjord"
+    },
+    {
+        "x_coord": 9.884610024004093,
+        "y_coord": 56.71209896984675,
+        "model": "Ukendt",
+        "capacity_kw": 600.0,
+        "kommune": "Mariagerfjord"
+    },
+    {
+        "x_coord": 9.867799571900866,
+        "y_coord": 56.69874103685821,
+        "model": "Ukendt",
+        "capacity_kw": 600.0,
+        "kommune": "Mariagerfjord"
+    },
+    {
+        "x_coord": 9.871108760462818,
+        "y_coord": 56.69883186604618,
+        "model": "Ukendt",
+        "capacity_kw": 600.0,
+        "kommune": "Mariagerfjord"
+    },
+    {
+        "x_coord": 9.798870209092522,
+        "y_coord": 56.6898430421924,
+        "model": "M 1800-600",
+        "capacity_kw": 600.0,
+        "kommune": "Mariagerfjord"
+    },
+    {
+        "x_coord": 9.802611688247282,
+        "y_coord": 56.69002374569405,
+        "model": "M 1800-600",
+        "capacity_kw": 600.0,
+        "kommune": "Mariagerfjord"
+    },
+    {
+        "x_coord": 9.806339372511355,
+        "y_coord": 56.690206582465684,
+        "model": "M 1800-600",
+        "capacity_kw": 600.0,
+        "kommune": "Mariagerfjord"
+    },
+    {
+        "x_coord": 9.810062052494846,
+        "y_coord": 56.69039032863139,
+        "model": "M 1800-600",
+        "capacity_kw": 600.0,
+        "kommune": "Mariagerfjord"
+    },
+    {
+        "x_coord": 9.813774773366733,
+        "y_coord": 56.690564774909085,
+        "model": "M 1800-600",
+        "capacity_kw": 600.0,
+        "kommune": "Mariagerfjord"
+    },
+    {
+        "x_coord": 9.84951300682781,
+        "y_coord": 56.6886848557406,
+        "model": "M 44/750",
+        "capacity_kw": 750.0,
+        "kommune": "Mariagerfjord"
+    },
+    {
+        "x_coord": 9.853442005844883,
+        "y_coord": 56.68871172754902,
+        "model": "M 44/750",
+        "capacity_kw": 750.0,
+        "kommune": "Mariagerfjord"
+    },
+    {
+        "x_coord": 9.88244134088733,
+        "y_coord": 56.729261182422675,
+        "model": "NTK 600/43/50",
+        "capacity_kw": 600.0,
+        "kommune": "Mariagerfjord"
+    },
+    {
+        "x_coord": 9.880067721181288,
+        "y_coord": 56.729589269113006,
+        "model": "NTK 600/43/50",
+        "capacity_kw": 600.0,
+        "kommune": "Mariagerfjord"
+    },
+    {
+        "x_coord": 9.850012085054885,
+        "y_coord": 56.72361773552384,
+        "model": "NTK 600/43/50",
+        "capacity_kw": 600.0,
+        "kommune": "Mariagerfjord"
+    },
+    {
+        "x_coord": 9.851211520521113,
+        "y_coord": 56.72214888527824,
+        "model": "NTK 600/43/50",
+        "capacity_kw": 600.0,
+        "kommune": "Mariagerfjord"
+    },
+    {
+        "x_coord": 9.868791432570944,
+        "y_coord": 56.60868062476843,
+        "model": "NM 48/750",
+        "capacity_kw": 750.0,
+        "kommune": "Mariagerfjord"
+    },
+    {
+        "x_coord": 9.872970826839154,
+        "y_coord": 56.60858632480737,
+        "model": "NM 48/750 IEC ll",
+        "capacity_kw": 750.0,
+        "kommune": "Mariagerfjord"
+    },
+    {
+        "x_coord": 9.877155622078636,
+        "y_coord": 56.608493912723084,
+        "model": "NM 48/750",
+        "capacity_kw": 750.0,
+        "kommune": "Mariagerfjord"
+    },
+    {
+        "x_coord": 9.88138214955375,
+        "y_coord": 56.608410408044136,
+        "model": "NM 48/750",
+        "capacity_kw": 750.0,
+        "kommune": "Mariagerfjord"
+    },
+    {
+        "x_coord": 9.885567638552377,
+        "y_coord": 56.608314383686114,
+        "model": "NM 48/750",
+        "capacity_kw": 750.0,
+        "kommune": "Mariagerfjord"
+    },
+    {
+        "x_coord": 9.805597258393519,
+        "y_coord": 56.56950432698378,
+        "model": "V 47-660",
+        "capacity_kw": 660.0,
+        "kommune": "Mariagerfjord"
+    },
+    {
+        "x_coord": 9.80226171235529,
+        "y_coord": 56.569317271671935,
+        "model": "V 47-660",
+        "capacity_kw": 660.0,
+        "kommune": "Mariagerfjord"
+    },
+    {
+        "x_coord": 9.798915833268168,
+        "y_coord": 56.569124802711904,
+        "model": "V 47-660",
+        "capacity_kw": 660.0,
+        "kommune": "Mariagerfjord"
+    },
+    {
+        "x_coord": 9.795608119034851,
+        "y_coord": 56.56893460515852,
+        "model": "V 47-660",
+        "capacity_kw": 660.0,
+        "kommune": "Mariagerfjord"
+    },
+    {
+        "x_coord": 9.74823471982991,
+        "y_coord": 56.67630912530374,
+        "model": "V 15",
+        "capacity_kw": 55.0,
+        "kommune": "Mariagerfjord"
+    },
+    {
+        "x_coord": 9.768325338476656,
+        "y_coord": 56.703569665658605,
+        "model": "V 90-3 MW",
+        "capacity_kw": 3000.0,
+        "kommune": "Mariagerfjord"
+    },
+    {
+        "x_coord": 9.77008923744442,
+        "y_coord": 56.70105046657703,
+        "model": "V 90-3 MW",
+        "capacity_kw": 3000.0,
+        "kommune": "Mariagerfjord"
+    },
+    {
+        "x_coord": 9.769626696926602,
+        "y_coord": 56.69836802344099,
+        "model": "V 90-3 MW",
+        "capacity_kw": 3000.0,
+        "kommune": "Mariagerfjord"
+    },
+    {
+        "x_coord": 9.767063764071368,
+        "y_coord": 56.696076134619254,
+        "model": "V 90-3 MW",
+        "capacity_kw": 3000.0,
+        "kommune": "Mariagerfjord"
+    },
+    {
+        "x_coord": 9.762916277978775,
+        "y_coord": 56.694645433345016,
+        "model": "V 90-3 MW",
+        "capacity_kw": 3000.0,
+        "kommune": "Mariagerfjord"
+    },
+    {
+        "x_coord": 9.628062422707943,
+        "y_coord": 56.63202930542505,
+        "model": "V 90-3 MW",
+        "capacity_kw": 3000.0,
+        "kommune": "Mariagerfjord"
+    },
+    {
+        "x_coord": 9.62661410189858,
+        "y_coord": 56.63436352090535,
+        "model": "V 90-3 MW",
+        "capacity_kw": 3000.0,
+        "kommune": "Mariagerfjord"
+    },
+    {
+        "x_coord": 9.625179984140795,
+        "y_coord": 56.63668992038962,
+        "model": "V 90-3 MW",
+        "capacity_kw": 3000.0,
+        "kommune": "Mariagerfjord"
+    },
+    {
+        "x_coord": 9.818878861440338,
+        "y_coord": 56.76678952189449,
+        "model": "Viking 25",
+        "capacity_kw": 25.0,
+        "kommune": "Mariagerfjord"
+    },
+    {
+        "x_coord": 9.710836578606672,
+        "y_coord": 56.6279892371459,
+        "model": "SWP25-14TG20",
+        "capacity_kw": 25.0,
+        "kommune": "Mariagerfjord"
+    },
+    {
+        "x_coord": 9.766656023218722,
+        "y_coord": 56.712976374142045,
+        "model": "Gaia Wind 133-10 kW",
+        "capacity_kw": 10.0,
+        "kommune": "Mariagerfjord"
+    },
+    {
+        "x_coord": 9.697861337862976,
+        "y_coord": 56.60724638816758,
+        "model": "SWP10-14TG20",
+        "capacity_kw": 10.0,
+        "kommune": "Mariagerfjord"
+    },
+    {
+        "x_coord": 9.804853098371472,
+        "y_coord": 56.74080283574685,
+        "model": "Gaia Wind 133-10 kW",
+        "capacity_kw": 10.0,
+        "kommune": "Mariagerfjord"
+    },
+    {
+        "x_coord": 9.901276541050478,
+        "y_coord": 56.758087768757626,
+        "model": "SWP10-14TG20",
+        "capacity_kw": 10.0,
+        "kommune": "Mariagerfjord"
+    },
+    {
+        "x_coord": 9.864787377732442,
+        "y_coord": 56.632556191103376,
+        "model": "SWP10-14TG20",
+        "capacity_kw": 10.0,
+        "kommune": "Mariagerfjord"
+    },
+    {
+        "x_coord": 9.724845198597654,
+        "y_coord": 56.67438851602817,
+        "model": "SWT-3.2-113 DD",
+        "capacity_kw": 3200.0,
+        "kommune": "Mariagerfjord"
+    },
+    {
+        "x_coord": 10.196793441773766,
+        "y_coord": 56.782417222827796,
+        "model": "V136-4.2 MW",
+        "capacity_kw": 4200.0,
+        "kommune": "Mariagerfjord"
+    },
+    {
+        "x_coord": 10.195222152681842,
+        "y_coord": 56.78560833724086,
+        "model": "V136-4.2 MW",
+        "capacity_kw": 4200.0,
+        "kommune": "Mariagerfjord"
+    },
+    {
+        "x_coord": 10.193650600178838,
+        "y_coord": 56.78879943134989,
+        "model": "V136-4.2 MW",
+        "capacity_kw": 4200.0,
+        "kommune": "Mariagerfjord"
+    },
+    {
+        "x_coord": 10.192078784184687,
+        "y_coord": 56.791990505147794,
+        "model": "V136-4.2 MW",
+        "capacity_kw": 4200.0,
+        "kommune": "Mariagerfjord"
+    },
+    {
+        "x_coord": 10.19050673308026,
+        "y_coord": 56.795182456811894,
+        "model": "V136-4.2 MW",
+        "capacity_kw": 4200.0,
+        "kommune": "Mariagerfjord"
+    },
+    {
+        "x_coord": 10.202342072937645,
+        "y_coord": 56.78543749553535,
+        "model": "V136-4.2 MW",
+        "capacity_kw": 4200.0,
+        "kommune": "Mariagerfjord"
+    },
+    {
+        "x_coord": 10.200771133182384,
+        "y_coord": 56.78862867688383,
+        "model": "V136-4.2 MW",
+        "capacity_kw": 4200.0,
+        "kommune": "Mariagerfjord"
+    },
+    {
+        "x_coord": 10.199198293395462,
+        "y_coord": 56.79181985367412,
+        "model": "V136-4.2 MW",
+        "capacity_kw": 4200.0,
+        "kommune": "Mariagerfjord"
+    },
+    {
+        "x_coord": 10.197626826675776,
+        "y_coord": 56.79501099441686,
+        "model": "V136-4.2 MW",
+        "capacity_kw": 4200.0,
+        "kommune": "Mariagerfjord"
+    },
+    {
+        "x_coord": 9.873968181667559,
+        "y_coord": 56.5583817372595,
+        "model": "Gaia Wind 133-10 kW",
+        "capacity_kw": 10.0,
+        "kommune": "Mariagerfjord"
+    },
+    {
+        "x_coord": 9.919098912645154,
+        "y_coord": 56.61607793460402,
+        "model": "SWP10-14TG20",
+        "capacity_kw": 10.0,
+        "kommune": "Mariagerfjord"
+    },
+    {
+        "x_coord": 9.883578338531944,
+        "y_coord": 56.629015789245656,
+        "model": "SWP10-14TG20",
+        "capacity_kw": 10.0,
+        "kommune": "Mariagerfjord"
+    },
+    {
+        "x_coord": 9.87374234634969,
+        "y_coord": 56.56564579229906,
+        "model": "V126-3.6 MW",
+        "capacity_kw": 3600.0,
+        "kommune": "Mariagerfjord"
+    },
+    {
+        "x_coord": 9.869672244954614,
+        "y_coord": 56.56852385632169,
+        "model": "V126-3.6 MW",
+        "capacity_kw": 3600.0,
+        "kommune": "Mariagerfjord"
+    },
+    {
+        "x_coord": 9.865606788181708,
+        "y_coord": 56.57138989148589,
+        "model": "V126-3.6 MW",
+        "capacity_kw": 3600.0,
+        "kommune": "Mariagerfjord"
+    },
+    {
+        "x_coord": 9.877264611706668,
+        "y_coord": 56.56947535514208,
+        "model": "V126-3.6 MW",
+        "capacity_kw": 3600.0,
+        "kommune": "Mariagerfjord"
+    },
+    {
+        "x_coord": 9.8731999035413,
+        "y_coord": 56.57235349427617,
+        "model": "V126-3.6 MW",
+        "capacity_kw": 3600.0,
+        "kommune": "Mariagerfjord"
+    },
+    {
+        "x_coord": 9.869130382225508,
+        "y_coord": 56.575204666743055,
+        "model": "V126-3.6 MW",
+        "capacity_kw": 3600.0,
+        "kommune": "Mariagerfjord"
+    }
+]

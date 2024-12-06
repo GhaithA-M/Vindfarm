@@ -1,0 +1,429 @@
+[
+    {
+        "x_coord": 11.685482389934922,
+        "y_coord": 55.649485883904994,
+        "model": "NM 570-200",
+        "capacity_kw": 200.0,
+        "kommune": "Holbæk"
+    },
+    {
+        "x_coord": 11.686668895616668,
+        "y_coord": 55.649494774156295,
+        "model": "NM 570-200",
+        "capacity_kw": 200.0,
+        "kommune": "Holbæk"
+    },
+    {
+        "x_coord": 11.687873911255673,
+        "y_coord": 55.64949075246392,
+        "model": "NM 570-200",
+        "capacity_kw": 200.0,
+        "kommune": "Holbæk"
+    },
+    {
+        "x_coord": 11.442898624156404,
+        "y_coord": 55.733707696998124,
+        "model": "150 - MK lll",
+        "capacity_kw": 450.0,
+        "kommune": "Holbæk"
+    },
+    {
+        "x_coord": 11.44255795997721,
+        "y_coord": 55.73258194484241,
+        "model": "150 - MK lll",
+        "capacity_kw": 450.0,
+        "kommune": "Holbæk"
+    },
+    {
+        "x_coord": 11.44222068546189,
+        "y_coord": 55.73147697727734,
+        "model": "150 - MK lll",
+        "capacity_kw": 450.0,
+        "kommune": "Holbæk"
+    },
+    {
+        "x_coord": 11.44332781030508,
+        "y_coord": 55.705405744668695,
+        "model": "NTK 55",
+        "capacity_kw": 550.0,
+        "kommune": "Holbæk"
+    },
+    {
+        "x_coord": 11.443293744398757,
+        "y_coord": 55.70441896155353,
+        "model": "NTK 55",
+        "capacity_kw": 550.0,
+        "kommune": "Holbæk"
+    },
+    {
+        "x_coord": 11.443269608948183,
+        "y_coord": 55.70342802577007,
+        "model": "NTK 55",
+        "capacity_kw": 550.0,
+        "kommune": "Holbæk"
+    },
+    {
+        "x_coord": 11.56803581104111,
+        "y_coord": 55.766316216543316,
+        "model": "NM 2000",
+        "capacity_kw": 2000.0,
+        "kommune": "Holbæk"
+    },
+    {
+        "x_coord": 11.518037635504747,
+        "y_coord": 55.730912861961414,
+        "model": "600 - MK lll C",
+        "capacity_kw": 600.0,
+        "kommune": "Holbæk"
+    },
+    {
+        "x_coord": 11.5203135255258,
+        "y_coord": 55.729782692161216,
+        "model": "600 - MK lll C",
+        "capacity_kw": 600.0,
+        "kommune": "Holbæk"
+    },
+    {
+        "x_coord": 11.56780364435259,
+        "y_coord": 55.76452182155511,
+        "model": "NM 2000",
+        "capacity_kw": 2000.0,
+        "kommune": "Holbæk"
+    },
+    {
+        "x_coord": 11.57551094753375,
+        "y_coord": 55.76240625382245,
+        "model": "NM 2000",
+        "capacity_kw": 2000.0,
+        "kommune": "Holbæk"
+    },
+    {
+        "x_coord": 11.778789829725898,
+        "y_coord": 55.7792552432854,
+        "model": "M 570",
+        "capacity_kw": 200.0,
+        "kommune": "Holbæk"
+    },
+    {
+        "x_coord": 11.77941857877385,
+        "y_coord": 55.778525213649125,
+        "model": "M 570",
+        "capacity_kw": 200.0,
+        "kommune": "Holbæk"
+    },
+    {
+        "x_coord": 11.780040527744033,
+        "y_coord": 55.7777963231303,
+        "model": "M 570",
+        "capacity_kw": 200.0,
+        "kommune": "Holbæk"
+    },
+    {
+        "x_coord": 11.780647110368243,
+        "y_coord": 55.77706921519128,
+        "model": "M 570",
+        "capacity_kw": 200.0,
+        "kommune": "Holbæk"
+    },
+    {
+        "x_coord": 11.781301839859045,
+        "y_coord": 55.77633544058148,
+        "model": "M 570",
+        "capacity_kw": 200.0,
+        "kommune": "Holbæk"
+    },
+    {
+        "x_coord": 11.778161682204312,
+        "y_coord": 55.779987323250516,
+        "model": "M 570",
+        "capacity_kw": 200.0,
+        "kommune": "Holbæk"
+    },
+    {
+        "x_coord": 11.816145403445532,
+        "y_coord": 55.584329556309264,
+        "model": "Ukendt",
+        "capacity_kw": 200.0,
+        "kommune": "Holbæk"
+    },
+    {
+        "x_coord": 11.815614455520418,
+        "y_coord": 55.5854608586655,
+        "model": "Ukendt",
+        "capacity_kw": 200.0,
+        "kommune": "Holbæk"
+    },
+    {
+        "x_coord": 11.70131813635542,
+        "y_coord": 55.74513152829667,
+        "model": "Ukendt",
+        "capacity_kw": 150.0,
+        "kommune": "Holbæk"
+    },
+    {
+        "x_coord": 11.668227626647312,
+        "y_coord": 55.77437369971394,
+        "model": "Ukendt",
+        "capacity_kw": 150.0,
+        "kommune": "Holbæk"
+    },
+    {
+        "x_coord": 11.698745477733222,
+        "y_coord": 55.7447670506875,
+        "model": "Ukendt",
+        "capacity_kw": 150.0,
+        "kommune": "Holbæk"
+    },
+    {
+        "x_coord": 11.67087096171369,
+        "y_coord": 55.585421933763264,
+        "model": "150 XLR",
+        "capacity_kw": 150.0,
+        "kommune": "Holbæk"
+    },
+    {
+        "x_coord": 11.515756538214784,
+        "y_coord": 55.7320037249656,
+        "model": "600 - MK lll C",
+        "capacity_kw": 600.0,
+        "kommune": "Holbæk"
+    },
+    {
+        "x_coord": 11.636655066172652,
+        "y_coord": 55.645623995933995,
+        "model": "V 47-660",
+        "capacity_kw": 660.0,
+        "kommune": "Holbæk"
+    },
+    {
+        "x_coord": 11.636708313788628,
+        "y_coord": 55.6468061524804,
+        "model": "V 47-660",
+        "capacity_kw": 660.0,
+        "kommune": "Holbæk"
+    },
+    {
+        "x_coord": 11.636609174672294,
+        "y_coord": 55.644423523443464,
+        "model": "V 47-660",
+        "capacity_kw": 660.0,
+        "kommune": "Holbæk"
+    },
+    {
+        "x_coord": 11.567561466642811,
+        "y_coord": 55.76274210684632,
+        "model": "NM 2000",
+        "capacity_kw": 2000.0,
+        "kommune": "Holbæk"
+    },
+    {
+        "x_coord": 11.57596003058972,
+        "y_coord": 55.765997319989836,
+        "model": "NM 2000",
+        "capacity_kw": 2000.0,
+        "kommune": "Holbæk"
+    },
+    {
+        "x_coord": 11.575731507789603,
+        "y_coord": 55.76420807283562,
+        "model": "NM 2000",
+        "capacity_kw": 2000.0,
+        "kommune": "Holbæk"
+    },
+    {
+        "x_coord": 11.455368955499793,
+        "y_coord": 55.65495265718455,
+        "model": "V 47-660",
+        "capacity_kw": 660.0,
+        "kommune": "Holbæk"
+    },
+    {
+        "x_coord": 11.457833050717863,
+        "y_coord": 55.65396221666618,
+        "model": "V 47-660",
+        "capacity_kw": 660.0,
+        "kommune": "Holbæk"
+    },
+    {
+        "x_coord": 11.46027888060836,
+        "y_coord": 55.65298665283512,
+        "model": "V 47-660",
+        "capacity_kw": 660.0,
+        "kommune": "Holbæk"
+    },
+    {
+        "x_coord": 11.517096232122588,
+        "y_coord": 55.64644453349742,
+        "model": "NM 52/900",
+        "capacity_kw": 900.0,
+        "kommune": "Holbæk"
+    },
+    {
+        "x_coord": 11.520290686549341,
+        "y_coord": 55.647640663005646,
+        "model": "NM 52/900",
+        "capacity_kw": 900.0,
+        "kommune": "Holbæk"
+    },
+    {
+        "x_coord": 11.523476186695072,
+        "y_coord": 55.648810648652265,
+        "model": "NM 52/900",
+        "capacity_kw": 900.0,
+        "kommune": "Holbæk"
+    },
+    {
+        "x_coord": 11.626311053442782,
+        "y_coord": 55.65935121450705,
+        "model": "V 47-660",
+        "capacity_kw": 660.0,
+        "kommune": "Holbæk"
+    },
+    {
+        "x_coord": 11.625872153911779,
+        "y_coord": 55.658047336306396,
+        "model": "V 47-660",
+        "capacity_kw": 660.0,
+        "kommune": "Holbæk"
+    },
+    {
+        "x_coord": 11.625422060555474,
+        "y_coord": 55.656744415360876,
+        "model": "V 47-660",
+        "capacity_kw": 660.0,
+        "kommune": "Holbæk"
+    },
+    {
+        "x_coord": 11.802259807224678,
+        "y_coord": 55.59129813207691,
+        "model": "V 47-660",
+        "capacity_kw": 660.0,
+        "kommune": "Holbæk"
+    },
+    {
+        "x_coord": 11.80061417001296,
+        "y_coord": 55.5895584562719,
+        "model": "V 47-660",
+        "capacity_kw": 660.0,
+        "kommune": "Holbæk"
+    },
+    {
+        "x_coord": 11.799023457702287,
+        "y_coord": 55.58779449211793,
+        "model": "V 47-660",
+        "capacity_kw": 660.0,
+        "kommune": "Holbæk"
+    },
+    {
+        "x_coord": 11.779003410475957,
+        "y_coord": 55.59674981450351,
+        "model": "V 47-660",
+        "capacity_kw": 660.0,
+        "kommune": "Holbæk"
+    },
+    {
+        "x_coord": 11.777465616269286,
+        "y_coord": 55.59497251404291,
+        "model": "V 47-660",
+        "capacity_kw": 660.0,
+        "kommune": "Holbæk"
+    },
+    {
+        "x_coord": 11.775931785962081,
+        "y_coord": 55.59319312809289,
+        "model": "V 47-660",
+        "capacity_kw": 660.0,
+        "kommune": "Holbæk"
+    },
+    {
+        "x_coord": 11.49590409671699,
+        "y_coord": 55.69299401566183,
+        "model": "SWT 2.3-93",
+        "capacity_kw": 2300.0,
+        "kommune": "Holbæk"
+    },
+    {
+        "x_coord": 11.500726089542937,
+        "y_coord": 55.692052640895206,
+        "model": "SWT 2.3-93",
+        "capacity_kw": 2300.0,
+        "kommune": "Holbæk"
+    },
+    {
+        "x_coord": 11.534056611361276,
+        "y_coord": 55.76066273010672,
+        "model": "SWT 2.3-93",
+        "capacity_kw": 2300.0,
+        "kommune": "Holbæk"
+    },
+    {
+        "x_coord": 11.540934427618367,
+        "y_coord": 55.760637322904394,
+        "model": "SWT 2.3-93",
+        "capacity_kw": 2300.0,
+        "kommune": "Holbæk"
+    },
+    {
+        "x_coord": 11.547879215798206,
+        "y_coord": 55.76059746728914,
+        "model": "SWT 2.3-93",
+        "capacity_kw": 2300.0,
+        "kommune": "Holbæk"
+    },
+    {
+        "x_coord": 11.55481865719557,
+        "y_coord": 55.76056604876471,
+        "model": "SWT 2.3-93",
+        "capacity_kw": 2300.0,
+        "kommune": "Holbæk"
+    },
+    {
+        "x_coord": 11.561769473234365,
+        "y_coord": 55.760528158038404,
+        "model": "SWT 2.3-93",
+        "capacity_kw": 2300.0,
+        "kommune": "Holbæk"
+    },
+    {
+        "x_coord": 11.585551202603085,
+        "y_coord": 55.76551717493472,
+        "model": "SWT 2.3-93",
+        "capacity_kw": 2300.0,
+        "kommune": "Holbæk"
+    },
+    {
+        "x_coord": 11.59144870646008,
+        "y_coord": 55.76548108239161,
+        "model": "SWT 2.3-93",
+        "capacity_kw": 2300.0,
+        "kommune": "Holbæk"
+    },
+    {
+        "x_coord": 11.597343732854192,
+        "y_coord": 55.765446107101205,
+        "model": "SWT 2.3-93",
+        "capacity_kw": 2300.0,
+        "kommune": "Holbæk"
+    },
+    {
+        "x_coord": 11.585496930948985,
+        "y_coord": 55.76237166117795,
+        "model": "SWT 2.3-93",
+        "capacity_kw": 2300.0,
+        "kommune": "Holbæk"
+    },
+    {
+        "x_coord": 11.591391078150698,
+        "y_coord": 55.76233779394623,
+        "model": "SWT 2.3-93",
+        "capacity_kw": 2300.0,
+        "kommune": "Holbæk"
+    },
+    {
+        "x_coord": 11.776911415267476,
+        "y_coord": 55.69306489962788,
+        "model": "Gaia Wind 133-10 kW",
+        "capacity_kw": 10.0,
+        "kommune": "Holbæk"
+    }
+]

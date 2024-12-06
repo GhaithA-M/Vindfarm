@@ -1,0 +1,51 @@
+[
+    {
+        "x_coord": 12.491974627937152,
+        "y_coord": 55.60216435900082,
+        "model": "V 47",
+        "capacity_kw": 660.0,
+        "kommune": "Hvidovre"
+    },
+    {
+        "x_coord": 12.493066319205528,
+        "y_coord": 55.60346003083807,
+        "model": "V 47",
+        "capacity_kw": 660.0,
+        "kommune": "Hvidovre"
+    },
+    {
+        "x_coord": 12.49416130833357,
+        "y_coord": 55.60475622919868,
+        "model": "V 47",
+        "capacity_kw": 660.0,
+        "kommune": "Hvidovre"
+    },
+    {
+        "x_coord": 12.461089601255619,
+        "y_coord": 55.602260687219434,
+        "model": "SWT 3.6",
+        "capacity_kw": 3600.0,
+        "kommune": "Hvidovre"
+    },
+    {
+        "x_coord": 12.468334579757457,
+        "y_coord": 55.60172686532704,
+        "model": "SWT 3.6",
+        "capacity_kw": 3600.0,
+        "kommune": "Hvidovre"
+    },
+    {
+        "x_coord": 12.454080120616313,
+        "y_coord": 55.60270408656368,
+        "model": "SWT 3.6-120",
+        "capacity_kw": 3600.0,
+        "kommune": "Hvidovre"
+    },
+    {
+        "x_coord": 12.468491183270231,
+        "y_coord": 55.60728582594723,
+        "model": "Viking 25",
+        "capacity_kw": 25.0,
+        "kommune": "Hvidovre"
+    }
+]

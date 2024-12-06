@@ -1,0 +1,429 @@
+[
+    {
+        "x_coord": 9.076261835530559,
+        "y_coord": 55.24316487323662,
+        "model": "WW 2320-160",
+        "capacity_kw": 160.0,
+        "kommune": "Haderslev"
+    },
+    {
+        "x_coord": 9.057663706556486,
+        "y_coord": 55.23991538130995,
+        "model": "WW 2320-180",
+        "capacity_kw": 180.0,
+        "kommune": "Haderslev"
+    },
+    {
+        "x_coord": 9.057445179297439,
+        "y_coord": 55.240948163076794,
+        "model": "WW 2320-180",
+        "capacity_kw": 180.0,
+        "kommune": "Haderslev"
+    },
+    {
+        "x_coord": 9.067059082961627,
+        "y_coord": 55.25184730182961,
+        "model": "Ukendt",
+        "capacity_kw": 600.0,
+        "kommune": "Haderslev"
+    },
+    {
+        "x_coord": 9.064615440769245,
+        "y_coord": 55.24839941345549,
+        "model": "NM 1800-600/150",
+        "capacity_kw": 600.0,
+        "kommune": "Haderslev"
+    },
+    {
+        "x_coord": 9.063392208149281,
+        "y_coord": 55.24667715831677,
+        "model": "NM 1800-600/150",
+        "capacity_kw": 600.0,
+        "kommune": "Haderslev"
+    },
+    {
+        "x_coord": 9.066390063806955,
+        "y_coord": 55.24592280256302,
+        "model": "NM 1800",
+        "capacity_kw": 600.0,
+        "kommune": "Haderslev"
+    },
+    {
+        "x_coord": 9.067645108019388,
+        "y_coord": 55.24769712940429,
+        "model": "NM 1800-600/150",
+        "capacity_kw": 600.0,
+        "kommune": "Haderslev"
+    },
+    {
+        "x_coord": 9.0688684016286,
+        "y_coord": 55.24942113887222,
+        "model": "NM 1800-600/150",
+        "capacity_kw": 600.0,
+        "kommune": "Haderslev"
+    },
+    {
+        "x_coord": 9.070085976407425,
+        "y_coord": 55.251142712671786,
+        "model": "NM 1800-600/150",
+        "capacity_kw": 600.0,
+        "kommune": "Haderslev"
+    },
+    {
+        "x_coord": 9.093451372897762,
+        "y_coord": 55.26414541223743,
+        "model": "NM 600",
+        "capacity_kw": 600.0,
+        "kommune": "Haderslev"
+    },
+    {
+        "x_coord": 9.093066399871477,
+        "y_coord": 55.265800753729124,
+        "model": "NM 600",
+        "capacity_kw": 600.0,
+        "kommune": "Haderslev"
+    },
+    {
+        "x_coord": 9.065833427658163,
+        "y_coord": 55.25011977163427,
+        "model": "NM 1800-600/150",
+        "capacity_kw": 600.0,
+        "kommune": "Haderslev"
+    },
+    {
+        "x_coord": 9.319301496713747,
+        "y_coord": 55.26714466561265,
+        "model": "N 50/800",
+        "capacity_kw": 800.0,
+        "kommune": "Haderslev"
+    },
+    {
+        "x_coord": 9.109230874762721,
+        "y_coord": 55.3328815644758,
+        "model": "V 47-660",
+        "capacity_kw": 660.0,
+        "kommune": "Haderslev"
+    },
+    {
+        "x_coord": 9.110935395168156,
+        "y_coord": 55.331250968920045,
+        "model": "V 47-660",
+        "capacity_kw": 660.0,
+        "kommune": "Haderslev"
+    },
+    {
+        "x_coord": 9.107877932256581,
+        "y_coord": 55.33138615892032,
+        "model": "V 47",
+        "capacity_kw": 660.0,
+        "kommune": "Haderslev"
+    },
+    {
+        "x_coord": 8.96995786414502,
+        "y_coord": 55.2325603214077,
+        "model": "V 47-660",
+        "capacity_kw": 660.0,
+        "kommune": "Haderslev"
+    },
+    {
+        "x_coord": 8.971142544871645,
+        "y_coord": 55.234225457466934,
+        "model": "N 50/800",
+        "capacity_kw": 800.0,
+        "kommune": "Haderslev"
+    },
+    {
+        "x_coord": 8.972762928454637,
+        "y_coord": 55.233101132702735,
+        "model": "Ukendt",
+        "capacity_kw": 800.0,
+        "kommune": "Haderslev"
+    },
+    {
+        "x_coord": 9.090926516556172,
+        "y_coord": 55.264706968796915,
+        "model": "NM 600/43",
+        "capacity_kw": 600.0,
+        "kommune": "Haderslev"
+    },
+    {
+        "x_coord": 9.322759753693585,
+        "y_coord": 55.26919473158347,
+        "model": "N 50/800",
+        "capacity_kw": 800.0,
+        "kommune": "Haderslev"
+    },
+    {
+        "x_coord": 9.272225455882088,
+        "y_coord": 55.346870180088224,
+        "model": "1 MW",
+        "capacity_kw": 1000.0,
+        "kommune": "Haderslev"
+    },
+    {
+        "x_coord": 9.460175942043179,
+        "y_coord": 55.19908137601274,
+        "model": "N 60/1300",
+        "capacity_kw": 1300.0,
+        "kommune": "Haderslev"
+    },
+    {
+        "x_coord": 9.463603475657452,
+        "y_coord": 55.20140068333121,
+        "model": "N 60/1300",
+        "capacity_kw": 1300.0,
+        "kommune": "Haderslev"
+    },
+    {
+        "x_coord": 9.282556696059032,
+        "y_coord": 55.30208739474904,
+        "model": "1 MW",
+        "capacity_kw": 1000.0,
+        "kommune": "Haderslev"
+    },
+    {
+        "x_coord": 9.282739771795427,
+        "y_coord": 55.29846138393323,
+        "model": "1 MW",
+        "capacity_kw": 1000.0,
+        "kommune": "Haderslev"
+    },
+    {
+        "x_coord": 9.282919653490186,
+        "y_coord": 55.29483367069563,
+        "model": "1 MW",
+        "capacity_kw": 1000.0,
+        "kommune": "Haderslev"
+    },
+    {
+        "x_coord": 9.28310883181844,
+        "y_coord": 55.29121123519741,
+        "model": "1 MW",
+        "capacity_kw": 1000.0,
+        "kommune": "Haderslev"
+    },
+    {
+        "x_coord": 9.365334100043448,
+        "y_coord": 55.275243444244936,
+        "model": "V 47-660",
+        "capacity_kw": 660.0,
+        "kommune": "Haderslev"
+    },
+    {
+        "x_coord": 9.24697468284249,
+        "y_coord": 55.33598629866878,
+        "model": "1 MW",
+        "capacity_kw": 1000.0,
+        "kommune": "Haderslev"
+    },
+    {
+        "x_coord": 9.391636059376266,
+        "y_coord": 55.29583896072826,
+        "model": "V 47-660",
+        "capacity_kw": 660.0,
+        "kommune": "Haderslev"
+    },
+    {
+        "x_coord": 9.610027507144697,
+        "y_coord": 55.338754894101456,
+        "model": "NM 52/900 44",
+        "capacity_kw": 900.0,
+        "kommune": "Haderslev"
+    },
+    {
+        "x_coord": 9.601682483099937,
+        "y_coord": 55.33621482867571,
+        "model": "NM 52/900 44",
+        "capacity_kw": 900.0,
+        "kommune": "Haderslev"
+    },
+    {
+        "x_coord": 9.554717679618923,
+        "y_coord": 55.21031928761734,
+        "model": "N 50/800",
+        "capacity_kw": 800.0,
+        "kommune": "Haderslev"
+    },
+    {
+        "x_coord": 9.558157564405285,
+        "y_coord": 55.21041844334795,
+        "model": "N 50/800",
+        "capacity_kw": 800.0,
+        "kommune": "Haderslev"
+    },
+    {
+        "x_coord": 9.561600538917297,
+        "y_coord": 55.21051254546294,
+        "model": "N 50/800",
+        "capacity_kw": 800.0,
+        "kommune": "Haderslev"
+    },
+    {
+        "x_coord": 9.388213083796156,
+        "y_coord": 55.318425601755024,
+        "model": "V 44-600",
+        "capacity_kw": 600.0,
+        "kommune": "Haderslev"
+    },
+    {
+        "x_coord": 9.352922018002651,
+        "y_coord": 55.2707832259268,
+        "model": "M 1800",
+        "capacity_kw": 600.0,
+        "kommune": "Haderslev"
+    },
+    {
+        "x_coord": 9.306163082172958,
+        "y_coord": 55.30831002591184,
+        "model": "V 47-660",
+        "capacity_kw": 660.0,
+        "kommune": "Haderslev"
+    },
+    {
+        "x_coord": 9.635630677176112,
+        "y_coord": 55.18423716736837,
+        "model": "150 kW",
+        "capacity_kw": 150.0,
+        "kommune": "Haderslev"
+    },
+    {
+        "x_coord": 9.461291564586904,
+        "y_coord": 55.16293121453439,
+        "model": "Ukendt",
+        "capacity_kw": 150.0,
+        "kommune": "Haderslev"
+    },
+    {
+        "x_coord": 9.548042146856247,
+        "y_coord": 55.215797819004635,
+        "model": "Ukendt",
+        "capacity_kw": 11.0,
+        "kommune": "Haderslev"
+    },
+    {
+        "x_coord": 9.37194019741664,
+        "y_coord": 55.26812161886749,
+        "model": "V 47-660",
+        "capacity_kw": 660.0,
+        "kommune": "Haderslev"
+    },
+    {
+        "x_coord": 9.352409560434198,
+        "y_coord": 55.272987822651764,
+        "model": "Ukendt",
+        "capacity_kw": 600.0,
+        "kommune": "Haderslev"
+    },
+    {
+        "x_coord": 9.355843230235616,
+        "y_coord": 55.31077857897349,
+        "model": "1 MW",
+        "capacity_kw": 1000.0,
+        "kommune": "Haderslev"
+    },
+    {
+        "x_coord": 9.345671247590856,
+        "y_coord": 55.31303640562563,
+        "model": "1 MW",
+        "capacity_kw": 1000.0,
+        "kommune": "Haderslev"
+    },
+    {
+        "x_coord": 9.328766331268518,
+        "y_coord": 55.30120705563921,
+        "model": "1 MW",
+        "capacity_kw": 1000.0,
+        "kommune": "Haderslev"
+    },
+    {
+        "x_coord": 9.316005220212066,
+        "y_coord": 55.29903017279204,
+        "model": "1 MW",
+        "capacity_kw": 1000.0,
+        "kommune": "Haderslev"
+    },
+    {
+        "x_coord": 9.338204841502312,
+        "y_coord": 55.300823194575024,
+        "model": "1 MW",
+        "capacity_kw": 1000.0,
+        "kommune": "Haderslev"
+    },
+    {
+        "x_coord": 9.391658836289132,
+        "y_coord": 55.31343616625436,
+        "model": "V 47-660",
+        "capacity_kw": 660.0,
+        "kommune": "Haderslev"
+    },
+    {
+        "x_coord": 9.281677632037429,
+        "y_coord": 55.338519594428384,
+        "model": "NM 48/750",
+        "capacity_kw": 750.0,
+        "kommune": "Haderslev"
+    },
+    {
+        "x_coord": 9.376732961473977,
+        "y_coord": 55.30874674804611,
+        "model": "V 47-660",
+        "capacity_kw": 660.0,
+        "kommune": "Haderslev"
+    },
+    {
+        "x_coord": 9.353456133337579,
+        "y_coord": 55.268578114170566,
+        "model": "W 600/45",
+        "capacity_kw": 600.0,
+        "kommune": "Haderslev"
+    },
+    {
+        "x_coord": 9.63108078319409,
+        "y_coord": 55.2345448072618,
+        "model": "N 50/800",
+        "capacity_kw": 800.0,
+        "kommune": "Haderslev"
+    },
+    {
+        "x_coord": 9.626644954863899,
+        "y_coord": 55.23202455202226,
+        "model": "N 50/800",
+        "capacity_kw": 800.0,
+        "kommune": "Haderslev"
+    },
+    {
+        "x_coord": 9.62216959153012,
+        "y_coord": 55.22951404273327,
+        "model": "N 50/800",
+        "capacity_kw": 800.0,
+        "kommune": "Haderslev"
+    },
+    {
+        "x_coord": 9.46387990150571,
+        "y_coord": 55.195620498681784,
+        "model": "Viking 25",
+        "capacity_kw": 25.0,
+        "kommune": "Haderslev"
+    },
+    {
+        "x_coord": 8.963155380121409,
+        "y_coord": 55.23637771853405,
+        "model": "Ukendt",
+        "capacity_kw": 10.0,
+        "kommune": "Haderslev"
+    },
+    {
+        "x_coord": 9.588453376878377,
+        "y_coord": 55.34657522920252,
+        "model": "Viking 25",
+        "capacity_kw": 25.0,
+        "kommune": "Haderslev"
+    },
+    {
+        "x_coord": 9.265271834500128,
+        "y_coord": 55.35471320735802,
+        "model": "Gaia Wind 133-10 kW",
+        "capacity_kw": 10.0,
+        "kommune": "Haderslev"
+    }
+]

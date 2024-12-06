@@ -1,0 +1,30 @@
+[
+    {
+        "x_coord": 9.660381738909022,
+        "y_coord": 55.57239543765547,
+        "model": "NM 750-200",
+        "capacity_kw": 750.0,
+        "kommune": "Fredericia"
+    },
+    {
+        "x_coord": 9.774064373334678,
+        "y_coord": 55.610411426258445,
+        "model": "300 COMBI",
+        "capacity_kw": 300.0,
+        "kommune": "Fredericia"
+    },
+    {
+        "x_coord": 9.693500048351886,
+        "y_coord": 55.58710149593305,
+        "model": "NM 1800-600/150",
+        "capacity_kw": 600.0,
+        "kommune": "Fredericia"
+    },
+    {
+        "x_coord": 9.688800316507853,
+        "y_coord": 55.58662900572342,
+        "model": "NM 1800-600/150",
+        "capacity_kw": 600.0,
+        "kommune": "Fredericia"
+    }
+]

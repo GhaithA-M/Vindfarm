@@ -1,0 +1,23 @@
+[
+    {
+        "x_coord": 12.17488027060889,
+        "y_coord": 55.545610489194395,
+        "model": "Ukendt",
+        "capacity_kw": 300.0,
+        "kommune": "Solrød"
+    },
+    {
+        "x_coord": 12.177920849406762,
+        "y_coord": 55.545796464746175,
+        "model": "Ukendt",
+        "capacity_kw": 300.0,
+        "kommune": "Solrød"
+    },
+    {
+        "x_coord": 12.128877542202419,
+        "y_coord": 55.536037984168054,
+        "model": "Ukendt",
+        "capacity_kw": 11.0,
+        "kommune": "Solrød"
+    }
+]

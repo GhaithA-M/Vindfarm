@@ -1,0 +1,380 @@
+[
+    {
+        "x_coord": 9.741195053070912,
+        "y_coord": 56.3026938287513,
+        "model": "W 99 XT",
+        "capacity_kw": 99.0,
+        "kommune": "Favrskov"
+    },
+    {
+        "x_coord": 9.793016412342816,
+        "y_coord": 56.27787039583188,
+        "model": "NM 48/750",
+        "capacity_kw": 750.0,
+        "kommune": "Favrskov"
+    },
+    {
+        "x_coord": 9.793519915329833,
+        "y_coord": 56.279918145473445,
+        "model": "NM 48/750",
+        "capacity_kw": 750.0,
+        "kommune": "Favrskov"
+    },
+    {
+        "x_coord": 9.860770226240795,
+        "y_coord": 56.332008921964245,
+        "model": "NM 950/48-45",
+        "capacity_kw": 750.0,
+        "kommune": "Favrskov"
+    },
+    {
+        "x_coord": 9.863301803985813,
+        "y_coord": 56.33089551801745,
+        "model": "NM 950/48-45",
+        "capacity_kw": 750.0,
+        "kommune": "Favrskov"
+    },
+    {
+        "x_coord": 9.865815999298157,
+        "y_coord": 56.32978514804136,
+        "model": "NM 950/48-45",
+        "capacity_kw": 750.0,
+        "kommune": "Favrskov"
+    },
+    {
+        "x_coord": 9.799893669912024,
+        "y_coord": 56.243185871931075,
+        "model": "Ukendt",
+        "capacity_kw": 11.0,
+        "kommune": "Favrskov"
+    },
+    {
+        "x_coord": 9.822369182112155,
+        "y_coord": 56.27041373193039,
+        "model": "NM 48/750",
+        "capacity_kw": 750.0,
+        "kommune": "Favrskov"
+    },
+    {
+        "x_coord": 9.822721683391515,
+        "y_coord": 56.27192597489387,
+        "model": "NM 48/750",
+        "capacity_kw": 750.0,
+        "kommune": "Favrskov"
+    },
+    {
+        "x_coord": 9.82307702546883,
+        "y_coord": 56.27344134242086,
+        "model": "NM 750-200/48",
+        "capacity_kw": 750.0,
+        "kommune": "Favrskov"
+    },
+    {
+        "x_coord": 9.907257261360384,
+        "y_coord": 56.22588610978029,
+        "model": "NM 48/750",
+        "capacity_kw": 750.0,
+        "kommune": "Favrskov"
+    },
+    {
+        "x_coord": 9.907689855297647,
+        "y_coord": 56.22411297277463,
+        "model": "NM 48/750",
+        "capacity_kw": 750.0,
+        "kommune": "Favrskov"
+    },
+    {
+        "x_coord": 9.908117218185716,
+        "y_coord": 56.22233169559872,
+        "model": "NM 48/750",
+        "capacity_kw": 750.0,
+        "kommune": "Favrskov"
+    },
+    {
+        "x_coord": 9.919733419900561,
+        "y_coord": 56.21498352383402,
+        "model": "V 47-660",
+        "capacity_kw": 660.0,
+        "kommune": "Favrskov"
+    },
+    {
+        "x_coord": 9.922220208901766,
+        "y_coord": 56.214658438649266,
+        "model": "V 47-660",
+        "capacity_kw": 660.0,
+        "kommune": "Favrskov"
+    },
+    {
+        "x_coord": 9.924704158474762,
+        "y_coord": 56.214330988384404,
+        "model": "V 47-660",
+        "capacity_kw": 660.0,
+        "kommune": "Favrskov"
+    },
+    {
+        "x_coord": 9.927195816280255,
+        "y_coord": 56.2140039693733,
+        "model": "V 47-660",
+        "capacity_kw": 660.0,
+        "kommune": "Favrskov"
+    },
+    {
+        "x_coord": 9.977607894972419,
+        "y_coord": 56.26017076108718,
+        "model": "NM 48/750",
+        "capacity_kw": 750.0,
+        "kommune": "Favrskov"
+    },
+    {
+        "x_coord": 9.979073904284755,
+        "y_coord": 56.25852155587876,
+        "model": "NM 48/750",
+        "capacity_kw": 750.0,
+        "kommune": "Favrskov"
+    },
+    {
+        "x_coord": 9.980526682948364,
+        "y_coord": 56.25687746877608,
+        "model": "NM 48/750",
+        "capacity_kw": 750.0,
+        "kommune": "Favrskov"
+    },
+    {
+        "x_coord": 9.981994334942872,
+        "y_coord": 56.25522650683949,
+        "model": "NM 48/750",
+        "capacity_kw": 750.0,
+        "kommune": "Favrskov"
+    },
+    {
+        "x_coord": 9.983451180456928,
+        "y_coord": 56.253580733875715,
+        "model": "NM 48/750",
+        "capacity_kw": 750.0,
+        "kommune": "Favrskov"
+    },
+    {
+        "x_coord": 9.842438735508976,
+        "y_coord": 56.203278510847895,
+        "model": "V 47-660",
+        "capacity_kw": 660.0,
+        "kommune": "Favrskov"
+    },
+    {
+        "x_coord": 9.84238932283791,
+        "y_coord": 56.205098133270276,
+        "model": "V 47-660",
+        "capacity_kw": 660.0,
+        "kommune": "Favrskov"
+    },
+    {
+        "x_coord": 9.842310219239797,
+        "y_coord": 56.206923977281356,
+        "model": "V 47-660",
+        "capacity_kw": 660.0,
+        "kommune": "Favrskov"
+    },
+    {
+        "x_coord": 10.045266761568216,
+        "y_coord": 56.365177556240944,
+        "model": "W 200/26",
+        "capacity_kw": 200.0,
+        "kommune": "Favrskov"
+    },
+    {
+        "x_coord": 10.044805302826099,
+        "y_coord": 56.36649334397871,
+        "model": "W 200/26",
+        "capacity_kw": 200.0,
+        "kommune": "Favrskov"
+    },
+    {
+        "x_coord": 10.055717593489781,
+        "y_coord": 56.29130726394104,
+        "model": "B-118-1",
+        "capacity_kw": 500.0,
+        "kommune": "Favrskov"
+    },
+    {
+        "x_coord": 10.052070313251212,
+        "y_coord": 56.2920517205224,
+        "model": "B-118-1",
+        "capacity_kw": 500.0,
+        "kommune": "Favrskov"
+    },
+    {
+        "x_coord": 10.150838293977074,
+        "y_coord": 56.320090006222216,
+        "model": "M 600/48",
+        "capacity_kw": 600.0,
+        "kommune": "Favrskov"
+    },
+    {
+        "x_coord": 10.150064319582029,
+        "y_coord": 56.31834858909796,
+        "model": "M 600/48",
+        "capacity_kw": 600.0,
+        "kommune": "Favrskov"
+    },
+    {
+        "x_coord": 10.14928999084317,
+        "y_coord": 56.316603755947995,
+        "model": "M 600/48",
+        "capacity_kw": 600.0,
+        "kommune": "Favrskov"
+    },
+    {
+        "x_coord": 10.044807835009703,
+        "y_coord": 56.29354156593354,
+        "model": "M 48/750",
+        "capacity_kw": 750.0,
+        "kommune": "Favrskov"
+    },
+    {
+        "x_coord": 10.048448197855228,
+        "y_coord": 56.292799809310935,
+        "model": "NM 48/750",
+        "capacity_kw": 750.0,
+        "kommune": "Favrskov"
+    },
+    {
+        "x_coord": 9.943346431125589,
+        "y_coord": 56.35883709629361,
+        "model": "NM 48/750",
+        "capacity_kw": 750.0,
+        "kommune": "Favrskov"
+    },
+    {
+        "x_coord": 9.943448139334038,
+        "y_coord": 56.36062889727106,
+        "model": "NM 750-200/48 IEC ll",
+        "capacity_kw": 750.0,
+        "kommune": "Favrskov"
+    },
+    {
+        "x_coord": 9.943550995444467,
+        "y_coord": 56.36242742762446,
+        "model": "NM 48/750",
+        "capacity_kw": 750.0,
+        "kommune": "Favrskov"
+    },
+    {
+        "x_coord": 9.943648722973965,
+        "y_coord": 56.36422105477515,
+        "model": "NM 48/750",
+        "capacity_kw": 750.0,
+        "kommune": "Favrskov"
+    },
+    {
+        "x_coord": 9.943746784305162,
+        "y_coord": 56.366014678838255,
+        "model": "NM 48/750",
+        "capacity_kw": 750.0,
+        "kommune": "Favrskov"
+    },
+    {
+        "x_coord": 10.099810213703586,
+        "y_coord": 56.35974834334832,
+        "model": "NM 52/900 49",
+        "capacity_kw": 900.0,
+        "kommune": "Favrskov"
+    },
+    {
+        "x_coord": 10.099052653682849,
+        "y_coord": 56.36172054302126,
+        "model": "NM 52/900 49",
+        "capacity_kw": 900.0,
+        "kommune": "Favrskov"
+    },
+    {
+        "x_coord": 10.097532520488445,
+        "y_coord": 56.36567314626759,
+        "model": "NM 52/900",
+        "capacity_kw": 900.0,
+        "kommune": "Favrskov"
+    },
+    {
+        "x_coord": 10.098289985257617,
+        "y_coord": 56.36369790380602,
+        "model": "NM 52/900",
+        "capacity_kw": 900.0,
+        "kommune": "Favrskov"
+    },
+    {
+        "x_coord": 10.088180656396347,
+        "y_coord": 56.253057367255984,
+        "model": "V 29-225",
+        "capacity_kw": 225.0,
+        "kommune": "Favrskov"
+    },
+    {
+        "x_coord": 10.16435745095701,
+        "y_coord": 56.30979504490891,
+        "model": "NM 1800",
+        "capacity_kw": 600.0,
+        "kommune": "Favrskov"
+    },
+    {
+        "x_coord": 10.163675150342018,
+        "y_coord": 56.30817396670002,
+        "model": "NM 1800",
+        "capacity_kw": 600.0,
+        "kommune": "Favrskov"
+    },
+    {
+        "x_coord": 10.162996518467729,
+        "y_coord": 56.3065493459456,
+        "model": "NM 1800",
+        "capacity_kw": 600.0,
+        "kommune": "Favrskov"
+    },
+    {
+        "x_coord": 9.84224977767389,
+        "y_coord": 56.208748345858666,
+        "model": "V 47-660",
+        "capacity_kw": 660.0,
+        "kommune": "Favrskov"
+    },
+    {
+        "x_coord": 9.792477640280252,
+        "y_coord": 56.27584038990691,
+        "model": "NM 48/750",
+        "capacity_kw": 750.0,
+        "kommune": "Favrskov"
+    },
+    {
+        "x_coord": 10.107562038733086,
+        "y_coord": 56.261513671055425,
+        "model": "NM 52/900",
+        "capacity_kw": 900.0,
+        "kommune": "Favrskov"
+    },
+    {
+        "x_coord": 10.109067989276666,
+        "y_coord": 56.260174689326796,
+        "model": "NM 52/900",
+        "capacity_kw": 900.0,
+        "kommune": "Favrskov"
+    },
+    {
+        "x_coord": 10.110568904792853,
+        "y_coord": 56.2588382495074,
+        "model": "NM 52/900",
+        "capacity_kw": 900.0,
+        "kommune": "Favrskov"
+    },
+    {
+        "x_coord": 9.789292764461146,
+        "y_coord": 56.41489525112495,
+        "model": "Ukendt",
+        "capacity_kw": 11.0,
+        "kommune": "Favrskov"
+    },
+    {
+        "x_coord": 9.788513390696648,
+        "y_coord": 56.2936098876273,
+        "model": "Ukendt",
+        "capacity_kw": 11.0,
+        "kommune": "Favrskov"
+    }
+]

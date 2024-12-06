@@ -1,0 +1,814 @@
+[
+    {
+        "x_coord": 8.860900974755765,
+        "y_coord": 56.90489677770147,
+        "model": "V 27-225",
+        "capacity_kw": 225.0,
+        "kommune": "Morsø"
+    },
+    {
+        "x_coord": 8.59109944140444,
+        "y_coord": 56.789970771562565,
+        "model": "V 29-225",
+        "capacity_kw": 225.0,
+        "kommune": "Morsø"
+    },
+    {
+        "x_coord": 8.70420487866337,
+        "y_coord": 56.875800903168816,
+        "model": "V 27-225",
+        "capacity_kw": 225.0,
+        "kommune": "Morsø"
+    },
+    {
+        "x_coord": 8.700306331239394,
+        "y_coord": 56.870439111520795,
+        "model": "V 25-200",
+        "capacity_kw": 200.0,
+        "kommune": "Morsø"
+    },
+    {
+        "x_coord": 8.76082327973888,
+        "y_coord": 56.80700391130619,
+        "model": "Ukendt",
+        "capacity_kw": 200.0,
+        "kommune": "Morsø"
+    },
+    {
+        "x_coord": 8.760653718304365,
+        "y_coord": 56.80611401040043,
+        "model": "Ukendt",
+        "capacity_kw": 200.0,
+        "kommune": "Morsø"
+    },
+    {
+        "x_coord": 8.76048581962107,
+        "y_coord": 56.80522141717827,
+        "model": "Ukendt",
+        "capacity_kw": 200.0,
+        "kommune": "Morsø"
+    },
+    {
+        "x_coord": 8.75037773675825,
+        "y_coord": 56.816843351775894,
+        "model": "V 27-225",
+        "capacity_kw": 225.0,
+        "kommune": "Morsø"
+    },
+    {
+        "x_coord": 8.672850877806331,
+        "y_coord": 56.79572905307977,
+        "model": "V 20-100",
+        "capacity_kw": 100.0,
+        "kommune": "Morsø"
+    },
+    {
+        "x_coord": 8.620610960885873,
+        "y_coord": 56.73838504764366,
+        "model": "V 27-225",
+        "capacity_kw": 225.0,
+        "kommune": "Morsø"
+    },
+    {
+        "x_coord": 8.620499148842786,
+        "y_coord": 56.73945541391607,
+        "model": "V 27-225",
+        "capacity_kw": 225.0,
+        "kommune": "Morsø"
+    },
+    {
+        "x_coord": 8.733052702546853,
+        "y_coord": 56.789237171996774,
+        "model": "V 27-225",
+        "capacity_kw": 225.0,
+        "kommune": "Morsø"
+    },
+    {
+        "x_coord": 8.872421188380745,
+        "y_coord": 56.8996861585068,
+        "model": "W 200/26",
+        "capacity_kw": 200.0,
+        "kommune": "Morsø"
+    },
+    {
+        "x_coord": 8.872347317838468,
+        "y_coord": 56.89833620080588,
+        "model": "W 200/26",
+        "capacity_kw": 200.0,
+        "kommune": "Morsø"
+    },
+    {
+        "x_coord": 8.76221676822233,
+        "y_coord": 56.79828886912119,
+        "model": "V 39-500",
+        "capacity_kw": 500.0,
+        "kommune": "Morsø"
+    },
+    {
+        "x_coord": 8.762221156129629,
+        "y_coord": 56.79974281734483,
+        "model": "V 39-500",
+        "capacity_kw": 500.0,
+        "kommune": "Morsø"
+    },
+    {
+        "x_coord": 8.620721377319994,
+        "y_coord": 56.73732276240454,
+        "model": "V 27-225",
+        "capacity_kw": 225.0,
+        "kommune": "Morsø"
+    },
+    {
+        "x_coord": 8.743298321107053,
+        "y_coord": 56.74323056812385,
+        "model": "V 44-600",
+        "capacity_kw": 600.0,
+        "kommune": "Morsø"
+    },
+    {
+        "x_coord": 8.737731744397063,
+        "y_coord": 56.7437042040511,
+        "model": "V 44-600",
+        "capacity_kw": 600.0,
+        "kommune": "Morsø"
+    },
+    {
+        "x_coord": 8.740544001182863,
+        "y_coord": 56.743465545879054,
+        "model": "V 44-600",
+        "capacity_kw": 600.0,
+        "kommune": "Morsø"
+    },
+    {
+        "x_coord": 8.644547410656504,
+        "y_coord": 56.78289096372442,
+        "model": "V 47-660",
+        "capacity_kw": 660.0,
+        "kommune": "Morsø"
+    },
+    {
+        "x_coord": 8.644467724972047,
+        "y_coord": 56.781366083599764,
+        "model": "V 47-660",
+        "capacity_kw": 660.0,
+        "kommune": "Morsø"
+    },
+    {
+        "x_coord": 8.706954751105393,
+        "y_coord": 56.70763462706879,
+        "model": "1 MW",
+        "capacity_kw": 1000.0,
+        "kommune": "Morsø"
+    },
+    {
+        "x_coord": 8.708188887299636,
+        "y_coord": 56.71093149041422,
+        "model": "1 MW",
+        "capacity_kw": 1000.0,
+        "kommune": "Morsø"
+    },
+    {
+        "x_coord": 8.761529582618293,
+        "y_coord": 56.75189659868436,
+        "model": "1 MW",
+        "capacity_kw": 1000.0,
+        "kommune": "Morsø"
+    },
+    {
+        "x_coord": 8.761649955909043,
+        "y_coord": 56.75000895625804,
+        "model": "1 MW",
+        "capacity_kw": 1000.0,
+        "kommune": "Morsø"
+    },
+    {
+        "x_coord": 8.673933275841721,
+        "y_coord": 56.69554102304447,
+        "model": "V 47-660",
+        "capacity_kw": 660.0,
+        "kommune": "Morsø"
+    },
+    {
+        "x_coord": 8.676075221094786,
+        "y_coord": 56.69892818157224,
+        "model": "V 47-660",
+        "capacity_kw": 660.0,
+        "kommune": "Morsø"
+    },
+    {
+        "x_coord": 8.67498111412497,
+        "y_coord": 56.69724182389723,
+        "model": "V 47-660",
+        "capacity_kw": 660.0,
+        "kommune": "Morsø"
+    },
+    {
+        "x_coord": 8.801406737152435,
+        "y_coord": 56.85917859705117,
+        "model": "V 47-660",
+        "capacity_kw": 660.0,
+        "kommune": "Morsø"
+    },
+    {
+        "x_coord": 8.802509040052858,
+        "y_coord": 56.86271103300931,
+        "model": "V 47-660",
+        "capacity_kw": 660.0,
+        "kommune": "Morsø"
+    },
+    {
+        "x_coord": 8.800846682080683,
+        "y_coord": 56.85738976635724,
+        "model": "V 47-660",
+        "capacity_kw": 660.0,
+        "kommune": "Morsø"
+    },
+    {
+        "x_coord": 8.801958905466245,
+        "y_coord": 56.86085610398402,
+        "model": "V 47-660",
+        "capacity_kw": 660.0,
+        "kommune": "Morsø"
+    },
+    {
+        "x_coord": 8.76122384220555,
+        "y_coord": 56.75567651853709,
+        "model": "1 MW",
+        "capacity_kw": 1000.0,
+        "kommune": "Morsø"
+    },
+    {
+        "x_coord": 8.761402843053814,
+        "y_coord": 56.753780455025534,
+        "model": "1 MW",
+        "capacity_kw": 1000.0,
+        "kommune": "Morsø"
+    },
+    {
+        "x_coord": 8.707554470859883,
+        "y_coord": 56.70928396313065,
+        "model": "1 MW",
+        "capacity_kw": 1000.0,
+        "kommune": "Morsø"
+    },
+    {
+        "x_coord": 8.743127691324302,
+        "y_coord": 56.72277942131442,
+        "model": "1 MW",
+        "capacity_kw": 1000.0,
+        "kommune": "Morsø"
+    },
+    {
+        "x_coord": 8.74556767485177,
+        "y_coord": 56.72494856297857,
+        "model": "1 MW",
+        "capacity_kw": 1000.0,
+        "kommune": "Morsø"
+    },
+    {
+        "x_coord": 8.747999022586553,
+        "y_coord": 56.72710694747771,
+        "model": "1 MW",
+        "capacity_kw": 1000.0,
+        "kommune": "Morsø"
+    },
+    {
+        "x_coord": 8.709411573916906,
+        "y_coord": 56.714236847555824,
+        "model": "1 MW",
+        "capacity_kw": 1000.0,
+        "kommune": "Morsø"
+    },
+    {
+        "x_coord": 8.70880192956276,
+        "y_coord": 56.712582827116975,
+        "model": "1 MW",
+        "capacity_kw": 1000.0,
+        "kommune": "Morsø"
+    },
+    {
+        "x_coord": 8.835532541933436,
+        "y_coord": 56.89464231232839,
+        "model": "1 MW",
+        "capacity_kw": 1000.0,
+        "kommune": "Morsø"
+    },
+    {
+        "x_coord": 8.837166994358334,
+        "y_coord": 56.89600170301788,
+        "model": "1 MW",
+        "capacity_kw": 1000.0,
+        "kommune": "Morsø"
+    },
+    {
+        "x_coord": 8.838812930576186,
+        "y_coord": 56.89735228277903,
+        "model": "1 MW",
+        "capacity_kw": 1000.0,
+        "kommune": "Morsø"
+    },
+    {
+        "x_coord": 8.729942170240637,
+        "y_coord": 56.704094776767896,
+        "model": "1 MW",
+        "capacity_kw": 1000.0,
+        "kommune": "Morsø"
+    },
+    {
+        "x_coord": 8.729508227343294,
+        "y_coord": 56.705961330416486,
+        "model": "1 MW",
+        "capacity_kw": 1000.0,
+        "kommune": "Morsø"
+    },
+    {
+        "x_coord": 8.770744047183955,
+        "y_coord": 56.85893185575048,
+        "model": "NM 750-200/48",
+        "capacity_kw": 750.0,
+        "kommune": "Morsø"
+    },
+    {
+        "x_coord": 8.672945956126538,
+        "y_coord": 56.83326970277015,
+        "model": "V 47-660",
+        "capacity_kw": 660.0,
+        "kommune": "Morsø"
+    },
+    {
+        "x_coord": 8.67251445663298,
+        "y_coord": 56.8317292892508,
+        "model": "V 47-660",
+        "capacity_kw": 660.0,
+        "kommune": "Morsø"
+    },
+    {
+        "x_coord": 8.661145742274636,
+        "y_coord": 56.84988266656028,
+        "model": "Ukendt",
+        "capacity_kw": 11.0,
+        "kommune": "Morsø"
+    },
+    {
+        "x_coord": 8.770677961493062,
+        "y_coord": 56.860727130922136,
+        "model": "NM 48/750",
+        "capacity_kw": 750.0,
+        "kommune": "Morsø"
+    },
+    {
+        "x_coord": 8.706245006161865,
+        "y_coord": 56.82704784603532,
+        "model": "V 52-850",
+        "capacity_kw": 850.0,
+        "kommune": "Morsø"
+    },
+    {
+        "x_coord": 8.704087223583471,
+        "y_coord": 56.825795710814965,
+        "model": "V 52-850",
+        "capacity_kw": 850.0,
+        "kommune": "Morsø"
+    },
+    {
+        "x_coord": 8.805754939541078,
+        "y_coord": 56.84569493740027,
+        "model": "NM 48/750",
+        "capacity_kw": 750.0,
+        "kommune": "Morsø"
+    },
+    {
+        "x_coord": 8.618019309629346,
+        "y_coord": 56.75440079145106,
+        "model": "NM 48/750",
+        "capacity_kw": 750.0,
+        "kommune": "Morsø"
+    },
+    {
+        "x_coord": 8.617877436062187,
+        "y_coord": 56.75619687177417,
+        "model": "NM 48/750",
+        "capacity_kw": 750.0,
+        "kommune": "Morsø"
+    },
+    {
+        "x_coord": 8.617747368966496,
+        "y_coord": 56.75798858550826,
+        "model": "NM 48/750",
+        "capacity_kw": 750.0,
+        "kommune": "Morsø"
+    },
+    {
+        "x_coord": 8.808699742867905,
+        "y_coord": 56.84492400720016,
+        "model": "NM 48/750",
+        "capacity_kw": 750.0,
+        "kommune": "Morsø"
+    },
+    {
+        "x_coord": 8.811685826990084,
+        "y_coord": 56.84413483284718,
+        "model": "NM 48/750",
+        "capacity_kw": 750.0,
+        "kommune": "Morsø"
+    },
+    {
+        "x_coord": 8.752921109002246,
+        "y_coord": 56.77550776130215,
+        "model": "V 52-850",
+        "capacity_kw": 850.0,
+        "kommune": "Morsø"
+    },
+    {
+        "x_coord": 8.751888349055358,
+        "y_coord": 56.77400738536152,
+        "model": "V 52-850",
+        "capacity_kw": 850.0,
+        "kommune": "Morsø"
+    },
+    {
+        "x_coord": 8.750869368195053,
+        "y_coord": 56.77246471399219,
+        "model": "V 52-850",
+        "capacity_kw": 850.0,
+        "kommune": "Morsø"
+    },
+    {
+        "x_coord": 8.783262766487201,
+        "y_coord": 56.790242842829606,
+        "model": "V 52-850",
+        "capacity_kw": 850.0,
+        "kommune": "Morsø"
+    },
+    {
+        "x_coord": 8.783273507856594,
+        "y_coord": 56.791814939562826,
+        "model": "V 52-850",
+        "capacity_kw": 850.0,
+        "kommune": "Morsø"
+    },
+    {
+        "x_coord": 8.783275249677523,
+        "y_coord": 56.793386391399075,
+        "model": "V 52-850",
+        "capacity_kw": 850.0,
+        "kommune": "Morsø"
+    },
+    {
+        "x_coord": 8.680061015966642,
+        "y_coord": 56.73634307812951,
+        "model": "1 MW - 690 V",
+        "capacity_kw": 1000.0,
+        "kommune": "Morsø"
+    },
+    {
+        "x_coord": 8.679579499530636,
+        "y_coord": 56.734839639066955,
+        "model": "1 MW - 690 V",
+        "capacity_kw": 1000.0,
+        "kommune": "Morsø"
+    },
+    {
+        "x_coord": 8.898537504407155,
+        "y_coord": 56.93131777352929,
+        "model": "V 52",
+        "capacity_kw": 850.0,
+        "kommune": "Morsø"
+    },
+    {
+        "x_coord": 8.897131179716874,
+        "y_coord": 56.92915930402287,
+        "model": "V 52",
+        "capacity_kw": 850.0,
+        "kommune": "Morsø"
+    },
+    {
+        "x_coord": 8.718121817457657,
+        "y_coord": 56.73755271749769,
+        "model": "1300 kW",
+        "capacity_kw": 1300.0,
+        "kommune": "Morsø"
+    },
+    {
+        "x_coord": 8.717260767017905,
+        "y_coord": 56.734905993385944,
+        "model": "1300 kW",
+        "capacity_kw": 1300.0,
+        "kommune": "Morsø"
+    },
+    {
+        "x_coord": 8.62872363855815,
+        "y_coord": 56.770931256208584,
+        "model": "V 66 1,75",
+        "capacity_kw": 1750.0,
+        "kommune": "Morsø"
+    },
+    {
+        "x_coord": 8.628762948469408,
+        "y_coord": 56.77286623444026,
+        "model": "V 66 1,75",
+        "capacity_kw": 1750.0,
+        "kommune": "Morsø"
+    },
+    {
+        "x_coord": 8.628794598719477,
+        "y_coord": 56.77481502444876,
+        "model": "V 66 1,75",
+        "capacity_kw": 1750.0,
+        "kommune": "Morsø"
+    },
+    {
+        "x_coord": 8.813277335506378,
+        "y_coord": 56.87509967154146,
+        "model": "V 66 1,75",
+        "capacity_kw": 1750.0,
+        "kommune": "Morsø"
+    },
+    {
+        "x_coord": 8.81521328964209,
+        "y_coord": 56.87723312084015,
+        "model": "V 66 1,75",
+        "capacity_kw": 1750.0,
+        "kommune": "Morsø"
+    },
+    {
+        "x_coord": 8.699542852619492,
+        "y_coord": 56.778764959237186,
+        "model": "V 52-850",
+        "capacity_kw": 850.0,
+        "kommune": "Morsø"
+    },
+    {
+        "x_coord": 8.699204505651268,
+        "y_coord": 56.78053549098339,
+        "model": "V 52-850",
+        "capacity_kw": 850.0,
+        "kommune": "Morsø"
+    },
+    {
+        "x_coord": 8.71315255136801,
+        "y_coord": 56.87310392243643,
+        "model": "Viking 25",
+        "capacity_kw": 25.0,
+        "kommune": "Morsø"
+    },
+    {
+        "x_coord": 8.7095687359572,
+        "y_coord": 56.73053865632264,
+        "model": "Viking 25",
+        "capacity_kw": 25.0,
+        "kommune": "Morsø"
+    },
+    {
+        "x_coord": 8.669656991712174,
+        "y_coord": 56.76557860195009,
+        "model": "SWT 3.0-101",
+        "capacity_kw": 3000.0,
+        "kommune": "Morsø"
+    },
+    {
+        "x_coord": 8.666716232196528,
+        "y_coord": 56.76274507575974,
+        "model": "SWT 3.0-101",
+        "capacity_kw": 3000.0,
+        "kommune": "Morsø"
+    },
+    {
+        "x_coord": 8.662675517812435,
+        "y_coord": 56.760342430387865,
+        "model": "SWT 3.0-101",
+        "capacity_kw": 3000.0,
+        "kommune": "Morsø"
+    },
+    {
+        "x_coord": 8.657446860772275,
+        "y_coord": 56.758377864139675,
+        "model": "SWT 3.0-101",
+        "capacity_kw": 3000.0,
+        "kommune": "Morsø"
+    },
+    {
+        "x_coord": 8.651479588359619,
+        "y_coord": 56.75714616837985,
+        "model": "SWT 3.0-101",
+        "capacity_kw": 3000.0,
+        "kommune": "Morsø"
+    },
+    {
+        "x_coord": 8.645152777541249,
+        "y_coord": 56.75672548888538,
+        "model": "SWT 3.0-101",
+        "capacity_kw": 3000.0,
+        "kommune": "Morsø"
+    },
+    {
+        "x_coord": 8.781665379704853,
+        "y_coord": 56.86032835725183,
+        "model": "Ukendt",
+        "capacity_kw": 10.0,
+        "kommune": "Morsø"
+    },
+    {
+        "x_coord": 8.907896752697233,
+        "y_coord": 56.917705067386706,
+        "model": "Ukendt",
+        "capacity_kw": 10.0,
+        "kommune": "Morsø"
+    },
+    {
+        "x_coord": 8.710797322936077,
+        "y_coord": 56.859652277911394,
+        "model": "Ukendt",
+        "capacity_kw": 10.0,
+        "kommune": "Morsø"
+    },
+    {
+        "x_coord": 8.669568518478833,
+        "y_coord": 56.8544954882554,
+        "model": "SWP25-14TG20",
+        "capacity_kw": 25.0,
+        "kommune": "Morsø"
+    },
+    {
+        "x_coord": 8.755227054395494,
+        "y_coord": 56.81734508656598,
+        "model": "Ukendt",
+        "capacity_kw": 10.0,
+        "kommune": "Morsø"
+    },
+    {
+        "x_coord": 8.562758055131118,
+        "y_coord": 56.774319488354486,
+        "model": "Ukendt",
+        "capacity_kw": 10.0,
+        "kommune": "Morsø"
+    },
+    {
+        "x_coord": 8.775966844035265,
+        "y_coord": 56.79960932679342,
+        "model": "Ukendt",
+        "capacity_kw": 10.0,
+        "kommune": "Morsø"
+    },
+    {
+        "x_coord": 8.70906713620433,
+        "y_coord": 56.77041951614414,
+        "model": "Ukendt",
+        "capacity_kw": 10.0,
+        "kommune": "Morsø"
+    },
+    {
+        "x_coord": 8.749542320726778,
+        "y_coord": 56.741395369007456,
+        "model": "Gaia Wind 133-10 kW",
+        "capacity_kw": 10.0,
+        "kommune": "Morsø"
+    },
+    {
+        "x_coord": 8.716643378856174,
+        "y_coord": 56.81147879767766,
+        "model": "Gaia Wind 133-10 kW",
+        "capacity_kw": 10.0,
+        "kommune": "Morsø"
+    },
+    {
+        "x_coord": 8.751502897772022,
+        "y_coord": 56.745469355004836,
+        "model": "Ukendt",
+        "capacity_kw": 10.0,
+        "kommune": "Morsø"
+    },
+    {
+        "x_coord": 8.773682720076348,
+        "y_coord": 56.86280919711894,
+        "model": "Ukendt",
+        "capacity_kw": 10.0,
+        "kommune": "Morsø"
+    },
+    {
+        "x_coord": 8.704365004581165,
+        "y_coord": 56.83905912171052,
+        "model": "Ukendt",
+        "capacity_kw": 10.0,
+        "kommune": "Morsø"
+    },
+    {
+        "x_coord": 8.78188916530584,
+        "y_coord": 56.86713346069796,
+        "model": "Ukendt",
+        "capacity_kw": 10.0,
+        "kommune": "Morsø"
+    },
+    {
+        "x_coord": 8.853002240535423,
+        "y_coord": 56.913941262583265,
+        "model": "Ukendt",
+        "capacity_kw": 10.0,
+        "kommune": "Morsø"
+    },
+    {
+        "x_coord": 8.894062874894557,
+        "y_coord": 56.88912552473933,
+        "model": "Ukendt",
+        "capacity_kw": 10.0,
+        "kommune": "Morsø"
+    },
+    {
+        "x_coord": 8.725554376354241,
+        "y_coord": 56.71488704301736,
+        "model": "Gaia Wind 133-10 kW",
+        "capacity_kw": 10.0,
+        "kommune": "Morsø"
+    },
+    {
+        "x_coord": 8.755910500928007,
+        "y_coord": 56.77318700934844,
+        "model": "Ukendt",
+        "capacity_kw": 10.0,
+        "kommune": "Morsø"
+    },
+    {
+        "x_coord": 8.713477260653246,
+        "y_coord": 56.8073689338296,
+        "model": "Gaia Wind 133-10 kW",
+        "capacity_kw": 10.0,
+        "kommune": "Morsø"
+    },
+    {
+        "x_coord": 8.744432340743433,
+        "y_coord": 56.7946072731448,
+        "model": "Ukendt",
+        "capacity_kw": 10.0,
+        "kommune": "Morsø"
+    },
+    {
+        "x_coord": 8.76089048301865,
+        "y_coord": 56.792124784635746,
+        "model": "SWP25-14TG20",
+        "capacity_kw": 10.0,
+        "kommune": "Morsø"
+    },
+    {
+        "x_coord": 8.732161863187748,
+        "y_coord": 56.838612727159784,
+        "model": "Gaia Wind 133-10 kW",
+        "capacity_kw": 10.0,
+        "kommune": "Morsø"
+    },
+    {
+        "x_coord": 8.824913690382695,
+        "y_coord": 56.83465521375095,
+        "model": "Gaia Wind 133-10 kW",
+        "capacity_kw": 10.0,
+        "kommune": "Morsø"
+    },
+    {
+        "x_coord": 8.733447112559327,
+        "y_coord": 56.69775524512115,
+        "model": "Ukendt",
+        "capacity_kw": 10.0,
+        "kommune": "Morsø"
+    },
+    {
+        "x_coord": 8.737796097300581,
+        "y_coord": 56.84016863372637,
+        "model": "SWP10-14TG20",
+        "capacity_kw": 10.0,
+        "kommune": "Morsø"
+    },
+    {
+        "x_coord": 8.64228831541861,
+        "y_coord": 56.82125971962589,
+        "model": "Ukendt",
+        "capacity_kw": 10.0,
+        "kommune": "Morsø"
+    },
+    {
+        "x_coord": 8.550117926628927,
+        "y_coord": 56.74952377918363,
+        "model": "SWP10-14TG20",
+        "capacity_kw": 10.0,
+        "kommune": "Morsø"
+    },
+    {
+        "x_coord": 8.714331750766695,
+        "y_coord": 56.70284228266915,
+        "model": "Gaia Wind 133-10 kW",
+        "capacity_kw": 10.0,
+        "kommune": "Morsø"
+    },
+    {
+        "x_coord": 8.768111478761593,
+        "y_coord": 56.83559245291234,
+        "model": "SWP10-14TG20",
+        "capacity_kw": 10.0,
+        "kommune": "Morsø"
+    },
+    {
+        "x_coord": 8.777202138576689,
+        "y_coord": 56.83382761549951,
+        "model": "Ukendt",
+        "capacity_kw": 10.0,
+        "kommune": "Morsø"
+    }
+]

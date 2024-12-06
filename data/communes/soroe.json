@@ -1,0 +1,51 @@
+[
+    {
+        "x_coord": 11.354536097702727,
+        "y_coord": 55.53905680616001,
+        "model": "NTK 500/35",
+        "capacity_kw": 550.0,
+        "kommune": "Sorø"
+    },
+    {
+        "x_coord": 11.354748310132495,
+        "y_coord": 55.54004252339436,
+        "model": "NTK 500/35",
+        "capacity_kw": 550.0,
+        "kommune": "Sorø"
+    },
+    {
+        "x_coord": 11.354939083840845,
+        "y_coord": 55.54102739407996,
+        "model": "NTK 500/35",
+        "capacity_kw": 550.0,
+        "kommune": "Sorø"
+    },
+    {
+        "x_coord": 11.355172535544911,
+        "y_coord": 55.54212667440494,
+        "model": "Ukendt",
+        "capacity_kw": 550.0,
+        "kommune": "Sorø"
+    },
+    {
+        "x_coord": 11.574383668439006,
+        "y_coord": 55.52258399690234,
+        "model": "Ukendt",
+        "capacity_kw": 11.0,
+        "kommune": "Sorø"
+    },
+    {
+        "x_coord": 11.56894758546517,
+        "y_coord": 55.528275693000495,
+        "model": "SWT 2.3-93",
+        "capacity_kw": 2300.0,
+        "kommune": "Sorø"
+    },
+    {
+        "x_coord": 11.56336877614185,
+        "y_coord": 55.52857589547088,
+        "model": "SWT 2.3-93",
+        "capacity_kw": 2300.0,
+        "kommune": "Sorø"
+    }
+]

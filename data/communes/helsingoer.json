@@ -1,0 +1,16 @@
+[
+    {
+        "x_coord": 12.493708199342981,
+        "y_coord": 56.059493198904114,
+        "model": "Ukendt",
+        "capacity_kw": 11.0,
+        "kommune": "Helsingør"
+    },
+    {
+        "x_coord": 12.519681385145423,
+        "y_coord": 56.037193533869164,
+        "model": "Viking 25",
+        "capacity_kw": 25.0,
+        "kommune": "Helsingør"
+    }
+]

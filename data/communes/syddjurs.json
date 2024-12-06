@@ -1,0 +1,219 @@
+[
+    {
+        "x_coord": 10.251128505410078,
+        "y_coord": 56.32036265882373,
+        "model": "NM 750-200/48 IEC ll",
+        "capacity_kw": 750.0,
+        "kommune": "Syddjurs"
+    },
+    {
+        "x_coord": 10.253911656404137,
+        "y_coord": 56.31913659906788,
+        "model": "NM 750-200/48 IEC ll",
+        "capacity_kw": 750.0,
+        "kommune": "Syddjurs"
+    },
+    {
+        "x_coord": 10.256719404238291,
+        "y_coord": 56.31792639957239,
+        "model": "NM 750-200/48 IEC ll",
+        "capacity_kw": 750.0,
+        "kommune": "Syddjurs"
+    },
+    {
+        "x_coord": 10.259480533537648,
+        "y_coord": 56.31669531399607,
+        "model": "NM 750-200/48 IEC ll",
+        "capacity_kw": 750.0,
+        "kommune": "Syddjurs"
+    },
+    {
+        "x_coord": 10.434308324905004,
+        "y_coord": 56.34248376834266,
+        "model": "18 SP",
+        "capacity_kw": 19.0,
+        "kommune": "Syddjurs"
+    },
+    {
+        "x_coord": 10.731810823914467,
+        "y_coord": 56.18804259681508,
+        "model": "500 kW",
+        "capacity_kw": 500.0,
+        "kommune": "Syddjurs"
+    },
+    {
+        "x_coord": 10.175984606138538,
+        "y_coord": 56.33919762330416,
+        "model": "Ukendt",
+        "capacity_kw": 600.0,
+        "kommune": "Syddjurs"
+    },
+    {
+        "x_coord": 10.174571053357651,
+        "y_coord": 56.34071955058507,
+        "model": "Ukendt",
+        "capacity_kw": 600.0,
+        "kommune": "Syddjurs"
+    },
+    {
+        "x_coord": 10.173167664478854,
+        "y_coord": 56.34223363732262,
+        "model": "Ukendt",
+        "capacity_kw": 600.0,
+        "kommune": "Syddjurs"
+    },
+    {
+        "x_coord": 10.171734045536631,
+        "y_coord": 56.343752126226946,
+        "model": "Ukendt",
+        "capacity_kw": 600.0,
+        "kommune": "Syddjurs"
+    },
+    {
+        "x_coord": 10.17028957617036,
+        "y_coord": 56.345258120823075,
+        "model": "Ukendt",
+        "capacity_kw": 600.0,
+        "kommune": "Syddjurs"
+    },
+    {
+        "x_coord": 10.70939912255465,
+        "y_coord": 56.15447514829653,
+        "model": "Ukendt",
+        "capacity_kw": 11.0,
+        "kommune": "Syddjurs"
+    },
+    {
+        "x_coord": 10.48719283367741,
+        "y_coord": 56.258172339370745,
+        "model": "NM 500",
+        "capacity_kw": 600.0,
+        "kommune": "Syddjurs"
+    },
+    {
+        "x_coord": 10.481627881607574,
+        "y_coord": 56.2196972616112,
+        "model": "Ukendt",
+        "capacity_kw": 150.0,
+        "kommune": "Syddjurs"
+    },
+    {
+        "x_coord": 10.716658390427378,
+        "y_coord": 56.19636801564862,
+        "model": "Ukendt",
+        "capacity_kw": 150.0,
+        "kommune": "Syddjurs"
+    },
+    {
+        "x_coord": 10.439492360802964,
+        "y_coord": 56.29685065694059,
+        "model": "Ukendt",
+        "capacity_kw": 12.0,
+        "kommune": "Syddjurs"
+    },
+    {
+        "x_coord": 10.731709807871763,
+        "y_coord": 56.189474080322874,
+        "model": "600 - MK lV",
+        "capacity_kw": 600.0,
+        "kommune": "Syddjurs"
+    },
+    {
+        "x_coord": 10.39312853614851,
+        "y_coord": 56.315781371332044,
+        "model": "NM 52/900",
+        "capacity_kw": 900.0,
+        "kommune": "Syddjurs"
+    },
+    {
+        "x_coord": 10.39013709438852,
+        "y_coord": 56.31553013868157,
+        "model": "NM 52/900",
+        "capacity_kw": 900.0,
+        "kommune": "Syddjurs"
+    },
+    {
+        "x_coord": 10.793256680654757,
+        "y_coord": 56.30673959367357,
+        "model": "NM 52/900",
+        "capacity_kw": 900.0,
+        "kommune": "Syddjurs"
+    },
+    {
+        "x_coord": 10.794247404114149,
+        "y_coord": 56.3051285772296,
+        "model": "NM 52/900",
+        "capacity_kw": 900.0,
+        "kommune": "Syddjurs"
+    },
+    {
+        "x_coord": 10.795257678833863,
+        "y_coord": 56.303519155462716,
+        "model": "NM 52/900",
+        "capacity_kw": 900.0,
+        "kommune": "Syddjurs"
+    },
+    {
+        "x_coord": 10.796263392123045,
+        "y_coord": 56.301903859665266,
+        "model": "NM 52/900",
+        "capacity_kw": 900.0,
+        "kommune": "Syddjurs"
+    },
+    {
+        "x_coord": 10.659652818970049,
+        "y_coord": 56.155010962066505,
+        "model": "N 60/1300",
+        "capacity_kw": 1300.0,
+        "kommune": "Syddjurs"
+    },
+    {
+        "x_coord": 10.658389664991232,
+        "y_coord": 56.1595206322069,
+        "model": "N 60/1300",
+        "capacity_kw": 1300.0,
+        "kommune": "Syddjurs"
+    },
+    {
+        "x_coord": 10.658788216567464,
+        "y_coord": 56.158011452518224,
+        "model": "N 60/1300",
+        "capacity_kw": 1300.0,
+        "kommune": "Syddjurs"
+    },
+    {
+        "x_coord": 10.659219168158394,
+        "y_coord": 56.15651127139316,
+        "model": "N 60/1300",
+        "capacity_kw": 1300.0,
+        "kommune": "Syddjurs"
+    },
+    {
+        "x_coord": 10.49590533994439,
+        "y_coord": 56.234070342118436,
+        "model": "11 kW",
+        "capacity_kw": 11.0,
+        "kommune": "Syddjurs"
+    },
+    {
+        "x_coord": 10.37039319739807,
+        "y_coord": 56.319567257955455,
+        "model": "Ukendt",
+        "capacity_kw": 25.0,
+        "kommune": "Syddjurs"
+    },
+    {
+        "x_coord": 10.732883579859005,
+        "y_coord": 56.17934389335991,
+        "model": "Gaia Wind 133-10 kW",
+        "capacity_kw": 10.0,
+        "kommune": "Syddjurs"
+    },
+    {
+        "x_coord": 10.727786546397104,
+        "y_coord": 56.18747175648435,
+        "model": "SWP10-14TG20",
+        "capacity_kw": 10.0,
+        "kommune": "Syddjurs"
+    }
+]

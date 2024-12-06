@@ -1,0 +1,23 @@
+[
+    {
+        "x_coord": 8.39128333940189,
+        "y_coord": 55.46136418710507,
+        "model": "V 47",
+        "capacity_kw": 660.0,
+        "kommune": "Fanø"
+    },
+    {
+        "x_coord": 8.390534908448469,
+        "y_coord": 55.459860982613634,
+        "model": "V 47",
+        "capacity_kw": 660.0,
+        "kommune": "Fanø"
+    },
+    {
+        "x_coord": 8.389778170027734,
+        "y_coord": 55.45835665330437,
+        "model": "V 47",
+        "capacity_kw": 660.0,
+        "kommune": "Fanø"
+    }
+]

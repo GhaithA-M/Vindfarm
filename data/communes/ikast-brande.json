@@ -1,0 +1,380 @@
+[
+    {
+        "x_coord": 9.244066287198512,
+        "y_coord": 56.140612393544544,
+        "model": "W 2800-150",
+        "capacity_kw": 150.0,
+        "kommune": "Ikast-Brande"
+    },
+    {
+        "x_coord": 9.247514422576762,
+        "y_coord": 56.1387350856545,
+        "model": "W 2800-150",
+        "capacity_kw": 150.0,
+        "kommune": "Ikast-Brande"
+    },
+    {
+        "x_coord": 9.24579022852658,
+        "y_coord": 56.1396725839747,
+        "model": "W 2800-150",
+        "capacity_kw": 150.0,
+        "kommune": "Ikast-Brande"
+    },
+    {
+        "x_coord": 9.302535639050921,
+        "y_coord": 56.13075345253215,
+        "model": "V 44-600",
+        "capacity_kw": 600.0,
+        "kommune": "Ikast-Brande"
+    },
+    {
+        "x_coord": 9.305608600416578,
+        "y_coord": 56.12835000265651,
+        "model": "V 44-600",
+        "capacity_kw": 600.0,
+        "kommune": "Ikast-Brande"
+    },
+    {
+        "x_coord": 9.313566687527057,
+        "y_coord": 56.12799331198798,
+        "model": "V 44-600",
+        "capacity_kw": 600.0,
+        "kommune": "Ikast-Brande"
+    },
+    {
+        "x_coord": 9.351895092375853,
+        "y_coord": 55.97946840264176,
+        "model": "Ukendt",
+        "capacity_kw": 11.0,
+        "kommune": "Ikast-Brande"
+    },
+    {
+        "x_coord": 9.009340242756576,
+        "y_coord": 55.95548000698687,
+        "model": "N 150",
+        "capacity_kw": 150.0,
+        "kommune": "Ikast-Brande"
+    },
+    {
+        "x_coord": 9.332651580399768,
+        "y_coord": 55.97708966562839,
+        "model": "Ukendt",
+        "capacity_kw": 11.0,
+        "kommune": "Ikast-Brande"
+    },
+    {
+        "x_coord": 9.006374179346809,
+        "y_coord": 55.871663765504394,
+        "model": "2 MW (Prototype)",
+        "capacity_kw": 2300.0,
+        "kommune": "Ikast-Brande"
+    },
+    {
+        "x_coord": 9.06476761556969,
+        "y_coord": 55.92416972454841,
+        "model": "1,3 MW",
+        "capacity_kw": 1300.0,
+        "kommune": "Ikast-Brande"
+    },
+    {
+        "x_coord": 9.06550318540522,
+        "y_coord": 55.925836423097294,
+        "model": "1,3 MW",
+        "capacity_kw": 1300.0,
+        "kommune": "Ikast-Brande"
+    },
+    {
+        "x_coord": 9.064042839220932,
+        "y_coord": 55.92250849644817,
+        "model": "1,3 MW",
+        "capacity_kw": 1300.0,
+        "kommune": "Ikast-Brande"
+    },
+    {
+        "x_coord": 9.233034516045382,
+        "y_coord": 56.09264837845458,
+        "model": "W 2500-150",
+        "capacity_kw": 150.0,
+        "kommune": "Ikast-Brande"
+    },
+    {
+        "x_coord": 9.230928675413965,
+        "y_coord": 56.09366393689071,
+        "model": "W 2500/150",
+        "capacity_kw": 150.0,
+        "kommune": "Ikast-Brande"
+    },
+    {
+        "x_coord": 9.245737224782259,
+        "y_coord": 56.09053127517559,
+        "model": "WW 2800-150",
+        "capacity_kw": 150.0,
+        "kommune": "Ikast-Brande"
+    },
+    {
+        "x_coord": 9.248002588631596,
+        "y_coord": 56.09011820560713,
+        "model": "WW 2800-150",
+        "capacity_kw": 150.0,
+        "kommune": "Ikast-Brande"
+    },
+    {
+        "x_coord": 9.250305077318203,
+        "y_coord": 56.089687858100476,
+        "model": "WW 2800-150",
+        "capacity_kw": 150.0,
+        "kommune": "Ikast-Brande"
+    },
+    {
+        "x_coord": 9.190957904504483,
+        "y_coord": 56.083493903474405,
+        "model": "NM 52/900",
+        "capacity_kw": 900.0,
+        "kommune": "Ikast-Brande"
+    },
+    {
+        "x_coord": 9.190458286987058,
+        "y_coord": 56.08172600893506,
+        "model": "NM 52/900",
+        "capacity_kw": 900.0,
+        "kommune": "Ikast-Brande"
+    },
+    {
+        "x_coord": 9.189938173050498,
+        "y_coord": 56.07996290540378,
+        "model": "NM 52/900",
+        "capacity_kw": 900.0,
+        "kommune": "Ikast-Brande"
+    },
+    {
+        "x_coord": 9.189471808906925,
+        "y_coord": 56.07817527795573,
+        "model": "NM 52/900",
+        "capacity_kw": 900.0,
+        "kommune": "Ikast-Brande"
+    },
+    {
+        "x_coord": 9.191929612150144,
+        "y_coord": 56.0870570417672,
+        "model": "NM 52/900 A",
+        "capacity_kw": 900.0,
+        "kommune": "Ikast-Brande"
+    },
+    {
+        "x_coord": 9.191448315543052,
+        "y_coord": 56.0852754667505,
+        "model": "NM 52/900 A",
+        "capacity_kw": 900.0,
+        "kommune": "Ikast-Brande"
+    },
+    {
+        "x_coord": 9.16735767002667,
+        "y_coord": 56.25246959191218,
+        "model": "NM 52/900",
+        "capacity_kw": 900.0,
+        "kommune": "Ikast-Brande"
+    },
+    {
+        "x_coord": 9.171561513380324,
+        "y_coord": 56.25179232835161,
+        "model": "NM 52/900",
+        "capacity_kw": 900.0,
+        "kommune": "Ikast-Brande"
+    },
+    {
+        "x_coord": 9.175764475185835,
+        "y_coord": 56.251131095347944,
+        "model": "NM 52/900",
+        "capacity_kw": 900.0,
+        "kommune": "Ikast-Brande"
+    },
+    {
+        "x_coord": 9.332020339071184,
+        "y_coord": 56.01295889131203,
+        "model": "VMP-330-690V-50Hz",
+        "capacity_kw": 660.0,
+        "kommune": "Ikast-Brande"
+    },
+    {
+        "x_coord": 9.277208822129706,
+        "y_coord": 56.17539785417044,
+        "model": "V 52-850",
+        "capacity_kw": 850.0,
+        "kommune": "Ikast-Brande"
+    },
+    {
+        "x_coord": 9.274153658175528,
+        "y_coord": 56.175580497361466,
+        "model": "V 52-850",
+        "capacity_kw": 850.0,
+        "kommune": "Ikast-Brande"
+    },
+    {
+        "x_coord": 9.283909580315884,
+        "y_coord": 56.010657197238956,
+        "model": "2 MW",
+        "capacity_kw": 2000.0,
+        "kommune": "Ikast-Brande"
+    },
+    {
+        "x_coord": 9.12540632416709,
+        "y_coord": 55.95634543339217,
+        "model": "1 MW",
+        "capacity_kw": 1000.0,
+        "kommune": "Ikast-Brande"
+    },
+    {
+        "x_coord": 9.161465179845537,
+        "y_coord": 56.19634882054887,
+        "model": "V 52-850",
+        "capacity_kw": 850.0,
+        "kommune": "Ikast-Brande"
+    },
+    {
+        "x_coord": 9.159906546736384,
+        "y_coord": 56.19791795155026,
+        "model": "V 52-850",
+        "capacity_kw": 850.0,
+        "kommune": "Ikast-Brande"
+    },
+    {
+        "x_coord": 9.158378134480238,
+        "y_coord": 56.19949870378963,
+        "model": "V 52-850",
+        "capacity_kw": 850.0,
+        "kommune": "Ikast-Brande"
+    },
+    {
+        "x_coord": 9.446967506692179,
+        "y_coord": 55.97832577301537,
+        "model": "Ukendt",
+        "capacity_kw": 11.0,
+        "kommune": "Ikast-Brande"
+    },
+    {
+        "x_coord": 9.21759973770604,
+        "y_coord": 56.1398500570252,
+        "model": "Ukendt",
+        "capacity_kw": 11.0,
+        "kommune": "Ikast-Brande"
+    },
+    {
+        "x_coord": 9.128901490171359,
+        "y_coord": 55.97283398408084,
+        "model": "SWT 3.0-101",
+        "capacity_kw": 3000.0,
+        "kommune": "Ikast-Brande"
+    },
+    {
+        "x_coord": 9.125757492471093,
+        "y_coord": 55.97544386689047,
+        "model": "SWT 3.0-101",
+        "capacity_kw": 3000.0,
+        "kommune": "Ikast-Brande"
+    },
+    {
+        "x_coord": 9.122618944492393,
+        "y_coord": 55.978086547800764,
+        "model": "SWT 3.0-101",
+        "capacity_kw": 3200.0,
+        "kommune": "Ikast-Brande"
+    },
+    {
+        "x_coord": 9.119491202581035,
+        "y_coord": 55.980734258411324,
+        "model": "SWT 3.0-101",
+        "capacity_kw": 3000.0,
+        "kommune": "Ikast-Brande"
+    },
+    {
+        "x_coord": 9.03799463364263,
+        "y_coord": 55.89717291877163,
+        "model": "SWP-10-16 TG20",
+        "capacity_kw": 10.0,
+        "kommune": "Ikast-Brande"
+    },
+    {
+        "x_coord": 9.183892315552612,
+        "y_coord": 56.09936779133091,
+        "model": "Gaia Wind 133-10 kW",
+        "capacity_kw": 10.0,
+        "kommune": "Ikast-Brande"
+    },
+    {
+        "x_coord": 9.242541500435603,
+        "y_coord": 55.9686478341256,
+        "model": "SWT-3.2-113 DD",
+        "capacity_kw": 3200.0,
+        "kommune": "Ikast-Brande"
+    },
+    {
+        "x_coord": 9.241907417975709,
+        "y_coord": 55.965699297111016,
+        "model": "SWT-3.2-113 DD",
+        "capacity_kw": 3200.0,
+        "kommune": "Ikast-Brande"
+    },
+    {
+        "x_coord": 9.191643023548577,
+        "y_coord": 55.9135985544459,
+        "model": "SWT-3.2-101 DD",
+        "capacity_kw": 3200.0,
+        "kommune": "Ikast-Brande"
+    },
+    {
+        "x_coord": 9.187468892390726,
+        "y_coord": 55.91720799755397,
+        "model": "SWT-3.2-101 DD",
+        "capacity_kw": 3200.0,
+        "kommune": "Ikast-Brande"
+    },
+    {
+        "x_coord": 9.182934894580615,
+        "y_coord": 55.91931732318825,
+        "model": "SWT-3.2-101 DD",
+        "capacity_kw": 3200.0,
+        "kommune": "Ikast-Brande"
+    },
+    {
+        "x_coord": 9.178894129809999,
+        "y_coord": 55.920922601284296,
+        "model": "SWT-3.2-101 DD",
+        "capacity_kw": 3200.0,
+        "kommune": "Ikast-Brande"
+    },
+    {
+        "x_coord": 9.17435850652596,
+        "y_coord": 55.922869880317855,
+        "model": "SWT-3.2-101 DD",
+        "capacity_kw": 3200.0,
+        "kommune": "Ikast-Brande"
+    },
+    {
+        "x_coord": 9.170157857011128,
+        "y_coord": 55.924672768086374,
+        "model": "SWT-3.2-101 DD",
+        "capacity_kw": 3200.0,
+        "kommune": "Ikast-Brande"
+    },
+    {
+        "x_coord": 9.090843349631212,
+        "y_coord": 55.9039763723236,
+        "model": "SWT 3.15-109-142",
+        "capacity_kw": 4100.0,
+        "kommune": "Ikast-Brande"
+    },
+    {
+        "x_coord": 9.499970659842873,
+        "y_coord": 55.94392985550467,
+        "model": "Ukendt",
+        "capacity_kw": 10.0,
+        "kommune": "Ikast-Brande"
+    },
+    {
+        "x_coord": 9.11454591057401,
+        "y_coord": 56.1635365346295,
+        "model": "Gaia Wind 133-10 kW",
+        "capacity_kw": 10.0,
+        "kommune": "Ikast-Brande"
+    }
+]

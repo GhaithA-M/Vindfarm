@@ -1,0 +1,240 @@
+[
+    {
+        "x_coord": 9.459523719269583,
+        "y_coord": 56.31073126992883,
+        "model": "V 44-600",
+        "capacity_kw": 600.0,
+        "kommune": "Silkeborg"
+    },
+    {
+        "x_coord": 9.462324123705633,
+        "y_coord": 56.31193431086214,
+        "model": "V 44-600",
+        "capacity_kw": 600.0,
+        "kommune": "Silkeborg"
+    },
+    {
+        "x_coord": 9.462073706664176,
+        "y_coord": 56.313712668356985,
+        "model": "V 44-600",
+        "capacity_kw": 600.0,
+        "kommune": "Silkeborg"
+    },
+    {
+        "x_coord": 9.459254125445959,
+        "y_coord": 56.3125113101749,
+        "model": "V 44-600",
+        "capacity_kw": 600.0,
+        "kommune": "Silkeborg"
+    },
+    {
+        "x_coord": 9.771104202173419,
+        "y_coord": 56.275505348554276,
+        "model": "Ukendt",
+        "capacity_kw": 600.0,
+        "kommune": "Silkeborg"
+    },
+    {
+        "x_coord": 9.772975888257085,
+        "y_coord": 56.27286875193425,
+        "model": "NM 1800-600",
+        "capacity_kw": 600.0,
+        "kommune": "Silkeborg"
+    },
+    {
+        "x_coord": 9.771154764302674,
+        "y_coord": 56.275449866649936,
+        "model": "NM 1800-600/150",
+        "capacity_kw": 600.0,
+        "kommune": "Silkeborg"
+    },
+    {
+        "x_coord": 9.769320574873195,
+        "y_coord": 56.278035885666704,
+        "model": "NM 600/150",
+        "capacity_kw": 600.0,
+        "kommune": "Silkeborg"
+    },
+    {
+        "x_coord": 9.767539862735028,
+        "y_coord": 56.280602675945936,
+        "model": "NM 600/150",
+        "capacity_kw": 600.0,
+        "kommune": "Silkeborg"
+    },
+    {
+        "x_coord": 9.742598906835362,
+        "y_coord": 56.253986224729985,
+        "model": "V 44-600",
+        "capacity_kw": 600.0,
+        "kommune": "Silkeborg"
+    },
+    {
+        "x_coord": 9.743820954653797,
+        "y_coord": 56.25564530911631,
+        "model": "V 44-600",
+        "capacity_kw": 600.0,
+        "kommune": "Silkeborg"
+    },
+    {
+        "x_coord": 9.745056777980752,
+        "y_coord": 56.257310048741886,
+        "model": "V 44-600",
+        "capacity_kw": 600.0,
+        "kommune": "Silkeborg"
+    },
+    {
+        "x_coord": 9.690889398922291,
+        "y_coord": 56.25793699615367,
+        "model": "NM 52/900",
+        "capacity_kw": 900.0,
+        "kommune": "Silkeborg"
+    },
+    {
+        "x_coord": 9.695195489905476,
+        "y_coord": 56.25736050039866,
+        "model": "NM 52/900",
+        "capacity_kw": 900.0,
+        "kommune": "Silkeborg"
+    },
+    {
+        "x_coord": 9.699504194869977,
+        "y_coord": 56.25677503448376,
+        "model": "NM 52/900",
+        "capacity_kw": 900.0,
+        "kommune": "Silkeborg"
+    },
+    {
+        "x_coord": 9.687436400664243,
+        "y_coord": 56.2551782052976,
+        "model": "NM 52/900",
+        "capacity_kw": 900.0,
+        "kommune": "Silkeborg"
+    },
+    {
+        "x_coord": 9.691744779454517,
+        "y_coord": 56.25459076450255,
+        "model": "NM 52/900",
+        "capacity_kw": 900.0,
+        "kommune": "Silkeborg"
+    },
+    {
+        "x_coord": 9.69602429818876,
+        "y_coord": 56.254021125520396,
+        "model": "NM 52/900",
+        "capacity_kw": 900.0,
+        "kommune": "Silkeborg"
+    },
+    {
+        "x_coord": 9.63354202195138,
+        "y_coord": 56.23369885942877,
+        "model": "V 47-660",
+        "capacity_kw": 660.0,
+        "kommune": "Silkeborg"
+    },
+    {
+        "x_coord": 9.632849783951395,
+        "y_coord": 56.23573260935447,
+        "model": "V 47-660",
+        "capacity_kw": 660.0,
+        "kommune": "Silkeborg"
+    },
+    {
+        "x_coord": 9.63215728838484,
+        "y_coord": 56.23775512484492,
+        "model": "V 47-660",
+        "capacity_kw": 660.0,
+        "kommune": "Silkeborg"
+    },
+    {
+        "x_coord": 9.538394946419514,
+        "y_coord": 56.02818436659327,
+        "model": "N 27/150",
+        "capacity_kw": 150.0,
+        "kommune": "Silkeborg"
+    },
+    {
+        "x_coord": 9.591306716708987,
+        "y_coord": 56.01624685728951,
+        "model": "NM 52/900 A",
+        "capacity_kw": 900.0,
+        "kommune": "Silkeborg"
+    },
+    {
+        "x_coord": 9.596138162948222,
+        "y_coord": 56.017688444140894,
+        "model": "NM 52/900 A",
+        "capacity_kw": 900.0,
+        "kommune": "Silkeborg"
+    },
+    {
+        "x_coord": 9.492395310601436,
+        "y_coord": 56.220813496701155,
+        "model": "Ukendt",
+        "capacity_kw": 11.0,
+        "kommune": "Silkeborg"
+    },
+    {
+        "x_coord": 9.465646765501663,
+        "y_coord": 56.112849442121345,
+        "model": "Ukendt",
+        "capacity_kw": 11.0,
+        "kommune": "Silkeborg"
+    },
+    {
+        "x_coord": 9.415669274209808,
+        "y_coord": 56.24556029690201,
+        "model": "Ukendt",
+        "capacity_kw": 11.0,
+        "kommune": "Silkeborg"
+    },
+    {
+        "x_coord": 9.382009225941273,
+        "y_coord": 56.240497014822395,
+        "model": "Ukendt",
+        "capacity_kw": 11.0,
+        "kommune": "Silkeborg"
+    },
+    {
+        "x_coord": 9.778104688063118,
+        "y_coord": 56.19066269109137,
+        "model": "11 kW",
+        "capacity_kw": 11.0,
+        "kommune": "Silkeborg"
+    },
+    {
+        "x_coord": 9.471645560908403,
+        "y_coord": 56.225066759526555,
+        "model": "Ukendt",
+        "capacity_kw": 11.0,
+        "kommune": "Silkeborg"
+    },
+    {
+        "x_coord": 9.735752530436248,
+        "y_coord": 56.190784367065,
+        "model": "Ukendt",
+        "capacity_kw": 10.0,
+        "kommune": "Silkeborg"
+    },
+    {
+        "x_coord": 9.7131076068382,
+        "y_coord": 56.23345162481363,
+        "model": "Ukendt",
+        "capacity_kw": 10.0,
+        "kommune": "Silkeborg"
+    },
+    {
+        "x_coord": 9.666349057239772,
+        "y_coord": 56.1665957235676,
+        "model": "SWP25-14TG20",
+        "capacity_kw": 25.0,
+        "kommune": "Silkeborg"
+    },
+    {
+        "x_coord": 9.740575938487307,
+        "y_coord": 56.14628620126421,
+        "model": "V117-3.6 MW",
+        "capacity_kw": 3600.0,
+        "kommune": "Silkeborg"
+    }
+]

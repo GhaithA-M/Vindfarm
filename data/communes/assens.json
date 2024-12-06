@@ -1,0 +1,345 @@
+[
+    {
+        "x_coord": 10.215755047695422,
+        "y_coord": 55.2816851782515,
+        "model": "Ukendt",
+        "capacity_kw": 55.0,
+        "kommune": "Assens"
+    },
+    {
+        "x_coord": 10.238817526491049,
+        "y_coord": 55.31515931190752,
+        "model": "NM 1500-600/150",
+        "capacity_kw": 600.0,
+        "kommune": "Assens"
+    },
+    {
+        "x_coord": 10.226280765521023,
+        "y_coord": 55.28934426928889,
+        "model": "NM 750-200/48",
+        "capacity_kw": 750.0,
+        "kommune": "Assens"
+    },
+    {
+        "x_coord": 10.229603320832313,
+        "y_coord": 55.28982292248531,
+        "model": "NM 750-200/48",
+        "capacity_kw": 750.0,
+        "kommune": "Assens"
+    },
+    {
+        "x_coord": 10.23292911591591,
+        "y_coord": 55.2903069348411,
+        "model": "NM 750-200/48",
+        "capacity_kw": 750.0,
+        "kommune": "Assens"
+    },
+    {
+        "x_coord": 10.11855784090388,
+        "y_coord": 55.23321855506766,
+        "model": "NM 750-400/100",
+        "capacity_kw": 400.0,
+        "kommune": "Assens"
+    },
+    {
+        "x_coord": 10.14946429835006,
+        "y_coord": 55.27289132636191,
+        "model": "V 27-225",
+        "capacity_kw": 225.0,
+        "kommune": "Assens"
+    },
+    {
+        "x_coord": 10.116901656428478,
+        "y_coord": 55.23472721963526,
+        "model": "NM 1800-600/150",
+        "capacity_kw": 600.0,
+        "kommune": "Assens"
+    },
+    {
+        "x_coord": 10.057641934077733,
+        "y_coord": 55.252058338280065,
+        "model": "V 47-660",
+        "capacity_kw": 660.0,
+        "kommune": "Assens"
+    },
+    {
+        "x_coord": 10.05518814458633,
+        "y_coord": 55.25273496659193,
+        "model": "V 47-660",
+        "capacity_kw": 660.0,
+        "kommune": "Assens"
+    },
+    {
+        "x_coord": 10.052743954005207,
+        "y_coord": 55.253414787371185,
+        "model": "V 47-660",
+        "capacity_kw": 660.0,
+        "kommune": "Assens"
+    },
+    {
+        "x_coord": 10.111885163994664,
+        "y_coord": 55.23363909286851,
+        "model": "NM 1800-600/150",
+        "capacity_kw": 750.0,
+        "kommune": "Assens"
+    },
+    {
+        "x_coord": 10.162157893512754,
+        "y_coord": 55.30095929702939,
+        "model": "NM 750-200/48",
+        "capacity_kw": 750.0,
+        "kommune": "Assens"
+    },
+    {
+        "x_coord": 10.028561925500199,
+        "y_coord": 55.298136303928196,
+        "model": "V 47-660",
+        "capacity_kw": 660.0,
+        "kommune": "Assens"
+    },
+    {
+        "x_coord": 10.03258008441282,
+        "y_coord": 55.298428518903414,
+        "model": "V 47-660",
+        "capacity_kw": 660.0,
+        "kommune": "Assens"
+    },
+    {
+        "x_coord": 10.091961383822019,
+        "y_coord": 55.26962438658074,
+        "model": "Ukendt",
+        "capacity_kw": 15.0,
+        "kommune": "Assens"
+    },
+    {
+        "x_coord": 9.979640413254096,
+        "y_coord": 55.32430723520993,
+        "model": "NM 750-200/48",
+        "capacity_kw": 750.0,
+        "kommune": "Assens"
+    },
+    {
+        "x_coord": 10.087449632336542,
+        "y_coord": 55.24620800000837,
+        "model": "NM 750-200/48",
+        "capacity_kw": 750.0,
+        "kommune": "Assens"
+    },
+    {
+        "x_coord": 10.050495534276207,
+        "y_coord": 55.22897966709851,
+        "model": "NM 750-200/48",
+        "capacity_kw": 750.0,
+        "kommune": "Assens"
+    },
+    {
+        "x_coord": 10.05217126982299,
+        "y_coord": 55.22801273844953,
+        "model": "NM 750-200/48",
+        "capacity_kw": 750.0,
+        "kommune": "Assens"
+    },
+    {
+        "x_coord": 10.053835370235236,
+        "y_coord": 55.22701910664938,
+        "model": "NM 750-200/48",
+        "capacity_kw": 750.0,
+        "kommune": "Assens"
+    },
+    {
+        "x_coord": 9.979947210151966,
+        "y_coord": 55.325601333008166,
+        "model": "NM 750-200/48",
+        "capacity_kw": 750.0,
+        "kommune": "Assens"
+    },
+    {
+        "x_coord": 10.08722714777837,
+        "y_coord": 55.25528268880276,
+        "model": "NM 750-200/48",
+        "capacity_kw": 750.0,
+        "kommune": "Assens"
+    },
+    {
+        "x_coord": 10.081410059351539,
+        "y_coord": 55.254146423372106,
+        "model": "NM 750-200/48",
+        "capacity_kw": 750.0,
+        "kommune": "Assens"
+    },
+    {
+        "x_coord": 10.058760260430027,
+        "y_coord": 55.26917390313209,
+        "model": "V 47-660",
+        "capacity_kw": 660.0,
+        "kommune": "Assens"
+    },
+    {
+        "x_coord": 10.178808031010737,
+        "y_coord": 55.2899946326228,
+        "model": "NM 750-200/48",
+        "capacity_kw": 750.0,
+        "kommune": "Assens"
+    },
+    {
+        "x_coord": 10.015223613926773,
+        "y_coord": 55.346323379117656,
+        "model": "V 47-660",
+        "capacity_kw": 660.0,
+        "kommune": "Assens"
+    },
+    {
+        "x_coord": 10.014944384472729,
+        "y_coord": 55.347885468461435,
+        "model": "V 47-660",
+        "capacity_kw": 660.0,
+        "kommune": "Assens"
+    },
+    {
+        "x_coord": 10.014661034213493,
+        "y_coord": 55.34944759089338,
+        "model": "V 47-660",
+        "capacity_kw": 660.0,
+        "kommune": "Assens"
+    },
+    {
+        "x_coord": 10.181088063812812,
+        "y_coord": 55.28981740263198,
+        "model": "NM 750-200/48",
+        "capacity_kw": 750.0,
+        "kommune": "Assens"
+    },
+    {
+        "x_coord": 10.089407837894871,
+        "y_coord": 55.22004273275765,
+        "model": "V 47-660",
+        "capacity_kw": 660.0,
+        "kommune": "Assens"
+    },
+    {
+        "x_coord": 10.093145502083493,
+        "y_coord": 55.219737455567966,
+        "model": "V 47-660",
+        "capacity_kw": 660.0,
+        "kommune": "Assens"
+    },
+    {
+        "x_coord": 10.090807973343523,
+        "y_coord": 55.21804192362237,
+        "model": "V 47-660",
+        "capacity_kw": 660.0,
+        "kommune": "Assens"
+    },
+    {
+        "x_coord": 10.024549956242897,
+        "y_coord": 55.297825213181504,
+        "model": "V 47-660",
+        "capacity_kw": 660.0,
+        "kommune": "Assens"
+    },
+    {
+        "x_coord": 10.065472463493164,
+        "y_coord": 55.267136577851865,
+        "model": "V 47-660",
+        "capacity_kw": 660.0,
+        "kommune": "Assens"
+    },
+    {
+        "x_coord": 10.062281727605782,
+        "y_coord": 55.268105994901134,
+        "model": "V 47-660",
+        "capacity_kw": 660.0,
+        "kommune": "Assens"
+    },
+    {
+        "x_coord": 10.251857759068807,
+        "y_coord": 55.33962869824056,
+        "model": "NM 750-200/48",
+        "capacity_kw": 750.0,
+        "kommune": "Assens"
+    },
+    {
+        "x_coord": 10.25496429108964,
+        "y_coord": 55.33773928704821,
+        "model": "NM 750-200/48",
+        "capacity_kw": 750.0,
+        "kommune": "Assens"
+    },
+    {
+        "x_coord": 9.99734205309525,
+        "y_coord": 55.41432978200449,
+        "model": "NM 750-200/48",
+        "capacity_kw": 750.0,
+        "kommune": "Assens"
+    },
+    {
+        "x_coord": 9.99827242716009,
+        "y_coord": 55.41297460859588,
+        "model": "NM 750-200/48",
+        "capacity_kw": 750.0,
+        "kommune": "Assens"
+    },
+    {
+        "x_coord": 9.999204810617067,
+        "y_coord": 55.411613929490336,
+        "model": "NM 750-200/48",
+        "capacity_kw": 750.0,
+        "kommune": "Assens"
+    },
+    {
+        "x_coord": 10.159464985322598,
+        "y_coord": 55.189122304508686,
+        "model": "NM 750",
+        "capacity_kw": 750.0,
+        "kommune": "Assens"
+    },
+    {
+        "x_coord": 10.254788642053441,
+        "y_coord": 55.3349107353623,
+        "model": "NM 750-200/48",
+        "capacity_kw": 750.0,
+        "kommune": "Assens"
+    },
+    {
+        "x_coord": 10.2531464369682,
+        "y_coord": 55.33338538379426,
+        "model": "NM 750-200/48",
+        "capacity_kw": 750.0,
+        "kommune": "Assens"
+    },
+    {
+        "x_coord": 10.084329622417236,
+        "y_coord": 55.25470474222793,
+        "model": "NM 750-200/48",
+        "capacity_kw": 750.0,
+        "kommune": "Assens"
+    },
+    {
+        "x_coord": 9.908042373675924,
+        "y_coord": 55.25504643206305,
+        "model": "1,3 MW",
+        "capacity_kw": 1300.0,
+        "kommune": "Assens"
+    },
+    {
+        "x_coord": 9.988067464520315,
+        "y_coord": 55.132944519240326,
+        "model": "Viking 25",
+        "capacity_kw": 25.0,
+        "kommune": "Assens"
+    },
+    {
+        "x_coord": 9.995380454762241,
+        "y_coord": 55.360065106920764,
+        "model": "Viking 10VS",
+        "capacity_kw": 10.0,
+        "kommune": "Assens"
+    },
+    {
+        "x_coord": 9.99196323901113,
+        "y_coord": 55.41015517462352,
+        "model": "Ukendt",
+        "capacity_kw": 11.0,
+        "kommune": "Assens"
+    }
+]

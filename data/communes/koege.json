@@ -1,0 +1,51 @@
+[
+    {
+        "x_coord": 12.105028385787206,
+        "y_coord": 55.51932623501042,
+        "model": "Ukendt",
+        "capacity_kw": 500.0,
+        "kommune": "Køge"
+    },
+    {
+        "x_coord": 12.10457437841014,
+        "y_coord": 55.51815173980666,
+        "model": "Ukendt",
+        "capacity_kw": 500.0,
+        "kommune": "Køge"
+    },
+    {
+        "x_coord": 12.104111925925313,
+        "y_coord": 55.51696019576156,
+        "model": "Ukendt",
+        "capacity_kw": 500.0,
+        "kommune": "Køge"
+    },
+    {
+        "x_coord": 12.102069694198601,
+        "y_coord": 55.51733338210208,
+        "model": "Ukendt",
+        "capacity_kw": 550.0,
+        "kommune": "Køge"
+    },
+    {
+        "x_coord": 12.100014086597836,
+        "y_coord": 55.5177082211572,
+        "model": "Ukendt",
+        "capacity_kw": 550.0,
+        "kommune": "Køge"
+    },
+    {
+        "x_coord": 12.040620688971218,
+        "y_coord": 55.48863565575931,
+        "model": "Ukendt",
+        "capacity_kw": 600.0,
+        "kommune": "Køge"
+    },
+    {
+        "x_coord": 11.99912106267925,
+        "y_coord": 55.43836039221237,
+        "model": "NM 48/750",
+        "capacity_kw": 750.0,
+        "kommune": "Køge"
+    }
+]

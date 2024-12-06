@@ -1,0 +1,884 @@
+[
+    {
+        "x_coord": 9.552175992366477,
+        "y_coord": 56.78767187508401,
+        "model": "Ukendt",
+        "capacity_kw": 11.0,
+        "kommune": "Vesthimmerlands"
+    },
+    {
+        "x_coord": 9.305995900892253,
+        "y_coord": 56.910250726929235,
+        "model": "Ukendt",
+        "capacity_kw": 150.0,
+        "kommune": "Vesthimmerlands"
+    },
+    {
+        "x_coord": 9.252239439053266,
+        "y_coord": 56.937982578152464,
+        "model": "W 2700",
+        "capacity_kw": 150.0,
+        "kommune": "Vesthimmerlands"
+    },
+    {
+        "x_coord": 9.354013716763482,
+        "y_coord": 56.968990290959944,
+        "model": "W 2800",
+        "capacity_kw": 150.0,
+        "kommune": "Vesthimmerlands"
+    },
+    {
+        "x_coord": 9.255328327570602,
+        "y_coord": 56.92406552723566,
+        "model": "W 2800",
+        "capacity_kw": 150.0,
+        "kommune": "Vesthimmerlands"
+    },
+    {
+        "x_coord": 9.307572383972804,
+        "y_coord": 56.90974709649806,
+        "model": "Ukendt",
+        "capacity_kw": 150.0,
+        "kommune": "Vesthimmerlands"
+    },
+    {
+        "x_coord": 9.265187232137812,
+        "y_coord": 56.932784462205944,
+        "model": "W 2800-150",
+        "capacity_kw": 150.0,
+        "kommune": "Vesthimmerlands"
+    },
+    {
+        "x_coord": 9.544551298432657,
+        "y_coord": 56.78914048261335,
+        "model": "Ukendt",
+        "capacity_kw": 150.0,
+        "kommune": "Vesthimmerlands"
+    },
+    {
+        "x_coord": 9.425652188970973,
+        "y_coord": 56.82326637121309,
+        "model": "150/30 - MK ll",
+        "capacity_kw": 150.0,
+        "kommune": "Vesthimmerlands"
+    },
+    {
+        "x_coord": 9.2870487160978,
+        "y_coord": 56.7573770102257,
+        "model": "M 150-530",
+        "capacity_kw": 150.0,
+        "kommune": "Vesthimmerlands"
+    },
+    {
+        "x_coord": 9.494857497042362,
+        "y_coord": 56.77254731891347,
+        "model": "150/30 - MK ll",
+        "capacity_kw": 150.0,
+        "kommune": "Vesthimmerlands"
+    },
+    {
+        "x_coord": 9.307362297963486,
+        "y_coord": 56.894348593621515,
+        "model": "W 2700-150",
+        "capacity_kw": 150.0,
+        "kommune": "Vesthimmerlands"
+    },
+    {
+        "x_coord": 9.348334065007991,
+        "y_coord": 56.88191168183475,
+        "model": "W 2800-150",
+        "capacity_kw": 150.0,
+        "kommune": "Vesthimmerlands"
+    },
+    {
+        "x_coord": 9.463772293765828,
+        "y_coord": 56.882245908781435,
+        "model": "150/30 - MK ll",
+        "capacity_kw": 150.0,
+        "kommune": "Vesthimmerlands"
+    },
+    {
+        "x_coord": 9.485557011091716,
+        "y_coord": 56.885060605501295,
+        "model": "V 29-225",
+        "capacity_kw": 225.0,
+        "kommune": "Vesthimmerlands"
+    },
+    {
+        "x_coord": 9.460027370950534,
+        "y_coord": 56.78094961430136,
+        "model": "NTK 500/37/31",
+        "capacity_kw": 500.0,
+        "kommune": "Vesthimmerlands"
+    },
+    {
+        "x_coord": 9.288280768603444,
+        "y_coord": 56.75949175961082,
+        "model": "V 29-225",
+        "capacity_kw": 225.0,
+        "kommune": "Vesthimmerlands"
+    },
+    {
+        "x_coord": 9.286513794396631,
+        "y_coord": 56.75953284491984,
+        "model": "V 29-225",
+        "capacity_kw": 225.0,
+        "kommune": "Vesthimmerlands"
+    },
+    {
+        "x_coord": 9.339700973016768,
+        "y_coord": 56.950019838276354,
+        "model": "V 39-500",
+        "capacity_kw": 500.0,
+        "kommune": "Vesthimmerlands"
+    },
+    {
+        "x_coord": 9.335953933892249,
+        "y_coord": 56.95027916377969,
+        "model": "V 39-500",
+        "capacity_kw": 500.0,
+        "kommune": "Vesthimmerlands"
+    },
+    {
+        "x_coord": 9.457941031389097,
+        "y_coord": 56.78196699256833,
+        "model": "NTK 550",
+        "capacity_kw": 550.0,
+        "kommune": "Vesthimmerlands"
+    },
+    {
+        "x_coord": 9.465733012491016,
+        "y_coord": 56.77911980140703,
+        "model": "NTK 550",
+        "capacity_kw": 550.0,
+        "kommune": "Vesthimmerlands"
+    },
+    {
+        "x_coord": 9.459059361879639,
+        "y_coord": 56.77620643376966,
+        "model": "NTK 600/43/50",
+        "capacity_kw": 600.0,
+        "kommune": "Vesthimmerlands"
+    },
+    {
+        "x_coord": 9.458402023544942,
+        "y_coord": 56.77482281049191,
+        "model": "NTK 600/43/50",
+        "capacity_kw": 600.0,
+        "kommune": "Vesthimmerlands"
+    },
+    {
+        "x_coord": 9.476344005869885,
+        "y_coord": 56.7849588199992,
+        "model": "NTK 600/43/50",
+        "capacity_kw": 600.0,
+        "kommune": "Vesthimmerlands"
+    },
+    {
+        "x_coord": 9.476596002273295,
+        "y_coord": 56.78379210358063,
+        "model": "Ukendt",
+        "capacity_kw": 600.0,
+        "kommune": "Vesthimmerlands"
+    },
+    {
+        "x_coord": 9.45351195072068,
+        "y_coord": 56.74119551797782,
+        "model": "NM 1800-600",
+        "capacity_kw": 600.0,
+        "kommune": "Vesthimmerlands"
+    },
+    {
+        "x_coord": 9.411392681400022,
+        "y_coord": 56.808858266735896,
+        "model": "NM 1500-750/175",
+        "capacity_kw": 750.0,
+        "kommune": "Vesthimmerlands"
+    },
+    {
+        "x_coord": 9.409524665543099,
+        "y_coord": 56.796018828794445,
+        "model": "NM 1500-750/175",
+        "capacity_kw": 750.0,
+        "kommune": "Vesthimmerlands"
+    },
+    {
+        "x_coord": 9.332978294217728,
+        "y_coord": 56.73942752614955,
+        "model": "V 44-600",
+        "capacity_kw": 600.0,
+        "kommune": "Vesthimmerlands"
+    },
+    {
+        "x_coord": 9.329045145400737,
+        "y_coord": 56.739827421255555,
+        "model": "V 44-600",
+        "capacity_kw": 600.0,
+        "kommune": "Vesthimmerlands"
+    },
+    {
+        "x_coord": 9.325159842321396,
+        "y_coord": 56.74021179470074,
+        "model": "V 44-600",
+        "capacity_kw": 600.0,
+        "kommune": "Vesthimmerlands"
+    },
+    {
+        "x_coord": 9.32613261863375,
+        "y_coord": 56.7421273211801,
+        "model": "V 44-600",
+        "capacity_kw": 600.0,
+        "kommune": "Vesthimmerlands"
+    },
+    {
+        "x_coord": 9.330031368563946,
+        "y_coord": 56.74174485869178,
+        "model": "V 44-600",
+        "capacity_kw": 600.0,
+        "kommune": "Vesthimmerlands"
+    },
+    {
+        "x_coord": 9.333948837532926,
+        "y_coord": 56.74134362729411,
+        "model": "V 44-600",
+        "capacity_kw": 600.0,
+        "kommune": "Vesthimmerlands"
+    },
+    {
+        "x_coord": 9.362871388398306,
+        "y_coord": 56.797427150400594,
+        "model": "V 44-600",
+        "capacity_kw": 600.0,
+        "kommune": "Vesthimmerlands"
+    },
+    {
+        "x_coord": 9.364549823385367,
+        "y_coord": 56.799171774087824,
+        "model": "V 44-600",
+        "capacity_kw": 600.0,
+        "kommune": "Vesthimmerlands"
+    },
+    {
+        "x_coord": 9.359682727789151,
+        "y_coord": 56.79834375073487,
+        "model": "NM 750-200/48",
+        "capacity_kw": 750.0,
+        "kommune": "Vesthimmerlands"
+    },
+    {
+        "x_coord": 9.361368299212131,
+        "y_coord": 56.8000924389421,
+        "model": "V 44-600",
+        "capacity_kw": 600.0,
+        "kommune": "Vesthimmerlands"
+    },
+    {
+        "x_coord": 9.360900746038045,
+        "y_coord": 56.97157091994286,
+        "model": "Ukendt",
+        "capacity_kw": 300.0,
+        "kommune": "Vesthimmerlands"
+    },
+    {
+        "x_coord": 9.359994808170121,
+        "y_coord": 56.972670337410136,
+        "model": "Ukendt",
+        "capacity_kw": 300.0,
+        "kommune": "Vesthimmerlands"
+    },
+    {
+        "x_coord": 9.296311511709899,
+        "y_coord": 56.969988023612444,
+        "model": "NM 44/750",
+        "capacity_kw": 750.0,
+        "kommune": "Vesthimmerlands"
+    },
+    {
+        "x_coord": 9.296893273820634,
+        "y_coord": 56.9682283779126,
+        "model": "NM 44/750",
+        "capacity_kw": 750.0,
+        "kommune": "Vesthimmerlands"
+    },
+    {
+        "x_coord": 9.297455658271362,
+        "y_coord": 56.966479285801064,
+        "model": "NM 44/750",
+        "capacity_kw": 750.0,
+        "kommune": "Vesthimmerlands"
+    },
+    {
+        "x_coord": 9.33823820951261,
+        "y_coord": 56.951929318397895,
+        "model": "V 44-600",
+        "capacity_kw": 600.0,
+        "kommune": "Vesthimmerlands"
+    },
+    {
+        "x_coord": 9.513642325470062,
+        "y_coord": 56.882791396188175,
+        "model": "NM 750-200/48",
+        "capacity_kw": 750.0,
+        "kommune": "Vesthimmerlands"
+    },
+    {
+        "x_coord": 9.516592163719382,
+        "y_coord": 56.88212099221269,
+        "model": "NM 750-200/48",
+        "capacity_kw": 750.0,
+        "kommune": "Vesthimmerlands"
+    },
+    {
+        "x_coord": 9.519543856331623,
+        "y_coord": 56.881449881698046,
+        "model": "NM 750-200/48",
+        "capacity_kw": 750.0,
+        "kommune": "Vesthimmerlands"
+    },
+    {
+        "x_coord": 9.487274481036119,
+        "y_coord": 56.88164600994541,
+        "model": "NM 750-200/48",
+        "capacity_kw": 750.0,
+        "kommune": "Vesthimmerlands"
+    },
+    {
+        "x_coord": 9.488154123881007,
+        "y_coord": 56.87983961926767,
+        "model": "NM 750-200/48",
+        "capacity_kw": 750.0,
+        "kommune": "Vesthimmerlands"
+    },
+    {
+        "x_coord": 9.48460335162978,
+        "y_coord": 56.880266425956975,
+        "model": "NM 750-200/48",
+        "capacity_kw": 750.0,
+        "kommune": "Vesthimmerlands"
+    },
+    {
+        "x_coord": 9.309397225372528,
+        "y_coord": 56.726100783194774,
+        "model": "V 47-660",
+        "capacity_kw": 660.0,
+        "kommune": "Vesthimmerlands"
+    },
+    {
+        "x_coord": 9.3093816497783,
+        "y_coord": 56.72408464633758,
+        "model": "V 47-660",
+        "capacity_kw": 660.0,
+        "kommune": "Vesthimmerlands"
+    },
+    {
+        "x_coord": 9.309357706144258,
+        "y_coord": 56.7220640376229,
+        "model": "V 47-660",
+        "capacity_kw": 660.0,
+        "kommune": "Vesthimmerlands"
+    },
+    {
+        "x_coord": 9.473004543258464,
+        "y_coord": 56.90267066402,
+        "model": "NM 750-200/48",
+        "capacity_kw": 750.0,
+        "kommune": "Vesthimmerlands"
+    },
+    {
+        "x_coord": 9.47228904500382,
+        "y_coord": 56.90100832072052,
+        "model": "NM 750-200/48",
+        "capacity_kw": 750.0,
+        "kommune": "Vesthimmerlands"
+    },
+    {
+        "x_coord": 9.471574533427614,
+        "y_coord": 56.89934102823188,
+        "model": "NM 750-200/48",
+        "capacity_kw": 750.0,
+        "kommune": "Vesthimmerlands"
+    },
+    {
+        "x_coord": 9.399282020431318,
+        "y_coord": 56.683562790480636,
+        "model": "V 47-660",
+        "capacity_kw": 660.0,
+        "kommune": "Vesthimmerlands"
+    },
+    {
+        "x_coord": 9.395815677354475,
+        "y_coord": 56.68473782350953,
+        "model": "V 47-660",
+        "capacity_kw": 660.0,
+        "kommune": "Vesthimmerlands"
+    },
+    {
+        "x_coord": 9.392339745588446,
+        "y_coord": 56.685921953380955,
+        "model": "V 47-660",
+        "capacity_kw": 660.0,
+        "kommune": "Vesthimmerlands"
+    },
+    {
+        "x_coord": 9.38886214471656,
+        "y_coord": 56.68710778766709,
+        "model": "V 47-660",
+        "capacity_kw": 660.0,
+        "kommune": "Vesthimmerlands"
+    },
+    {
+        "x_coord": 9.242287268126269,
+        "y_coord": 56.94437962660289,
+        "model": "NM 48/750",
+        "capacity_kw": 750.0,
+        "kommune": "Vesthimmerlands"
+    },
+    {
+        "x_coord": 9.242866766775464,
+        "y_coord": 56.94350897985063,
+        "model": "NM 48/750",
+        "capacity_kw": 750.0,
+        "kommune": "Vesthimmerlands"
+    },
+    {
+        "x_coord": 9.29879564815837,
+        "y_coord": 56.88139852259604,
+        "model": "NM 48/750",
+        "capacity_kw": 750.0,
+        "kommune": "Vesthimmerlands"
+    },
+    {
+        "x_coord": 9.299389871111867,
+        "y_coord": 56.88015114946635,
+        "model": "NM 48/750",
+        "capacity_kw": 750.0,
+        "kommune": "Vesthimmerlands"
+    },
+    {
+        "x_coord": 9.299982730466494,
+        "y_coord": 56.87890233908615,
+        "model": "NM 48/750",
+        "capacity_kw": 750.0,
+        "kommune": "Vesthimmerlands"
+    },
+    {
+        "x_coord": 9.201514034609502,
+        "y_coord": 56.910838777296284,
+        "model": "NM 48/750",
+        "capacity_kw": 750.0,
+        "kommune": "Vesthimmerlands"
+    },
+    {
+        "x_coord": 9.2032170502969,
+        "y_coord": 56.908425080498695,
+        "model": "NM 48/750",
+        "capacity_kw": 750.0,
+        "kommune": "Vesthimmerlands"
+    },
+    {
+        "x_coord": 9.20236063878868,
+        "y_coord": 56.90963108643233,
+        "model": "NM 48/750",
+        "capacity_kw": 750.0,
+        "kommune": "Vesthimmerlands"
+    },
+    {
+        "x_coord": 9.295531050517543,
+        "y_coord": 56.95642303131759,
+        "model": "V 47-660",
+        "capacity_kw": 660.0,
+        "kommune": "Vesthimmerlands"
+    },
+    {
+        "x_coord": 9.295853701318329,
+        "y_coord": 56.95489370895861,
+        "model": "V 47-660",
+        "capacity_kw": 660.0,
+        "kommune": "Vesthimmerlands"
+    },
+    {
+        "x_coord": 9.298120454022207,
+        "y_coord": 56.89845182047178,
+        "model": "V 47-660",
+        "capacity_kw": 660.0,
+        "kommune": "Vesthimmerlands"
+    },
+    {
+        "x_coord": 9.298083586324124,
+        "y_coord": 56.89681157726168,
+        "model": "V 47-660",
+        "capacity_kw": 660.0,
+        "kommune": "Vesthimmerlands"
+    },
+    {
+        "x_coord": 9.185338819256923,
+        "y_coord": 56.884659919564456,
+        "model": "NM 48/750",
+        "capacity_kw": 750.0,
+        "kommune": "Vesthimmerlands"
+    },
+    {
+        "x_coord": 9.189784424877574,
+        "y_coord": 56.883997528387475,
+        "model": "NM 48/750",
+        "capacity_kw": 750.0,
+        "kommune": "Vesthimmerlands"
+    },
+    {
+        "x_coord": 9.187568731357977,
+        "y_coord": 56.88433533610164,
+        "model": "NM 48/750",
+        "capacity_kw": 750.0,
+        "kommune": "Vesthimmerlands"
+    },
+    {
+        "x_coord": 9.191998704594695,
+        "y_coord": 56.88367980694173,
+        "model": "NM 48/750",
+        "capacity_kw": 750.0,
+        "kommune": "Vesthimmerlands"
+    },
+    {
+        "x_coord": 9.203421890351684,
+        "y_coord": 56.91819220634189,
+        "model": "NM 48/750",
+        "capacity_kw": 750.0,
+        "kommune": "Vesthimmerlands"
+    },
+    {
+        "x_coord": 9.202594592772426,
+        "y_coord": 56.917019748514896,
+        "model": "NM 48/750",
+        "capacity_kw": 750.0,
+        "kommune": "Vesthimmerlands"
+    },
+    {
+        "x_coord": 9.3255075689265,
+        "y_coord": 56.86046015387267,
+        "model": "NM 52/900",
+        "capacity_kw": 900.0,
+        "kommune": "Vesthimmerlands"
+    },
+    {
+        "x_coord": 9.322716450798964,
+        "y_coord": 56.85951251337487,
+        "model": "NM 52/900",
+        "capacity_kw": 900.0,
+        "kommune": "Vesthimmerlands"
+    },
+    {
+        "x_coord": 9.319991514460892,
+        "y_coord": 56.8585782963473,
+        "model": "NM 52/900",
+        "capacity_kw": 900.0,
+        "kommune": "Vesthimmerlands"
+    },
+    {
+        "x_coord": 9.341169098899842,
+        "y_coord": 56.948119848249725,
+        "model": "M 1500-750/175",
+        "capacity_kw": 750.0,
+        "kommune": "Vesthimmerlands"
+    },
+    {
+        "x_coord": 9.33888333518246,
+        "y_coord": 56.94647541002643,
+        "model": "M 1500-750/175",
+        "capacity_kw": 750.0,
+        "kommune": "Vesthimmerlands"
+    },
+    {
+        "x_coord": 9.337391561026507,
+        "y_coord": 56.94836555544549,
+        "model": "M 1500-750/175",
+        "capacity_kw": 750.0,
+        "kommune": "Vesthimmerlands"
+    },
+    {
+        "x_coord": 9.340732173113633,
+        "y_coord": 57.00204682838178,
+        "model": "SWT 2.3-93",
+        "capacity_kw": 2300.0,
+        "kommune": "Vesthimmerlands"
+    },
+    {
+        "x_coord": 9.348479072326617,
+        "y_coord": 57.00318869384711,
+        "model": "SWT 2.3-93",
+        "capacity_kw": 2300.0,
+        "kommune": "Vesthimmerlands"
+    },
+    {
+        "x_coord": 9.35622606008978,
+        "y_coord": 57.004324330750954,
+        "model": "SWT 2.3-93",
+        "capacity_kw": 2300.0,
+        "kommune": "Vesthimmerlands"
+    },
+    {
+        "x_coord": 9.363971078294822,
+        "y_coord": 57.00546254896568,
+        "model": "SWT 2.3-93",
+        "capacity_kw": 2300.0,
+        "kommune": "Vesthimmerlands"
+    },
+    {
+        "x_coord": 9.371698458029663,
+        "y_coord": 57.0066004308304,
+        "model": "SWT 2.3-93",
+        "capacity_kw": 2300.0,
+        "kommune": "Vesthimmerlands"
+    },
+    {
+        "x_coord": 9.379458915641637,
+        "y_coord": 57.00773854461448,
+        "model": "SWT 2.3-93",
+        "capacity_kw": 2300.0,
+        "kommune": "Vesthimmerlands"
+    },
+    {
+        "x_coord": 9.38720497254228,
+        "y_coord": 57.008871012057256,
+        "model": "SWT 2.3-93",
+        "capacity_kw": 2300.0,
+        "kommune": "Vesthimmerlands"
+    },
+    {
+        "x_coord": 9.56175778803721,
+        "y_coord": 56.78209021420237,
+        "model": "Ukendt",
+        "capacity_kw": 11.0,
+        "kommune": "Vesthimmerlands"
+    },
+    {
+        "x_coord": 9.3746704023321,
+        "y_coord": 56.77335232973671,
+        "model": "SWT 2.3-93",
+        "capacity_kw": 2300.0,
+        "kommune": "Vesthimmerlands"
+    },
+    {
+        "x_coord": 9.382962859754315,
+        "y_coord": 56.77329309891451,
+        "model": "SWT 2.3-93",
+        "capacity_kw": 2300.0,
+        "kommune": "Vesthimmerlands"
+    },
+    {
+        "x_coord": 9.391243852147484,
+        "y_coord": 56.773234969857995,
+        "model": "SWT 2.3-93",
+        "capacity_kw": 2300.0,
+        "kommune": "Vesthimmerlands"
+    },
+    {
+        "x_coord": 9.399547508494127,
+        "y_coord": 56.773171456970545,
+        "model": "SWT 2.3-93",
+        "capacity_kw": 2300.0,
+        "kommune": "Vesthimmerlands"
+    },
+    {
+        "x_coord": 9.40783579611562,
+        "y_coord": 56.77311130461728,
+        "model": "SWT 2.3-93",
+        "capacity_kw": 2300.0,
+        "kommune": "Vesthimmerlands"
+    },
+    {
+        "x_coord": 9.416103428010533,
+        "y_coord": 56.77304968218743,
+        "model": "SWT 2.3-93",
+        "capacity_kw": 2300.0,
+        "kommune": "Vesthimmerlands"
+    },
+    {
+        "x_coord": 9.527453728541303,
+        "y_coord": 56.68948495855905,
+        "model": "V 90-3 MW",
+        "capacity_kw": 3000.0,
+        "kommune": "Vesthimmerlands"
+    },
+    {
+        "x_coord": 9.524773563275271,
+        "y_coord": 56.68663843785706,
+        "model": "V 90-3 MW",
+        "capacity_kw": 3000.0,
+        "kommune": "Vesthimmerlands"
+    },
+    {
+        "x_coord": 9.52211959638793,
+        "y_coord": 56.683803788045864,
+        "model": "V 90-3 MW",
+        "capacity_kw": 3000.0,
+        "kommune": "Vesthimmerlands"
+    },
+    {
+        "x_coord": 9.519435067944436,
+        "y_coord": 56.68096094342456,
+        "model": "V 90-3 MW",
+        "capacity_kw": 3000.0,
+        "kommune": "Vesthimmerlands"
+    },
+    {
+        "x_coord": 9.384071412740902,
+        "y_coord": 56.84612827761597,
+        "model": "V112-3.0MW",
+        "capacity_kw": 3075.0,
+        "kommune": "Vesthimmerlands"
+    },
+    {
+        "x_coord": 9.387420712993544,
+        "y_coord": 56.84379544152133,
+        "model": "V112-3.0MW",
+        "capacity_kw": 3075.0,
+        "kommune": "Vesthimmerlands"
+    },
+    {
+        "x_coord": 9.390795170464814,
+        "y_coord": 56.841446983118594,
+        "model": "V112-3.0MW",
+        "capacity_kw": 3075.0,
+        "kommune": "Vesthimmerlands"
+    },
+    {
+        "x_coord": 9.39415508096714,
+        "y_coord": 56.8391113246479,
+        "model": "V112-3.0MW",
+        "capacity_kw": 3075.0,
+        "kommune": "Vesthimmerlands"
+    },
+    {
+        "x_coord": 9.432031349774245,
+        "y_coord": 56.83735914310946,
+        "model": "Ukendt",
+        "capacity_kw": 10.0,
+        "kommune": "Vesthimmerlands"
+    },
+    {
+        "x_coord": 9.431596702580528,
+        "y_coord": 56.76186415779769,
+        "model": "Ukendt",
+        "capacity_kw": 10.0,
+        "kommune": "Vesthimmerlands"
+    },
+    {
+        "x_coord": 9.243359620133084,
+        "y_coord": 56.78055015636,
+        "model": "Ukendt",
+        "capacity_kw": 10.0,
+        "kommune": "Vesthimmerlands"
+    },
+    {
+        "x_coord": 9.361965212531574,
+        "y_coord": 56.927160753042166,
+        "model": "Ukendt",
+        "capacity_kw": 10.0,
+        "kommune": "Vesthimmerlands"
+    },
+    {
+        "x_coord": 9.244472846669177,
+        "y_coord": 56.77819304579771,
+        "model": "Gaia Wind 133-10 kW",
+        "capacity_kw": 10.0,
+        "kommune": "Vesthimmerlands"
+    },
+    {
+        "x_coord": 9.36201759293734,
+        "y_coord": 56.96267958079497,
+        "model": "Ukendt",
+        "capacity_kw": 10.0,
+        "kommune": "Vesthimmerlands"
+    },
+    {
+        "x_coord": 9.229470110753923,
+        "y_coord": 56.92065507245992,
+        "model": "Gaia Wind 133-10 kW",
+        "capacity_kw": 10.0,
+        "kommune": "Vesthimmerlands"
+    },
+    {
+        "x_coord": 9.359906900385903,
+        "y_coord": 56.78528694957713,
+        "model": "SWP10-14TG20",
+        "capacity_kw": 10.0,
+        "kommune": "Vesthimmerlands"
+    },
+    {
+        "x_coord": 9.333992666650985,
+        "y_coord": 56.928579497857825,
+        "model": "Ukendt",
+        "capacity_kw": 10.0,
+        "kommune": "Vesthimmerlands"
+    },
+    {
+        "x_coord": 9.341839107733554,
+        "y_coord": 56.84037086460785,
+        "model": "SWP10-14TG20",
+        "capacity_kw": 10.0,
+        "kommune": "Vesthimmerlands"
+    },
+    {
+        "x_coord": 9.221538468265427,
+        "y_coord": 57.00824918523211,
+        "model": "SWT-DD-130 Mode 1",
+        "capacity_kw": 4300.0,
+        "kommune": "Vesthimmerlands"
+    },
+    {
+        "x_coord": 9.21916620406781,
+        "y_coord": 57.01083162528747,
+        "model": "SWT-DD-130 Mode 1",
+        "capacity_kw": 4300.0,
+        "kommune": "Vesthimmerlands"
+    },
+    {
+        "x_coord": 9.216777144120423,
+        "y_coord": 57.01341404807165,
+        "model": "SWT-DD-130 Mode 1",
+        "capacity_kw": 4300.0,
+        "kommune": "Vesthimmerlands"
+    },
+    {
+        "x_coord": 9.21446973354342,
+        "y_coord": 57.01593339961082,
+        "model": "SWT-DD-130 Mode 1",
+        "capacity_kw": 4300.0,
+        "kommune": "Vesthimmerlands"
+    },
+    {
+        "x_coord": 9.212211061598042,
+        "y_coord": 57.018389740306255,
+        "model": "SWT-DD-130 Mode 1",
+        "capacity_kw": 4300.0,
+        "kommune": "Vesthimmerlands"
+    },
+    {
+        "x_coord": 9.226150572248015,
+        "y_coord": 57.011268379820535,
+        "model": "SWT-DD-130 Mode 1",
+        "capacity_kw": 4300.0,
+        "kommune": "Vesthimmerlands"
+    },
+    {
+        "x_coord": 9.223762022692465,
+        "y_coord": 57.01385991873975,
+        "model": "SWT-DD-130 Mode 1",
+        "capacity_kw": 4300.0,
+        "kommune": "Vesthimmerlands"
+    },
+    {
+        "x_coord": 9.221389556468678,
+        "y_coord": 57.016442398746264,
+        "model": "SWT-DD-130 Mode 1",
+        "capacity_kw": 4300.0,
+        "kommune": "Vesthimmerlands"
+    },
+    {
+        "x_coord": 9.219000450340175,
+        "y_coord": 57.01905181196056,
+        "model": "SWT-DD-130 Mode 1",
+        "capacity_kw": 4300.0,
+        "kommune": "Vesthimmerlands"
+    }
+]

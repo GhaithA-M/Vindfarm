@@ -1,0 +1,170 @@
+[
+    {
+        "x_coord": 10.230239378269504,
+        "y_coord": 55.91380923560373,
+        "model": "V 47-660",
+        "capacity_kw": 660.0,
+        "kommune": "Odder"
+    },
+    {
+        "x_coord": 10.35205099615005,
+        "y_coord": 55.96560466969043,
+        "model": "V 39",
+        "capacity_kw": 500.0,
+        "kommune": "Odder"
+    },
+    {
+        "x_coord": 10.352099821487865,
+        "y_coord": 55.967399791854916,
+        "model": "V 39",
+        "capacity_kw": 500.0,
+        "kommune": "Odder"
+    },
+    {
+        "x_coord": 10.352146328492529,
+        "y_coord": 55.969197185443704,
+        "model": "V 39",
+        "capacity_kw": 500.0,
+        "kommune": "Odder"
+    },
+    {
+        "x_coord": 10.352153264001645,
+        "y_coord": 55.97101298449604,
+        "model": "V 39",
+        "capacity_kw": 500.0,
+        "kommune": "Odder"
+    },
+    {
+        "x_coord": 10.352199777354553,
+        "y_coord": 55.9728102871745,
+        "model": "V 39",
+        "capacity_kw": 500.0,
+        "kommune": "Odder"
+    },
+    {
+        "x_coord": 10.358426398446587,
+        "y_coord": 55.96493771949171,
+        "model": "V 39",
+        "capacity_kw": 500.0,
+        "kommune": "Odder"
+    },
+    {
+        "x_coord": 10.358471024142826,
+        "y_coord": 55.96673720061103,
+        "model": "V 39",
+        "capacity_kw": 500.0,
+        "kommune": "Odder"
+    },
+    {
+        "x_coord": 10.358514094228536,
+        "y_coord": 55.9685332837312,
+        "model": "V 39",
+        "capacity_kw": 500.0,
+        "kommune": "Odder"
+    },
+    {
+        "x_coord": 10.358551111459288,
+        "y_coord": 55.97033024181232,
+        "model": "V 39",
+        "capacity_kw": 500.0,
+        "kommune": "Odder"
+    },
+    {
+        "x_coord": 10.358605539805103,
+        "y_coord": 55.97213006271044,
+        "model": "V 39",
+        "capacity_kw": 500.0,
+        "kommune": "Odder"
+    },
+    {
+        "x_coord": 10.0300182493017,
+        "y_coord": 55.93649314759377,
+        "model": "600 - MK lV",
+        "capacity_kw": 600.0,
+        "kommune": "Odder"
+    },
+    {
+        "x_coord": 10.036064331820215,
+        "y_coord": 55.93297015320861,
+        "model": "600 - MK lV",
+        "capacity_kw": 600.0,
+        "kommune": "Odder"
+    },
+    {
+        "x_coord": 10.038867002169997,
+        "y_coord": 55.93134199464559,
+        "model": "600 - MK lV",
+        "capacity_kw": 600.0,
+        "kommune": "Odder"
+    },
+    {
+        "x_coord": 10.035303086507323,
+        "y_coord": 55.97738407332642,
+        "model": "NM 52/900 44",
+        "capacity_kw": 900.0,
+        "kommune": "Odder"
+    },
+    {
+        "x_coord": 10.035289144126374,
+        "y_coord": 55.9796217655421,
+        "model": "NM 52/900 44",
+        "capacity_kw": 900.0,
+        "kommune": "Odder"
+    },
+    {
+        "x_coord": 10.035304401578369,
+        "y_coord": 55.98186657987834,
+        "model": "NM 52/900 44",
+        "capacity_kw": 900.0,
+        "kommune": "Odder"
+    },
+    {
+        "x_coord": 10.197751180394368,
+        "y_coord": 55.96527436711645,
+        "model": "Ukendt",
+        "capacity_kw": 11.0,
+        "kommune": "Odder"
+    },
+    {
+        "x_coord": 10.060030141800901,
+        "y_coord": 55.96483297391968,
+        "model": "E-82 E4",
+        "capacity_kw": 2000.0,
+        "kommune": "Odder"
+    },
+    {
+        "x_coord": 10.054358372949483,
+        "y_coord": 55.96488099312678,
+        "model": "E-82 E4",
+        "capacity_kw": 2100.0,
+        "kommune": "Odder"
+    },
+    {
+        "x_coord": 10.06569091824907,
+        "y_coord": 55.96478465388538,
+        "model": "E-82 E4",
+        "capacity_kw": 2000.0,
+        "kommune": "Odder"
+    },
+    {
+        "x_coord": 10.02095868803608,
+        "y_coord": 55.91219398382151,
+        "model": "V100-2.2 MW",
+        "capacity_kw": 2200.0,
+        "kommune": "Odder"
+    },
+    {
+        "x_coord": 10.016899456833183,
+        "y_coord": 55.91175132861188,
+        "model": "V100-2.2 MW",
+        "capacity_kw": 2200.0,
+        "kommune": "Odder"
+    },
+    {
+        "x_coord": 10.217513156382063,
+        "y_coord": 55.90182414311026,
+        "model": "Ukendt",
+        "capacity_kw": 10.0,
+        "kommune": "Odder"
+    }
+]

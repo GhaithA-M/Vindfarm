@@ -1,0 +1,51 @@
+[
+    {
+        "x_coord": 10.392184793891817,
+        "y_coord": 54.831649549141034,
+        "model": "V 80-2 MW",
+        "capacity_kw": 2000.0,
+        "kommune": "Ærø"
+    },
+    {
+        "x_coord": 10.397536019900693,
+        "y_coord": 54.829940459090594,
+        "model": "V 80-2 MW",
+        "capacity_kw": 2000.0,
+        "kommune": "Ærø"
+    },
+    {
+        "x_coord": 10.402849438599056,
+        "y_coord": 54.82818653917786,
+        "model": "V 80-2 MW",
+        "capacity_kw": 2000.0,
+        "kommune": "Ærø"
+    },
+    {
+        "x_coord": 10.412605133791041,
+        "y_coord": 54.822094760983695,
+        "model": "V 80-2 MW",
+        "capacity_kw": 2000.0,
+        "kommune": "Ærø"
+    },
+    {
+        "x_coord": 10.416965590262633,
+        "y_coord": 54.819977054178594,
+        "model": "V 80-2 MW",
+        "capacity_kw": 2000.0,
+        "kommune": "Ærø"
+    },
+    {
+        "x_coord": 10.421332205765674,
+        "y_coord": 54.8178614519683,
+        "model": "V 80-2 MW",
+        "capacity_kw": 2000.0,
+        "kommune": "Ærø"
+    },
+    {
+        "x_coord": 10.365242722618683,
+        "y_coord": 54.846255942612736,
+        "model": "Ukendt",
+        "capacity_kw": 10.0,
+        "kommune": "Ærø"
+    }
+]

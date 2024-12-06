@@ -1,0 +1,303 @@
+[
+    {
+        "x_coord": 9.812342495788295,
+        "y_coord": 56.87177522254015,
+        "model": "Ukendt",
+        "capacity_kw": 150.0,
+        "kommune": "Rebild"
+    },
+    {
+        "x_coord": 9.713717766718817,
+        "y_coord": 56.689837901978805,
+        "model": "Ukendt",
+        "capacity_kw": 150.0,
+        "kommune": "Rebild"
+    },
+    {
+        "x_coord": 9.75654081167854,
+        "y_coord": 56.894897012019584,
+        "model": "NTK 600/43/50",
+        "capacity_kw": 600.0,
+        "kommune": "Rebild"
+    },
+    {
+        "x_coord": 9.756396603176578,
+        "y_coord": 56.89399957910454,
+        "model": "NTK 600/43/50",
+        "capacity_kw": 600.0,
+        "kommune": "Rebild"
+    },
+    {
+        "x_coord": 9.756207996708696,
+        "y_coord": 56.89308983704256,
+        "model": "NTK 600/43/50",
+        "capacity_kw": 600.0,
+        "kommune": "Rebild"
+    },
+    {
+        "x_coord": 9.69723672637992,
+        "y_coord": 56.76253357819648,
+        "model": "Ukendt",
+        "capacity_kw": 600.0,
+        "kommune": "Rebild"
+    },
+    {
+        "x_coord": 9.697447801234114,
+        "y_coord": 56.76098371909015,
+        "model": "Ukendt",
+        "capacity_kw": 600.0,
+        "kommune": "Rebild"
+    },
+    {
+        "x_coord": 9.722136584344279,
+        "y_coord": 56.92686610576111,
+        "model": "NM 1800-600/150",
+        "capacity_kw": 600.0,
+        "kommune": "Rebild"
+    },
+    {
+        "x_coord": 9.722394246728436,
+        "y_coord": 56.928381815305244,
+        "model": "NM 1800-600/150",
+        "capacity_kw": 600.0,
+        "kommune": "Rebild"
+    },
+    {
+        "x_coord": 9.72187558727393,
+        "y_coord": 56.92529570278792,
+        "model": "NM 1800-600/150",
+        "capacity_kw": 600.0,
+        "kommune": "Rebild"
+    },
+    {
+        "x_coord": 9.769579474491994,
+        "y_coord": 56.952488187250424,
+        "model": "NM 750-200/48",
+        "capacity_kw": 750.0,
+        "kommune": "Rebild"
+    },
+    {
+        "x_coord": 9.769736406164926,
+        "y_coord": 56.95086482159293,
+        "model": "NM 750-200/48",
+        "capacity_kw": 750.0,
+        "kommune": "Rebild"
+    },
+    {
+        "x_coord": 9.769845158878404,
+        "y_coord": 56.94924157213997,
+        "model": "NM 750-200/48",
+        "capacity_kw": 750.0,
+        "kommune": "Rebild"
+    },
+    {
+        "x_coord": 9.682711251948794,
+        "y_coord": 56.72746288029835,
+        "model": "NM 1000/60",
+        "capacity_kw": 1000.0,
+        "kommune": "Rebild"
+    },
+    {
+        "x_coord": 9.682531259638091,
+        "y_coord": 56.72911928274013,
+        "model": "NM 1000/60",
+        "capacity_kw": 1000.0,
+        "kommune": "Rebild"
+    },
+    {
+        "x_coord": 9.682366899222226,
+        "y_coord": 56.73076427886483,
+        "model": "NM 1000/60",
+        "capacity_kw": 1000.0,
+        "kommune": "Rebild"
+    },
+    {
+        "x_coord": 9.682179611270762,
+        "y_coord": 56.73241658706621,
+        "model": "NM 1000/60",
+        "capacity_kw": 1000.0,
+        "kommune": "Rebild"
+    },
+    {
+        "x_coord": 10.005579018046989,
+        "y_coord": 56.85183723416422,
+        "model": "NM 48/750",
+        "capacity_kw": 750.0,
+        "kommune": "Rebild"
+    },
+    {
+        "x_coord": 10.002086136565572,
+        "y_coord": 56.85399385933258,
+        "model": "NM 48/750",
+        "capacity_kw": 750.0,
+        "kommune": "Rebild"
+    },
+    {
+        "x_coord": 9.998669577291915,
+        "y_coord": 56.856155613727786,
+        "model": "NM 48/750",
+        "capacity_kw": 750.0,
+        "kommune": "Rebild"
+    },
+    {
+        "x_coord": 10.000237996444199,
+        "y_coord": 56.858828722763214,
+        "model": "NM 48/750",
+        "capacity_kw": 750.0,
+        "kommune": "Rebild"
+    },
+    {
+        "x_coord": 10.003704017236828,
+        "y_coord": 56.856671111549495,
+        "model": "NM 48/750",
+        "capacity_kw": 750.0,
+        "kommune": "Rebild"
+    },
+    {
+        "x_coord": 10.007155006767187,
+        "y_coord": 56.85451199547,
+        "model": "NM 48/750",
+        "capacity_kw": 750.0,
+        "kommune": "Rebild"
+    },
+    {
+        "x_coord": 9.691855148325496,
+        "y_coord": 56.770761706720506,
+        "model": "V 29-225",
+        "capacity_kw": 225.0,
+        "kommune": "Rebild"
+    },
+    {
+        "x_coord": 9.697021524989022,
+        "y_coord": 56.7640911858912,
+        "model": "NM 750-200/44",
+        "capacity_kw": 750.0,
+        "kommune": "Rebild"
+    },
+    {
+        "x_coord": 9.72264467240237,
+        "y_coord": 56.92992155280177,
+        "model": "NM 750-200/48",
+        "capacity_kw": 750.0,
+        "kommune": "Rebild"
+    },
+    {
+        "x_coord": 9.690415282821595,
+        "y_coord": 56.82577681279707,
+        "model": "Ukendt",
+        "capacity_kw": 11.0,
+        "kommune": "Rebild"
+    },
+    {
+        "x_coord": 9.613045842820604,
+        "y_coord": 56.76334263692017,
+        "model": "SWT 3.6-120",
+        "capacity_kw": 3600.0,
+        "kommune": "Rebild"
+    },
+    {
+        "x_coord": 9.613562257621124,
+        "y_coord": 56.76637086151233,
+        "model": "SWT 3.6-120",
+        "capacity_kw": 3600.0,
+        "kommune": "Rebild"
+    },
+    {
+        "x_coord": 9.614073569963,
+        "y_coord": 56.76939201047344,
+        "model": "SWT 3.6-120",
+        "capacity_kw": 3600.0,
+        "kommune": "Rebild"
+    },
+    {
+        "x_coord": 9.61505603083747,
+        "y_coord": 56.775424434358996,
+        "model": "SWT 3.6-120",
+        "capacity_kw": 3600.0,
+        "kommune": "Rebild"
+    },
+    {
+        "x_coord": 9.614583412275111,
+        "y_coord": 56.77241819440842,
+        "model": "SWT 3.6-120",
+        "capacity_kw": 3600.0,
+        "kommune": "Rebild"
+    },
+    {
+        "x_coord": 10.068267502289151,
+        "y_coord": 56.85349560426575,
+        "model": "Ukendt",
+        "capacity_kw": 10.0,
+        "kommune": "Rebild"
+    },
+    {
+        "x_coord": 9.735189240105003,
+        "y_coord": 56.76351043211015,
+        "model": "Gaia Wind 133-10 kW",
+        "capacity_kw": 10.0,
+        "kommune": "Rebild"
+    },
+    {
+        "x_coord": 9.656054915910445,
+        "y_coord": 56.8239436773481,
+        "model": "Gaia Wind 133-10 kW",
+        "capacity_kw": 10.0,
+        "kommune": "Rebild"
+    },
+    {
+        "x_coord": 9.811875011793328,
+        "y_coord": 56.7301424398227,
+        "model": "Gaia Wind 133-10 kW",
+        "capacity_kw": 10.0,
+        "kommune": "Rebild"
+    },
+    {
+        "x_coord": 9.990440875566481,
+        "y_coord": 56.87809124830183,
+        "model": "Gaia Wind 133-10 kW",
+        "capacity_kw": 10.0,
+        "kommune": "Rebild"
+    },
+    {
+        "x_coord": 9.782323500636005,
+        "y_coord": 56.946255878019144,
+        "model": "Ukendt",
+        "capacity_kw": 10.0,
+        "kommune": "Rebild"
+    },
+    {
+        "x_coord": 9.650793023087223,
+        "y_coord": 56.694541614337865,
+        "model": "Ukendt",
+        "capacity_kw": 10.0,
+        "kommune": "Rebild"
+    },
+    {
+        "x_coord": 9.712664324805075,
+        "y_coord": 56.67178716547702,
+        "model": "SWT-3.2-113 DD",
+        "capacity_kw": 3200.0,
+        "kommune": "Rebild"
+    },
+    {
+        "x_coord": 9.718755302231022,
+        "y_coord": 56.673093062094054,
+        "model": "SWT-3.2-113 DD",
+        "capacity_kw": 3200.0,
+        "kommune": "Rebild"
+    },
+    {
+        "x_coord": 9.720227663415915,
+        "y_coord": 56.67595223654592,
+        "model": "SWT-3.2-113 DD",
+        "capacity_kw": 3200.0,
+        "kommune": "Rebild"
+    },
+    {
+        "x_coord": 9.714146537131219,
+        "y_coord": 56.67465075665181,
+        "model": "SWT-3.2-113 DD",
+        "capacity_kw": 3200.0,
+        "kommune": "Rebild"
+    }
+]

@@ -1,0 +1,618 @@
+[
+    {
+        "x_coord": 9.210180724045793,
+        "y_coord": 55.55791798943235,
+        "model": "NM 600/150/48",
+        "capacity_kw": 600.0,
+        "kommune": "Vejen"
+    },
+    {
+        "x_coord": 9.207305589070133,
+        "y_coord": 55.55880051080855,
+        "model": "NM 600/150/48",
+        "capacity_kw": 600.0,
+        "kommune": "Vejen"
+    },
+    {
+        "x_coord": 9.2044443289023,
+        "y_coord": 55.559693005248704,
+        "model": "NM 1800-600/150",
+        "capacity_kw": 600.0,
+        "kommune": "Vejen"
+    },
+    {
+        "x_coord": 9.190908447735646,
+        "y_coord": 55.50996148626666,
+        "model": "NM 1800-600/150",
+        "capacity_kw": 600.0,
+        "kommune": "Vejen"
+    },
+    {
+        "x_coord": 9.209040516506509,
+        "y_coord": 55.48495360052929,
+        "model": "V 44-600",
+        "capacity_kw": 600.0,
+        "kommune": "Vejen"
+    },
+    {
+        "x_coord": 9.19316178302479,
+        "y_coord": 55.532330558822615,
+        "model": "NM 600/150/48",
+        "capacity_kw": 600.0,
+        "kommune": "Vejen"
+    },
+    {
+        "x_coord": 9.20282304549126,
+        "y_coord": 55.515691916319646,
+        "model": "NM 1800-600/150",
+        "capacity_kw": 600.0,
+        "kommune": "Vejen"
+    },
+    {
+        "x_coord": 9.158288282287456,
+        "y_coord": 55.604134747526004,
+        "model": "NM 600/48",
+        "capacity_kw": 600.0,
+        "kommune": "Vejen"
+    },
+    {
+        "x_coord": 9.157669097753807,
+        "y_coord": 55.601440152277945,
+        "model": "NM 600/48",
+        "capacity_kw": 600.0,
+        "kommune": "Vejen"
+    },
+    {
+        "x_coord": 9.193996951891702,
+        "y_coord": 55.59364405009024,
+        "model": "NM 750-200/48",
+        "capacity_kw": 750.0,
+        "kommune": "Vejen"
+    },
+    {
+        "x_coord": 9.191877610229946,
+        "y_coord": 55.59568647728595,
+        "model": "NM 48/750",
+        "capacity_kw": 750.0,
+        "kommune": "Vejen"
+    },
+    {
+        "x_coord": 9.27695219860775,
+        "y_coord": 55.49509123691178,
+        "model": "V 47-660",
+        "capacity_kw": 660.0,
+        "kommune": "Vejen"
+    },
+    {
+        "x_coord": 9.278194961486934,
+        "y_coord": 55.49344178579302,
+        "model": "V 47-660",
+        "capacity_kw": 660.0,
+        "kommune": "Vejen"
+    },
+    {
+        "x_coord": 9.27946661403131,
+        "y_coord": 55.49179656872008,
+        "model": "V 47-660",
+        "capacity_kw": 660.0,
+        "kommune": "Vejen"
+    },
+    {
+        "x_coord": 9.193887003253145,
+        "y_coord": 55.48788792747671,
+        "model": "NM 750-200/48",
+        "capacity_kw": 750.0,
+        "kommune": "Vejen"
+    },
+    {
+        "x_coord": 9.066135648598417,
+        "y_coord": 55.52284340608585,
+        "model": "V 47-660",
+        "capacity_kw": 660.0,
+        "kommune": "Vejen"
+    },
+    {
+        "x_coord": 9.065812820067741,
+        "y_coord": 55.524632532509074,
+        "model": "V 47-660",
+        "capacity_kw": 660.0,
+        "kommune": "Vejen"
+    },
+    {
+        "x_coord": 9.168188741430523,
+        "y_coord": 55.587906062677746,
+        "model": "NM 1500/64",
+        "capacity_kw": 1500.0,
+        "kommune": "Vejen"
+    },
+    {
+        "x_coord": 9.065469021778862,
+        "y_coord": 55.52640315832836,
+        "model": "V 47-660",
+        "capacity_kw": 660.0,
+        "kommune": "Vejen"
+    },
+    {
+        "x_coord": 9.257096271041334,
+        "y_coord": 55.57664551783016,
+        "model": "NM 48/750",
+        "capacity_kw": 750.0,
+        "kommune": "Vejen"
+    },
+    {
+        "x_coord": 9.258450846323028,
+        "y_coord": 55.578270141609984,
+        "model": "NM 48/750",
+        "capacity_kw": 750.0,
+        "kommune": "Vejen"
+    },
+    {
+        "x_coord": 9.259806016611858,
+        "y_coord": 55.579895827127565,
+        "model": "NM 48/750",
+        "capacity_kw": 750.0,
+        "kommune": "Vejen"
+    },
+    {
+        "x_coord": 9.222120553163805,
+        "y_coord": 55.47017491331357,
+        "model": "V 47-660",
+        "capacity_kw": 660.0,
+        "kommune": "Vejen"
+    },
+    {
+        "x_coord": 9.221651946433028,
+        "y_coord": 55.47168482902784,
+        "model": "V 47-660",
+        "capacity_kw": 660.0,
+        "kommune": "Vejen"
+    },
+    {
+        "x_coord": 9.24143484347512,
+        "y_coord": 55.532102528813574,
+        "model": "Ukendt",
+        "capacity_kw": 11.0,
+        "kommune": "Vejen"
+    },
+    {
+        "x_coord": 9.221197686496932,
+        "y_coord": 55.47319238032753,
+        "model": "V 47-660",
+        "capacity_kw": 660.0,
+        "kommune": "Vejen"
+    },
+    {
+        "x_coord": 9.169757742394337,
+        "y_coord": 55.586338884590305,
+        "model": "NM 1500/64",
+        "capacity_kw": 1500.0,
+        "kommune": "Vejen"
+    },
+    {
+        "x_coord": 8.822640117168492,
+        "y_coord": 55.58320662710408,
+        "model": "V 47-660",
+        "capacity_kw": 660.0,
+        "kommune": "Vejen"
+    },
+    {
+        "x_coord": 9.036393457008597,
+        "y_coord": 55.58932681509552,
+        "model": "1,3 MW",
+        "capacity_kw": 1300.0,
+        "kommune": "Vejen"
+    },
+    {
+        "x_coord": 9.034582262026875,
+        "y_coord": 55.58652699216821,
+        "model": "1,3 MW",
+        "capacity_kw": 1300.0,
+        "kommune": "Vejen"
+    },
+    {
+        "x_coord": 9.03283547873762,
+        "y_coord": 55.583803770813745,
+        "model": "1,3 MW",
+        "capacity_kw": 1300.0,
+        "kommune": "Vejen"
+    },
+    {
+        "x_coord": 8.999143712089534,
+        "y_coord": 55.50891928753251,
+        "model": "V 47-660",
+        "capacity_kw": 660.0,
+        "kommune": "Vejen"
+    },
+    {
+        "x_coord": 9.00545072877995,
+        "y_coord": 55.50869165214997,
+        "model": "V 47-660",
+        "capacity_kw": 660.0,
+        "kommune": "Vejen"
+    },
+    {
+        "x_coord": 9.002290183227984,
+        "y_coord": 55.50880002930919,
+        "model": "V 47-660",
+        "capacity_kw": 660.0,
+        "kommune": "Vejen"
+    },
+    {
+        "x_coord": 8.821608810850524,
+        "y_coord": 55.588561428995696,
+        "model": "V 47-660",
+        "capacity_kw": 660.0,
+        "kommune": "Vejen"
+    },
+    {
+        "x_coord": 8.8219694376259,
+        "y_coord": 55.586774364434284,
+        "model": "V 47-660",
+        "capacity_kw": 660.0,
+        "kommune": "Vejen"
+    },
+    {
+        "x_coord": 8.822305124586173,
+        "y_coord": 55.584987262174764,
+        "model": "V 47-660",
+        "capacity_kw": 660.0,
+        "kommune": "Vejen"
+    },
+    {
+        "x_coord": 8.822300979585243,
+        "y_coord": 55.58499174895331,
+        "model": "V 47-660",
+        "capacity_kw": 660.0,
+        "kommune": "Vejen"
+    },
+    {
+        "x_coord": 8.955695073137855,
+        "y_coord": 55.478832487774724,
+        "model": "V 47-660",
+        "capacity_kw": 660.0,
+        "kommune": "Vejen"
+    },
+    {
+        "x_coord": 8.95569063642032,
+        "y_coord": 55.478838416739784,
+        "model": "V 47-660",
+        "capacity_kw": 660.0,
+        "kommune": "Vejen"
+    },
+    {
+        "x_coord": 8.82419376561879,
+        "y_coord": 55.53758696304635,
+        "model": "Ukendt",
+        "capacity_kw": 55.0,
+        "kommune": "Vejen"
+    },
+    {
+        "x_coord": 8.896238152748353,
+        "y_coord": 55.528939059497496,
+        "model": "Ukendt",
+        "capacity_kw": 150.0,
+        "kommune": "Vejen"
+    },
+    {
+        "x_coord": 8.924062714521229,
+        "y_coord": 55.47748742955723,
+        "model": "Cockie M/C2",
+        "capacity_kw": 600.0,
+        "kommune": "Vejen"
+    },
+    {
+        "x_coord": 8.873725524647115,
+        "y_coord": 55.5359726427203,
+        "model": "Ukendt",
+        "capacity_kw": 1000.0,
+        "kommune": "Vejen"
+    },
+    {
+        "x_coord": 8.948626035164684,
+        "y_coord": 55.46441599597989,
+        "model": 200,
+        "capacity_kw": 200.0,
+        "kommune": "Vejen"
+    },
+    {
+        "x_coord": 8.909249466159459,
+        "y_coord": 55.54607689506409,
+        "model": "Ukendt",
+        "capacity_kw": 600.0,
+        "kommune": "Vejen"
+    },
+    {
+        "x_coord": 8.8571259342074,
+        "y_coord": 55.43809751818173,
+        "model": "Ukendt",
+        "capacity_kw": 600.0,
+        "kommune": "Vejen"
+    },
+    {
+        "x_coord": 8.90945766248663,
+        "y_coord": 55.544170031356146,
+        "model": "Ukendt",
+        "capacity_kw": 600.0,
+        "kommune": "Vejen"
+    },
+    {
+        "x_coord": 8.988132117161761,
+        "y_coord": 55.58898264250383,
+        "model": "NM 1800-750/175",
+        "capacity_kw": 750.0,
+        "kommune": "Vejen"
+    },
+    {
+        "x_coord": 8.988249866344603,
+        "y_coord": 55.58730936462846,
+        "model": "NM 1800-750/175",
+        "capacity_kw": 750.0,
+        "kommune": "Vejen"
+    },
+    {
+        "x_coord": 9.06276002038491,
+        "y_coord": 55.55998311415356,
+        "model": "NM 1800",
+        "capacity_kw": 750.0,
+        "kommune": "Vejen"
+    },
+    {
+        "x_coord": 9.061330440451467,
+        "y_coord": 55.56161067930479,
+        "model": "NM 1800",
+        "capacity_kw": 750.0,
+        "kommune": "Vejen"
+    },
+    {
+        "x_coord": 8.854497448066947,
+        "y_coord": 55.43914261263734,
+        "model": "W 600/45",
+        "capacity_kw": 600.0,
+        "kommune": "Vejen"
+    },
+    {
+        "x_coord": 8.868044719913224,
+        "y_coord": 55.43109879912671,
+        "model": "NM 52/900",
+        "capacity_kw": 900.0,
+        "kommune": "Vejen"
+    },
+    {
+        "x_coord": 8.86887235246293,
+        "y_coord": 55.42936677883495,
+        "model": "NM 52/900",
+        "capacity_kw": 900.0,
+        "kommune": "Vejen"
+    },
+    {
+        "x_coord": 8.876451593073162,
+        "y_coord": 55.5378414680894,
+        "model": "NM 1000/54",
+        "capacity_kw": 1000.0,
+        "kommune": "Vejen"
+    },
+    {
+        "x_coord": 8.859797691707541,
+        "y_coord": 55.437022853531495,
+        "model": "W 600/45",
+        "capacity_kw": 600.0,
+        "kommune": "Vejen"
+    },
+    {
+        "x_coord": 9.161104795612621,
+        "y_coord": 55.3352772595058,
+        "model": "150/30 - MK ll",
+        "capacity_kw": 150.0,
+        "kommune": "Vejen"
+    },
+    {
+        "x_coord": 8.963257647811984,
+        "y_coord": 55.39888507679529,
+        "model": "V 47-660",
+        "capacity_kw": 660.0,
+        "kommune": "Vejen"
+    },
+    {
+        "x_coord": 8.930390673925693,
+        "y_coord": 55.37033153750637,
+        "model": "V 47",
+        "capacity_kw": 660.0,
+        "kommune": "Vejen"
+    },
+    {
+        "x_coord": 9.01200706817763,
+        "y_coord": 55.353865618908195,
+        "model": "V 47-660",
+        "capacity_kw": 660.0,
+        "kommune": "Vejen"
+    },
+    {
+        "x_coord": 8.955042432922362,
+        "y_coord": 55.369787580480256,
+        "model": "V 48-660",
+        "capacity_kw": 660.0,
+        "kommune": "Vejen"
+    },
+    {
+        "x_coord": 8.991992374770398,
+        "y_coord": 55.39199873692684,
+        "model": "V 47-660",
+        "capacity_kw": 660.0,
+        "kommune": "Vejen"
+    },
+    {
+        "x_coord": 9.13860470595876,
+        "y_coord": 55.42808057795022,
+        "model": "V 47-660",
+        "capacity_kw": 660.0,
+        "kommune": "Vejen"
+    },
+    {
+        "x_coord": 8.964478485775368,
+        "y_coord": 55.33461421366583,
+        "model": "600 - MK lV",
+        "capacity_kw": 600.0,
+        "kommune": "Vejen"
+    },
+    {
+        "x_coord": 9.063743664425902,
+        "y_coord": 55.33740384430901,
+        "model": "V 47-660",
+        "capacity_kw": 660.0,
+        "kommune": "Vejen"
+    },
+    {
+        "x_coord": 8.965444169876237,
+        "y_coord": 55.39585128819402,
+        "model": "V 47-660",
+        "capacity_kw": 660.0,
+        "kommune": "Vejen"
+    },
+    {
+        "x_coord": 8.931828376397167,
+        "y_coord": 55.39420363563173,
+        "model": "1 MW",
+        "capacity_kw": 1000.0,
+        "kommune": "Vejen"
+    },
+    {
+        "x_coord": 8.930441083956794,
+        "y_coord": 55.35373463320656,
+        "model": "V 47-660",
+        "capacity_kw": 660.0,
+        "kommune": "Vejen"
+    },
+    {
+        "x_coord": 8.9169252522398,
+        "y_coord": 55.33922940470748,
+        "model": "V 47-660",
+        "capacity_kw": 660.0,
+        "kommune": "Vejen"
+    },
+    {
+        "x_coord": 8.907615331720441,
+        "y_coord": 55.33730961862469,
+        "model": "V 47",
+        "capacity_kw": 660.0,
+        "kommune": "Vejen"
+    },
+    {
+        "x_coord": 8.91682281629551,
+        "y_coord": 55.371862430322146,
+        "model": "V 47-660",
+        "capacity_kw": 660.0,
+        "kommune": "Vejen"
+    },
+    {
+        "x_coord": 8.960519982256063,
+        "y_coord": 55.329190888895134,
+        "model": "V 52-850",
+        "capacity_kw": 850.0,
+        "kommune": "Vejen"
+    },
+    {
+        "x_coord": 8.943137196043281,
+        "y_coord": 55.386516365455634,
+        "model": "N 50/800",
+        "capacity_kw": 800.0,
+        "kommune": "Vejen"
+    },
+    {
+        "x_coord": 8.988025544274313,
+        "y_coord": 55.56381216966003,
+        "model": "NM 52/900",
+        "capacity_kw": 900.0,
+        "kommune": "Vejen"
+    },
+    {
+        "x_coord": 8.987565770412663,
+        "y_coord": 55.565178202434915,
+        "model": "NM 52/900",
+        "capacity_kw": 900.0,
+        "kommune": "Vejen"
+    },
+    {
+        "x_coord": 8.987109137485382,
+        "y_coord": 55.56653974071997,
+        "model": "NM 52/900",
+        "capacity_kw": 900.0,
+        "kommune": "Vejen"
+    },
+    {
+        "x_coord": 8.98847561820642,
+        "y_coord": 55.56243355412046,
+        "model": "NM 52/900",
+        "capacity_kw": 900.0,
+        "kommune": "Vejen"
+    },
+    {
+        "x_coord": 9.189704724660462,
+        "y_coord": 55.51177055673817,
+        "model": "V 52-850",
+        "capacity_kw": 850.0,
+        "kommune": "Vejen"
+    },
+    {
+        "x_coord": 9.192178945946276,
+        "y_coord": 55.50816640612088,
+        "model": "V 52-850",
+        "capacity_kw": 850.0,
+        "kommune": "Vejen"
+    },
+    {
+        "x_coord": 9.121765154573533,
+        "y_coord": 55.41913767420191,
+        "model": "V 52-850",
+        "capacity_kw": 850.0,
+        "kommune": "Vejen"
+    },
+    {
+        "x_coord": 9.122307083887245,
+        "y_coord": 55.420539009281214,
+        "model": "V 52-850",
+        "capacity_kw": 850.0,
+        "kommune": "Vejen"
+    },
+    {
+        "x_coord": 9.122831820143434,
+        "y_coord": 55.421885994809436,
+        "model": "V 52-850",
+        "capacity_kw": 850.0,
+        "kommune": "Vejen"
+    },
+    {
+        "x_coord": 9.19212608225825,
+        "y_coord": 55.489571301172596,
+        "model": "V 52-850",
+        "capacity_kw": 850.0,
+        "kommune": "Vejen"
+    },
+    {
+        "x_coord": 9.190280154017097,
+        "y_coord": 55.49124920992735,
+        "model": "V 52-850",
+        "capacity_kw": 850.0,
+        "kommune": "Vejen"
+    },
+    {
+        "x_coord": 9.023981783480718,
+        "y_coord": 55.52666459912229,
+        "model": "Ukendt",
+        "capacity_kw": 10.0,
+        "kommune": "Vejen"
+    },
+    {
+        "x_coord": 9.030798844829356,
+        "y_coord": 55.5190980587638,
+        "model": "Ukendt",
+        "capacity_kw": 10.0,
+        "kommune": "Vejen"
+    },
+    {
+        "x_coord": 8.955970560736928,
+        "y_coord": 55.46120322216784,
+        "model": "Ukendt",
+        "capacity_kw": 10.0,
+        "kommune": "Vejen"
+    }
+]

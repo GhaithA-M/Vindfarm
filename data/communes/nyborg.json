@@ -1,0 +1,261 @@
+[
+    {
+        "x_coord": 10.691696311426869,
+        "y_coord": 55.37676737285579,
+        "model": "V 47-660",
+        "capacity_kw": 660.0,
+        "kommune": "Nyborg"
+    },
+    {
+        "x_coord": 10.692526283159033,
+        "y_coord": 55.379267820048106,
+        "model": "V 47-660",
+        "capacity_kw": 660.0,
+        "kommune": "Nyborg"
+    },
+    {
+        "x_coord": 10.693359476103112,
+        "y_coord": 55.38176354343523,
+        "model": "V 47-660",
+        "capacity_kw": 660.0,
+        "kommune": "Nyborg"
+    },
+    {
+        "x_coord": 10.65520882235154,
+        "y_coord": 55.39577551315926,
+        "model": "N 50/800",
+        "capacity_kw": 800.0,
+        "kommune": "Nyborg"
+    },
+    {
+        "x_coord": 10.654764836264315,
+        "y_coord": 55.39731500202795,
+        "model": "N 50/800",
+        "capacity_kw": 800.0,
+        "kommune": "Nyborg"
+    },
+    {
+        "x_coord": 10.654331890783586,
+        "y_coord": 55.3988625176263,
+        "model": "N 50/800",
+        "capacity_kw": 800.0,
+        "kommune": "Nyborg"
+    },
+    {
+        "x_coord": 10.726905685156428,
+        "y_coord": 55.24013669215848,
+        "model": "Ukendt",
+        "capacity_kw": 150.0,
+        "kommune": "Nyborg"
+    },
+    {
+        "x_coord": 10.72659458492281,
+        "y_coord": 55.24097558316506,
+        "model": "Ukendt",
+        "capacity_kw": 150.0,
+        "kommune": "Nyborg"
+    },
+    {
+        "x_coord": 10.60832109639888,
+        "y_coord": 55.31446642092261,
+        "model": "V 44-600",
+        "capacity_kw": 600.0,
+        "kommune": "Nyborg"
+    },
+    {
+        "x_coord": 10.681631031891536,
+        "y_coord": 55.25056739116124,
+        "model": "Ukendt",
+        "capacity_kw": 600.0,
+        "kommune": "Nyborg"
+    },
+    {
+        "x_coord": 10.691713878881917,
+        "y_coord": 55.22779569748396,
+        "model": "NM 600/43",
+        "capacity_kw": 600.0,
+        "kommune": "Nyborg"
+    },
+    {
+        "x_coord": 10.739714735381396,
+        "y_coord": 55.19480832857558,
+        "model": "NM 750-200/48",
+        "capacity_kw": 750.0,
+        "kommune": "Nyborg"
+    },
+    {
+        "x_coord": 10.733986259577001,
+        "y_coord": 55.199043519475794,
+        "model": "NM 750-200/48",
+        "capacity_kw": 750.0,
+        "kommune": "Nyborg"
+    },
+    {
+        "x_coord": 10.732421955972338,
+        "y_coord": 55.20177406101996,
+        "model": "NM 750-200/48",
+        "capacity_kw": 750.0,
+        "kommune": "Nyborg"
+    },
+    {
+        "x_coord": 10.666784633361093,
+        "y_coord": 55.22038358762195,
+        "model": "NM 750-200/48",
+        "capacity_kw": 750.0,
+        "kommune": "Nyborg"
+    },
+    {
+        "x_coord": 10.667248890130644,
+        "y_coord": 55.22201151592889,
+        "model": "NM 750-200/48",
+        "capacity_kw": 750.0,
+        "kommune": "Nyborg"
+    },
+    {
+        "x_coord": 10.667713813973185,
+        "y_coord": 55.22363565850172,
+        "model": "NM 750-200/48",
+        "capacity_kw": 750.0,
+        "kommune": "Nyborg"
+    },
+    {
+        "x_coord": 10.754133210078159,
+        "y_coord": 55.24262935069633,
+        "model": "NM 750-200/48",
+        "capacity_kw": 750.0,
+        "kommune": "Nyborg"
+    },
+    {
+        "x_coord": 10.753832326948286,
+        "y_coord": 55.24124042820847,
+        "model": "NM 750-200/48",
+        "capacity_kw": 750.0,
+        "kommune": "Nyborg"
+    },
+    {
+        "x_coord": 10.753530178542455,
+        "y_coord": 55.23985799405563,
+        "model": "NM 750-200/48",
+        "capacity_kw": 750.0,
+        "kommune": "Nyborg"
+    },
+    {
+        "x_coord": 10.674638152124562,
+        "y_coord": 55.277917130882905,
+        "model": "NM 750-200/48",
+        "capacity_kw": 750.0,
+        "kommune": "Nyborg"
+    },
+    {
+        "x_coord": 10.671398968885377,
+        "y_coord": 55.276938940131856,
+        "model": "NM 750-200/48",
+        "capacity_kw": 750.0,
+        "kommune": "Nyborg"
+    },
+    {
+        "x_coord": 10.707378520648627,
+        "y_coord": 55.26901168147711,
+        "model": "NM 750-200/48",
+        "capacity_kw": 750.0,
+        "kommune": "Nyborg"
+    },
+    {
+        "x_coord": 10.709643090214932,
+        "y_coord": 55.2670837283148,
+        "model": "NM 750-200/48",
+        "capacity_kw": 750.0,
+        "kommune": "Nyborg"
+    },
+    {
+        "x_coord": 10.711922539104174,
+        "y_coord": 55.26515911726164,
+        "model": "NM 750-200/48",
+        "capacity_kw": 750.0,
+        "kommune": "Nyborg"
+    },
+    {
+        "x_coord": 10.7355780078389,
+        "y_coord": 55.254919677713104,
+        "model": "NM 750-200/48",
+        "capacity_kw": 750.0,
+        "kommune": "Nyborg"
+    },
+    {
+        "x_coord": 10.736149602674665,
+        "y_coord": 55.25315727987653,
+        "model": "NM 750-200/48",
+        "capacity_kw": 750.0,
+        "kommune": "Nyborg"
+    },
+    {
+        "x_coord": 10.73671611399939,
+        "y_coord": 55.25138767099885,
+        "model": "NM 750-200/48",
+        "capacity_kw": 750.0,
+        "kommune": "Nyborg"
+    },
+    {
+        "x_coord": 10.681040803775625,
+        "y_coord": 55.330680295870344,
+        "model": "NM 750-200/48",
+        "capacity_kw": 750.0,
+        "kommune": "Nyborg"
+    },
+    {
+        "x_coord": 10.753162866042553,
+        "y_coord": 55.21044017338536,
+        "model": "NM 750-200/48",
+        "capacity_kw": 750.0,
+        "kommune": "Nyborg"
+    },
+    {
+        "x_coord": 10.679430652672957,
+        "y_coord": 55.33272089669275,
+        "model": "NM 48/750",
+        "capacity_kw": 750.0,
+        "kommune": "Nyborg"
+    },
+    {
+        "x_coord": 10.632045090891957,
+        "y_coord": 55.36869487268304,
+        "model": "NM 750-200/48",
+        "capacity_kw": 750.0,
+        "kommune": "Nyborg"
+    },
+    {
+        "x_coord": 10.629278521544357,
+        "y_coord": 55.36980008462213,
+        "model": "NM 750-200/48",
+        "capacity_kw": 750.0,
+        "kommune": "Nyborg"
+    },
+    {
+        "x_coord": 10.628994200366286,
+        "y_coord": 55.3678500657813,
+        "model": "NM 750-200/48",
+        "capacity_kw": 750.0,
+        "kommune": "Nyborg"
+    },
+    {
+        "x_coord": 10.737946251252033,
+        "y_coord": 55.20527628554446,
+        "model": "V 66 1,75",
+        "capacity_kw": 1750.0,
+        "kommune": "Nyborg"
+    },
+    {
+        "x_coord": 10.736328061007324,
+        "y_coord": 55.20690900445044,
+        "model": "V 66 1,75",
+        "capacity_kw": 1750.0,
+        "kommune": "Nyborg"
+    },
+    {
+        "x_coord": 10.736908290057144,
+        "y_coord": 55.20871685731001,
+        "model": "V 66 1,75",
+        "capacity_kw": 1750.0,
+        "kommune": "Nyborg"
+    }
+]

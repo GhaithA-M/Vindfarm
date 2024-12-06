@@ -1,0 +1,1164 @@
+[
+    {
+        "x_coord": 8.4109429033224,
+        "y_coord": 56.56158952802858,
+        "model": "V 55-15",
+        "capacity_kw": 55.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.435376758430928,
+        "y_coord": 56.549434812079454,
+        "model": "V 27-225",
+        "capacity_kw": 225.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.171994159283098,
+        "y_coord": 56.60642708840958,
+        "model": "150/30 kW",
+        "capacity_kw": 150.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.167006453733993,
+        "y_coord": 56.619349424841346,
+        "model": "600 - MK lV",
+        "capacity_kw": 600.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.240343976158451,
+        "y_coord": 56.53971434993556,
+        "model": "V 27-225",
+        "capacity_kw": 225.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.237275130617515,
+        "y_coord": 56.576436172040864,
+        "model": "V 27-225 ",
+        "capacity_kw": 225.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.236576959067627,
+        "y_coord": 56.57693833981134,
+        "model": "V 27-225 ",
+        "capacity_kw": 225.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.235846103157622,
+        "y_coord": 56.57743787707838,
+        "model": "V 27-225 ",
+        "capacity_kw": 225.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.235133442796078,
+        "y_coord": 56.577938240732976,
+        "model": "V 27-225 ",
+        "capacity_kw": 225.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.284846401634454,
+        "y_coord": 56.519699210954315,
+        "model": "V 27-225",
+        "capacity_kw": 225.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.364421606112716,
+        "y_coord": 56.52793859718313,
+        "model": "V 27-225",
+        "capacity_kw": 225.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.224156297300208,
+        "y_coord": 56.48464106446422,
+        "model": "300 - MK ll",
+        "capacity_kw": 300.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.34906424058873,
+        "y_coord": 56.53647424421567,
+        "model": "Ukendt",
+        "capacity_kw": 300.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.234875971668519,
+        "y_coord": 56.538906350529786,
+        "model": "V 29-225",
+        "capacity_kw": 225.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.284301110263602,
+        "y_coord": 56.51791409364574,
+        "model": "V 27-225",
+        "capacity_kw": 225.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.38706099077455,
+        "y_coord": 56.53634641417533,
+        "model": "V 29-225",
+        "capacity_kw": 225.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.287917989544804,
+        "y_coord": 56.52480043349511,
+        "model": "NM 44/750",
+        "capacity_kw": 750.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.285896671381723,
+        "y_coord": 56.52142820024169,
+        "model": "V 39-500",
+        "capacity_kw": 500.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.28689762357954,
+        "y_coord": 56.5230965213554,
+        "model": "N 43",
+        "capacity_kw": 600.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.224627374084339,
+        "y_coord": 56.4864164794508,
+        "model": "300 - MK ll",
+        "capacity_kw": 300.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.226536833280148,
+        "y_coord": 56.487171138333586,
+        "model": "300 - MK ll",
+        "capacity_kw": 300.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.226061551937834,
+        "y_coord": 56.48539004467761,
+        "model": "300 - MK ll",
+        "capacity_kw": 300.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.225582023565336,
+        "y_coord": 56.4836123361918,
+        "model": "300 - MK ll",
+        "capacity_kw": 300.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.260724866297707,
+        "y_coord": 56.416440569557246,
+        "model": "NM 1500-600/150",
+        "capacity_kw": 600.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.257501763597562,
+        "y_coord": 56.41565293956692,
+        "model": "NM 1500-600/150",
+        "capacity_kw": 600.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.260348219774746,
+        "y_coord": 56.4144979957091,
+        "model": "NM 1500-600/150",
+        "capacity_kw": 600.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.190858693899953,
+        "y_coord": 56.42792931188472,
+        "model": "NM 1500-600/150",
+        "capacity_kw": 600.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.192274277556606,
+        "y_coord": 56.42706082217314,
+        "model": "NM 1500-600/150",
+        "capacity_kw": 600.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.275955501741663,
+        "y_coord": 56.44444145631505,
+        "model": "NM 1500-600/150",
+        "capacity_kw": 600.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.274492244407737,
+        "y_coord": 56.44552040492506,
+        "model": "NM 1500-600/150",
+        "capacity_kw": 600.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.272972269939912,
+        "y_coord": 56.44660035187002,
+        "model": "NM 1500-600/150",
+        "capacity_kw": 600.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.141322474721335,
+        "y_coord": 56.46793449707283,
+        "model": "NM 1500-750/175",
+        "capacity_kw": 750.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.144878571677042,
+        "y_coord": 56.46766784642692,
+        "model": "NM 1500-750/175",
+        "capacity_kw": 750.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.142763536224377,
+        "y_coord": 56.46610260072051,
+        "model": "NM 1500-750/175",
+        "capacity_kw": 750.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.14629123390593,
+        "y_coord": 56.46587830140399,
+        "model": "NM 1500-750/175",
+        "capacity_kw": 750.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.28571041486636,
+        "y_coord": 56.36582979104237,
+        "model": "V 44-600",
+        "capacity_kw": 600.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.283269307879845,
+        "y_coord": 56.362992356221405,
+        "model": "V 44-600",
+        "capacity_kw": 600.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.291375420252868,
+        "y_coord": 56.36606634169207,
+        "model": "V 44-600",
+        "capacity_kw": 600.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.288924732787697,
+        "y_coord": 56.36323327761847,
+        "model": "V 44-600",
+        "capacity_kw": 600.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.286465102302492,
+        "y_coord": 56.36040442383045,
+        "model": "V 44-600",
+        "capacity_kw": 600.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.482944346402642,
+        "y_coord": 56.50053713608625,
+        "model": "V 44-600",
+        "capacity_kw": 600.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.482370086069892,
+        "y_coord": 56.50266044293732,
+        "model": "V 44-600",
+        "capacity_kw": 600.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.481733377077449,
+        "y_coord": 56.504795435252454,
+        "model": "V 44-600",
+        "capacity_kw": 600.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.481207736450488,
+        "y_coord": 56.50691795011165,
+        "model": "V 44-600",
+        "capacity_kw": 600.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.350562299799945,
+        "y_coord": 56.53711080789328,
+        "model": "Ukendt",
+        "capacity_kw": 300.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.246464516664044,
+        "y_coord": 56.51929494427422,
+        "model": "NM 750-200/48",
+        "capacity_kw": 750.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.246086954262312,
+        "y_coord": 56.517862592730204,
+        "model": "NM 750-200/48",
+        "capacity_kw": 750.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.245715939211886,
+        "y_coord": 56.51641293928665,
+        "model": "NM 750-200/48",
+        "capacity_kw": 750.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.245344255631231,
+        "y_coord": 56.51496561621282,
+        "model": "NM 750-200/48",
+        "capacity_kw": 750.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.216181385012073,
+        "y_coord": 56.67039998795998,
+        "model": "V 80 2",
+        "capacity_kw": 2000.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.217522709718601,
+        "y_coord": 56.66792102929151,
+        "model": "V 80 2",
+        "capacity_kw": 2000.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.218863098888333,
+        "y_coord": 56.66543926482552,
+        "model": "V 80 2",
+        "capacity_kw": 2000.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.220184624719042,
+        "y_coord": 56.66297749230341,
+        "model": "V 80 2",
+        "capacity_kw": 2000.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.221473367763712,
+        "y_coord": 56.660578121081805,
+        "model": "2,3 MW",
+        "capacity_kw": 2300.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.22279218965034,
+        "y_coord": 56.65812007669748,
+        "model": "2,3 MW",
+        "capacity_kw": 2300.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.224121647960757,
+        "y_coord": 56.65566783423003,
+        "model": "2,3 MW",
+        "capacity_kw": 2300.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.225438699934767,
+        "y_coord": 56.65320759384742,
+        "model": "2,3 MW",
+        "capacity_kw": 2300.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.189730936794604,
+        "y_coord": 56.50770250763027,
+        "model": "V 80 2",
+        "capacity_kw": 2000.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.24372995263881,
+        "y_coord": 56.46100923055214,
+        "model": "SWT 3.6",
+        "capacity_kw": 3600.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.248045699804836,
+        "y_coord": 56.459693598662255,
+        "model": "SWT 3.6",
+        "capacity_kw": 3600.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.239419872383195,
+        "y_coord": 56.462326724477606,
+        "model": "SWT 3.6",
+        "capacity_kw": 3600.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.26770882416588,
+        "y_coord": 56.37096895348646,
+        "model": "SWT 3.6",
+        "capacity_kw": 3600.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.265779625753659,
+        "y_coord": 56.37362213234201,
+        "model": "SWT 3.6",
+        "capacity_kw": 3600.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.263850453987763,
+        "y_coord": 56.37627671864686,
+        "model": "SWT 3.6",
+        "capacity_kw": 3600.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.253163275678416,
+        "y_coord": 56.378299773739144,
+        "model": "3 MW",
+        "capacity_kw": 3000.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.247628950370268,
+        "y_coord": 56.37851609244873,
+        "model": "3 MW",
+        "capacity_kw": 3000.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.242261996190654,
+        "y_coord": 56.378724292366606,
+        "model": "3 MW",
+        "capacity_kw": 3000.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.298337154416398,
+        "y_coord": 56.392044712288396,
+        "model": "3 MW/112",
+        "capacity_kw": 3075.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.294817840455824,
+        "y_coord": 56.39388394257817,
+        "model": "3 MW/112",
+        "capacity_kw": 3075.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.291294219397116,
+        "y_coord": 56.39571864646011,
+        "model": "3 MW/112",
+        "capacity_kw": 3075.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.192854621588879,
+        "y_coord": 56.50586088208555,
+        "model": "Ukendt",
+        "capacity_kw": 2000.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.204610706689529,
+        "y_coord": 56.49891680695122,
+        "model": "V 80-2 MW",
+        "capacity_kw": 2000.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.201795413251219,
+        "y_coord": 56.500586048221145,
+        "model": "V 80-2 MW",
+        "capacity_kw": 2000.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.198814725816202,
+        "y_coord": 56.50234418479658,
+        "model": "V 80-2 MW",
+        "capacity_kw": 2000.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.1958382111745,
+        "y_coord": 56.5040993124664,
+        "model": "V 80-2 MW",
+        "capacity_kw": 2000.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.263613028909914,
+        "y_coord": 56.47543970301175,
+        "model": "Ukendt",
+        "capacity_kw": 25.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.315141669318432,
+        "y_coord": 56.3639664964984,
+        "model": "Ukendt",
+        "capacity_kw": 3300.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.316351851670117,
+        "y_coord": 56.36730944823715,
+        "model": "Ukendt",
+        "capacity_kw": 3300.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.317473608650545,
+        "y_coord": 56.37064767621106,
+        "model": "V112-3.3MW",
+        "capacity_kw": 3300.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.318708804023917,
+        "y_coord": 56.37399109715906,
+        "model": "Ukendt",
+        "capacity_kw": 3300.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.319865423121824,
+        "y_coord": 56.377330748075465,
+        "model": "Ukendt",
+        "capacity_kw": 3300.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.193154390299988,
+        "y_coord": 56.586194283756505,
+        "model": "Viking 25",
+        "capacity_kw": 25.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.195432403598454,
+        "y_coord": 56.386015092583825,
+        "model": "Ukendt",
+        "capacity_kw": 25.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.160068561793459,
+        "y_coord": 56.60590925281339,
+        "model": "GV 20",
+        "capacity_kw": 10.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.2701922746016,
+        "y_coord": 56.51353906747326,
+        "model": "175 kW",
+        "capacity_kw": 25.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.336760351744084,
+        "y_coord": 56.537417068951896,
+        "model": "SWP25-14TG20",
+        "capacity_kw": 25.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.268741427234938,
+        "y_coord": 56.524198070731536,
+        "model": "Ukendt",
+        "capacity_kw": 25.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.18790057544773,
+        "y_coord": 56.457099492367725,
+        "model": "DW/52-521-10",
+        "capacity_kw": 3300.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.19308296478802,
+        "y_coord": 56.45816588758585,
+        "model": "DW/52-521-10",
+        "capacity_kw": 3300.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.198255650943638,
+        "y_coord": 56.45922894779018,
+        "model": "DW/52-521-10",
+        "capacity_kw": 3300.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.203448778324539,
+        "y_coord": 56.46029821161675,
+        "model": "DW/52-521-10",
+        "capacity_kw": 3300.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.208624029876175,
+        "y_coord": 56.461359146738516,
+        "model": "DW/52-521-10",
+        "capacity_kw": 3300.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.213812960013716,
+        "y_coord": 56.46242381490755,
+        "model": "DW/52-521-10",
+        "capacity_kw": 3300.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.256323739125387,
+        "y_coord": 56.58264987269413,
+        "model": "SWP25-14TG20",
+        "capacity_kw": 25.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.265469782404175,
+        "y_coord": 56.51773583153943,
+        "model": "SWP25-14TG20",
+        "capacity_kw": 25.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.389068457613362,
+        "y_coord": 56.532792110619305,
+        "model": "Ukendt",
+        "capacity_kw": 10.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.340833332065527,
+        "y_coord": 56.53747314561985,
+        "model": "SWP25-14TG20",
+        "capacity_kw": 25.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.210419323227779,
+        "y_coord": 56.53224098716682,
+        "model": "SWP25-14TG20",
+        "capacity_kw": 25.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.25265289687881,
+        "y_coord": 56.54209024440365,
+        "model": "Ukendt",
+        "capacity_kw": 10.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.199385798508132,
+        "y_coord": 56.56251281581751,
+        "model": "SWP25-14TG20",
+        "capacity_kw": 25.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.401398823767353,
+        "y_coord": 56.545894596588845,
+        "model": "SWP25-14TG20",
+        "capacity_kw": 25.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.377163911283608,
+        "y_coord": 56.54220075061222,
+        "model": "Ukendt",
+        "capacity_kw": 10.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.2067749585969,
+        "y_coord": 56.452195711169885,
+        "model": "Viking 25",
+        "capacity_kw": 25.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.212320672570453,
+        "y_coord": 56.44192943766688,
+        "model": "SWP10-14TG20",
+        "capacity_kw": 10.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.180100605371246,
+        "y_coord": 56.53124837479825,
+        "model": "Ukendt",
+        "capacity_kw": 10.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.267141626397848,
+        "y_coord": 56.53237259125697,
+        "model": "SWP25-14TG20",
+        "capacity_kw": 10.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.410300085421484,
+        "y_coord": 56.53486654454685,
+        "model": "Ukendt",
+        "capacity_kw": 10.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.207006876542275,
+        "y_coord": 56.54984422683171,
+        "model": "Gaia Wind 133-10 kW",
+        "capacity_kw": 10.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.401733661700561,
+        "y_coord": 56.531695905723986,
+        "model": "Ukendt",
+        "capacity_kw": 10.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.262219712095803,
+        "y_coord": 56.547648387406696,
+        "model": "SWP25-14TG20",
+        "capacity_kw": 10.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.186530961203628,
+        "y_coord": 56.51264457360053,
+        "model": "SWP25-14TG20",
+        "capacity_kw": 25.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.18532577129822,
+        "y_coord": 56.5189051947176,
+        "model": "SWP-10-16 TG20",
+        "capacity_kw": 10.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.214469449484787,
+        "y_coord": 56.40226726994288,
+        "model": "SWP25-14TG20",
+        "capacity_kw": 10.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.360816604089557,
+        "y_coord": 56.540928595888275,
+        "model": "Gaia Wind 133-10 kW",
+        "capacity_kw": 10.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.233986591458466,
+        "y_coord": 56.49939072649941,
+        "model": "Ukendt",
+        "capacity_kw": 10.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.176162070082862,
+        "y_coord": 56.49126322864892,
+        "model": "Ukendt",
+        "capacity_kw": 10.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.304006732208826,
+        "y_coord": 56.521004732358435,
+        "model": "Ukendt",
+        "capacity_kw": 10.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.346822535418305,
+        "y_coord": 56.520596841257834,
+        "model": "SWP25-14TG20",
+        "capacity_kw": 10.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.232062113147313,
+        "y_coord": 56.44140634904787,
+        "model": "Ukendt",
+        "capacity_kw": 10.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.208067722015855,
+        "y_coord": 56.54298262194995,
+        "model": "SWP25-14TG20",
+        "capacity_kw": 25.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.267935199486791,
+        "y_coord": 56.52940610855964,
+        "model": "SWP10-14TG20",
+        "capacity_kw": 10.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.274016929067653,
+        "y_coord": 56.525818262885565,
+        "model": "SWP10-14TG20",
+        "capacity_kw": 10.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.278600686412199,
+        "y_coord": 56.43363412406648,
+        "model": "Ukendt",
+        "capacity_kw": 10.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.320942267743343,
+        "y_coord": 56.52616699561271,
+        "model": "SWP10-14TG20",
+        "capacity_kw": 10.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.283156616270862,
+        "y_coord": 56.44634018360428,
+        "model": "SWP10-14TG20",
+        "capacity_kw": 10.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.187522606556008,
+        "y_coord": 56.56042540748424,
+        "model": "Ukendt",
+        "capacity_kw": 10.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.198598278149989,
+        "y_coord": 56.53643808813186,
+        "model": "SWP25-14TG20",
+        "capacity_kw": 25.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.23877228860976,
+        "y_coord": 56.4936143426148,
+        "model": "SWP10-14TG20",
+        "capacity_kw": 10.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.398364202278941,
+        "y_coord": 56.527569833197816,
+        "model": "SWP10-14TG20",
+        "capacity_kw": 10.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.21237868768851,
+        "y_coord": 56.49845876482714,
+        "model": "SWP10-14TG20",
+        "capacity_kw": 10.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.392719367140423,
+        "y_coord": 56.54172122714524,
+        "model": "SWP10-14TG20",
+        "capacity_kw": 10.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.285789888091246,
+        "y_coord": 56.512994142082285,
+        "model": "SWP10-14TG20",
+        "capacity_kw": 10.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.210504196581477,
+        "y_coord": 56.50085481406625,
+        "model": "Ukendt",
+        "capacity_kw": 10.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.185654427160113,
+        "y_coord": 56.55680313020483,
+        "model": "SWP25-14TG20",
+        "capacity_kw": 25.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.199461412548413,
+        "y_coord": 56.53363114063309,
+        "model": "SWP10-14TG20",
+        "capacity_kw": 10.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.181984198338707,
+        "y_coord": 56.52715647399292,
+        "model": "SWP10-14TG20",
+        "capacity_kw": 10.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.350365352978434,
+        "y_coord": 56.5428017439043,
+        "model": "Gaia Wind 133-10 kW",
+        "capacity_kw": 10.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.2081205657764,
+        "y_coord": 56.51095515663642,
+        "model": "SWP10-14TG20",
+        "capacity_kw": 10.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.336012743491334,
+        "y_coord": 56.52429153384472,
+        "model": "SWP25-14TG20",
+        "capacity_kw": 25.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.226433856137215,
+        "y_coord": 56.429466499582716,
+        "model": "SWP10-14TG20",
+        "capacity_kw": 10.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.218811804970995,
+        "y_coord": 56.511649597825276,
+        "model": "SWP10-14TG20",
+        "capacity_kw": 10.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.387306919587605,
+        "y_coord": 56.54819421540701,
+        "model": "SWP10-14TG20",
+        "capacity_kw": 10.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.247311053677542,
+        "y_coord": 56.52339053157148,
+        "model": "Ukendt",
+        "capacity_kw": 10.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.181768108769335,
+        "y_coord": 56.47597256701518,
+        "model": "SWP10-14TG20",
+        "capacity_kw": 10.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.410482940115736,
+        "y_coord": 56.539203886249936,
+        "model": "Ukendt",
+        "capacity_kw": 10.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.237514897318517,
+        "y_coord": 56.44021518489537,
+        "model": "Ukendt",
+        "capacity_kw": 10.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.2536900393143,
+        "y_coord": 56.39740615459694,
+        "model": "Gaia Wind 133-10 kW",
+        "capacity_kw": 10.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.22461142793107,
+        "y_coord": 56.42574815382797,
+        "model": "SWP25-14TG20",
+        "capacity_kw": 25.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.245161373832296,
+        "y_coord": 56.41285927302098,
+        "model": "SWP10-14TG20",
+        "capacity_kw": 10.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.232313676110627,
+        "y_coord": 56.54875810066345,
+        "model": "SWP10-14TG20",
+        "capacity_kw": 10.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.186162930101881,
+        "y_coord": 56.39703411907497,
+        "model": "V 80-2 MW VCS",
+        "capacity_kw": 2000.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.185763989355408,
+        "y_coord": 56.39902610721423,
+        "model": "V 80-2 MW VCS",
+        "capacity_kw": 2000.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.185364814100591,
+        "y_coord": 56.40102707676108,
+        "model": "V 80-2 MW VCS",
+        "capacity_kw": 2000.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.151688190112521,
+        "y_coord": 56.45050860857213,
+        "model": "Ukendt-Vestas-VIND",
+        "capacity_kw": 2000.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.340309564515708,
+        "y_coord": 56.43759861471214,
+        "model": "V126-3.45",
+        "capacity_kw": 3600.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.341862847507354,
+        "y_coord": 56.44062566409954,
+        "model": "V126-3.45",
+        "capacity_kw": 3600.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.343287871565117,
+        "y_coord": 56.44339146208721,
+        "model": "V126-3.45",
+        "capacity_kw": 3600.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.345108562803286,
+        "y_coord": 56.44693199871873,
+        "model": "V126-3.45",
+        "capacity_kw": 3600.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.34654023577561,
+        "y_coord": 56.44971575928563,
+        "model": "V126-3.45",
+        "capacity_kw": 3600.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.151023503119823,
+        "y_coord": 56.442330858232,
+        "model": "Ukendt-Simens",
+        "capacity_kw": 4300.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.151461973037266,
+        "y_coord": 56.447730592494715,
+        "model": "SG4.5-145",
+        "capacity_kw": 5000.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.14404664046148,
+        "y_coord": 56.43630506479574,
+        "model": "SG 8.0-167 DD",
+        "capacity_kw": 6600.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.241502510257227,
+        "y_coord": 56.66483477338314,
+        "model": "SWT-7.0-154",
+        "capacity_kw": 7000.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.234069736415403,
+        "y_coord": 56.672524751114366,
+        "model": "SWT-7.0-154",
+        "capacity_kw": 7000.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.256050600616778,
+        "y_coord": 56.66925294977118,
+        "model": "SWT-7.0-154",
+        "capacity_kw": 7000.0,
+        "kommune": "Lemvig"
+    },
+    {
+        "x_coord": 8.251750825468186,
+        "y_coord": 56.67707943877719,
+        "model": "SWT-7.0-154",
+        "capacity_kw": 7000.0,
+        "kommune": "Lemvig"
+    }
+]
