@@ -9,7 +9,8 @@ wgs84_proj = Proj(proj="latlong", datum="WGS84")  # WGS84
 
 def load_excel(file_path):
     print("Loading Excel file...")
-    df = pd.read_excel(file_path, skiprows=range(0, 9))  # Skip metadata rows
+    # Skip initial rows to find the actual data headers
+    df = pd.read_excel(file_path, header=9)  # Adjust header row if necessary
     print("Excel file loaded successfully.")
     return df
 
