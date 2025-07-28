@@ -1,0 +1,24 @@
+[
+    {
+        "x_coord": 12.28377323618722,
+        "y_coord": 55.66176983093527,
+        "model": "V 52",
+        "capacity_kw": 850.0,
+        "kommune": "Høje-Taastrup",
+        "kommune_no": 169.0,
+        "gsrn": "570715000000107078",
+        "connection_date": "2011-03-24",
+        "rotor_diameter": 52.0,
+        "hub_height": 54.0,
+        "manufacture": "Vestas Wind Systems A/S",
+        "location_type": "LAND",
+        "cadastral_district": "Høje Taastrup by, Høje Taastrup",
+        "cadastral_no": "9i",
+        "coordinate_origin": "SDFE2018",
+        "distribution_company_no": 1,
+        "is_offshore": false,
+        "offshore_classification": "Onshore",
+        "offshore_area": "Onshore",
+        "offshore_confidence": "Low"
+    }
+]

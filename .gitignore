@@ -2,9 +2,13 @@
 *.bat
 *.py
 
-# Manual
+# Excel files (large data sources)
 *.xlsx
 *.txt
 
-# Communes
-/data/communes
+# Data
+# /data/communes
+
+# Development files
+server.py
+requirements.txt

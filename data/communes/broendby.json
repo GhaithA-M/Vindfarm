@@ -1,0 +1,24 @@
+[
+    {
+        "x_coord": 8.883420039869044,
+        "y_coord": 57.04201599964,
+        "model": "Ukendt-Eget fabrikat",
+        "capacity_kw": 5500.0,
+        "kommune": "Brøndby",
+        "kommune_no": 153.0,
+        "gsrn": "570715000001669469",
+        "connection_date": "2021-12-03",
+        "rotor_diameter": 158.0,
+        "hub_height": 118.6,
+        "manufacture": "Eget fabrikat",
+        "location_type": "LAND",
+        "cadastral_district": "Brøndbyvester By, Brøndbyvester",
+        "cadastral_no": "33ez",
+        "coordinate_origin": "Stamdata",
+        "distribution_company_no": 3508003,
+        "is_offshore": false,
+        "offshore_classification": "Onshore",
+        "offshore_area": "Onshore",
+        "offshore_confidence": "Low"
+    }
+]

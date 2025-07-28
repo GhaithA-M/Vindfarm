@@ -1,0 +1,24 @@
+[
+    {
+        "x_coord": NaN,
+        "y_coord": NaN,
+        "model": "Model",
+        "capacity_kw": 0,
+        "kommune": "Kommune",
+        "kommune_no": "N/A",
+        "gsrn": "Møllenummer (GSRN)",
+        "connection_date": "N/A",
+        "rotor_diameter": "N/A",
+        "hub_height": "N/A",
+        "manufacture": "Fabrikat",
+        "location_type": "Type af placering",
+        "cadastral_district": "Ejerlav",
+        "cadastral_no": "Matrikel-nummer",
+        "coordinate_origin": "Koordinatoprindelse",
+        "distribution_company_no": "Netselskabets installations-nummer",
+        "is_offshore": false,
+        "offshore_classification": "Onshore",
+        "offshore_area": "Onshore",
+        "offshore_confidence": "Low"
+    }
+]

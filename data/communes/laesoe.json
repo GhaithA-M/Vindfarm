@@ -1,0 +1,24 @@
+[
+    {
+        "x_coord": 10.89730807865557,
+        "y_coord": 57.26368261882755,
+        "model": "Ukendt",
+        "capacity_kw": 180.0,
+        "kommune": "Læsø",
+        "kommune_no": 825.0,
+        "gsrn": "570715000000012709",
+        "connection_date": "1988-03-01",
+        "rotor_diameter": 23.2,
+        "hub_height": 30.0,
+        "manufacture": "Ukendt",
+        "location_type": "LAND",
+        "cadastral_district": "Vesterø",
+        "cadastral_no": "113bl",
+        "coordinate_origin": "SDFE2018",
+        "distribution_company_no": "70070-01",
+        "is_offshore": false,
+        "offshore_classification": "Onshore",
+        "offshore_area": "Onshore",
+        "offshore_confidence": "Low"
+    }
+]

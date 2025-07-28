@@ -1,0 +1,24 @@
+[
+    {
+        "x_coord": 10.446549875778825,
+        "y_coord": 57.23898403998665,
+        "model": "Gaia Wind 133-10 kW",
+        "capacity_kw": 10.0,
+        "kommune": "N/A",
+        "kommune_no": 0.0,
+        "gsrn": "570715000001501806",
+        "connection_date": "2015-12-18",
+        "rotor_diameter": 13.0,
+        "hub_height": 18.0,
+        "manufacture": "Gaia-Wind Ltd",
+        "location_type": "Land",
+        "cadastral_district": "N/A",
+        "cadastral_no": "N/A",
+        "coordinate_origin": "SDFE2018",
+        "distribution_company_no": "N/A",
+        "is_offshore": false,
+        "offshore_classification": "Onshore",
+        "offshore_area": "Onshore",
+        "offshore_confidence": "Low"
+    }
+]
