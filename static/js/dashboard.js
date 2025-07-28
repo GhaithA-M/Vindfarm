@@ -427,7 +427,7 @@ function updateHeaderStats(summaryData) {
     document.getElementById('offshore-turbines').textContent = summaryData.offshore_turbines.toLocaleString();
 }
 
-// Display turbines on map with default to offshore only
+// Display turbines on map with preserved visibility preferences
 function displayTurbines() {
     markerGroups.onshore.clearLayers();
     markerGroups.offshore.clearLayers();
@@ -464,22 +464,38 @@ function displayTurbines() {
     onshoreMarkers.forEach(marker => markerGroups.onshore.addLayer(marker));
     markers = [...offshoreMarkers, ...onshoreMarkers];
     
-    // Default: show only offshore turbines for better performance
-    map.addLayer(markerGroups.offshore);
-    map.removeLayer(markerGroups.onshore);
-    
-    // Update header button states
+    // Preserve user's visibility preferences instead of resetting to defaults
     const offshoreBtn = document.getElementById('toggle-offshore');
     const onshoreBtn = document.getElementById('toggle-onshore');
     
-    if (offshoreBtn) {
-        offshoreBtn.classList.add('active');
-        updateButtonText(offshoreBtn, true);
-    }
-    
-    if (onshoreBtn) {
-        onshoreBtn.classList.remove('active');
-        updateButtonText(onshoreBtn, false);
+    // Only set defaults if this is the initial load (no user interaction yet)
+    if (!offshoreBtn.classList.contains('user-interacted') && !onshoreBtn.classList.contains('user-interacted')) {
+        // Default: show only offshore turbines for better performance
+        map.addLayer(markerGroups.offshore);
+        map.removeLayer(markerGroups.onshore);
+        
+        if (offshoreBtn) {
+            offshoreBtn.classList.add('active');
+            updateButtonText(offshoreBtn, true);
+        }
+        
+        if (onshoreBtn) {
+            onshoreBtn.classList.remove('active');
+            updateButtonText(onshoreBtn, false);
+        }
+    } else {
+        // Preserve current visibility state
+        if (offshoreBtn && offshoreBtn.classList.contains('active')) {
+            map.addLayer(markerGroups.offshore);
+        } else {
+            map.removeLayer(markerGroups.offshore);
+        }
+        
+        if (onshoreBtn && onshoreBtn.classList.contains('active')) {
+            map.addLayer(markerGroups.onshore);
+        } else {
+            map.removeLayer(markerGroups.onshore);
+        }
     }
 }
 
@@ -721,6 +737,7 @@ function setupEventListeners() {
     // Header controls
     document.getElementById('toggle-offshore').addEventListener('click', function() {
         this.classList.toggle('active');
+        this.classList.add('user-interacted'); // Mark as user-interacted
         const isActive = this.classList.contains('active');
         updateButtonText(this, isActive);
         
@@ -733,6 +750,7 @@ function setupEventListeners() {
     
     document.getElementById('toggle-onshore').addEventListener('click', function() {
         this.classList.toggle('active');
+        this.classList.add('user-interacted'); // Mark as user-interacted
         const isActive = this.classList.contains('active');
         updateButtonText(this, isActive);
         

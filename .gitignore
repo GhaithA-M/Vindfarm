@@ -1,4 +1,6 @@
-# Scripts
+# Development files
+server.py
+requirements.txt
 *.bat
 *.py
 
@@ -9,6 +11,3 @@
 # Data
 # /data/communes
 
-# Development files
-server.py
-requirements.txt
