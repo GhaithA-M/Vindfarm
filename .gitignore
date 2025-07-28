@@ -1,0 +1,10 @@
+# Scripts
+*.bat
+*.py
+
+# Manual
+*.xlsx
+*.txt
+
+# Communes
+/data/communes

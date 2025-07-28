@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html lang="da">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vindfarm.dk</title>
+    
+    <!-- Leaflet CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    
+    <!-- Chart.js for data visualization -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    
+    <!-- Font Awesome for icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="/static/css/style.css">
+    
+    <!-- Google AdSense -->
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3311320113448786"
+         crossorigin="anonymous"></script>
+</head>
+<body>
+    <!-- Full Screen Map -->
+    <div id="map"></div>
+    
+    <!-- Header Overlay -->
+    <header class="header-overlay">
+        <div class="header-content">
+            <h1><i class="fas fa-wind"></i>Vindfarm.dk</h1>
+            <div class="header-stats">
+                <div class="stat-item">
+                    <span class="stat-number" id="total-turbines">-</span>
+                    <span class="stat-label">Total Møller</span>
+                </div>
+                <div class="stat-item">
+                    <span class="stat-number" id="total-capacity">-</span>
+                    <span class="stat-label">Total Kapacitet (MW)</span>
+                </div>
+                <div class="stat-item">
+                    <span class="stat-number" id="offshore-turbines">-</span>
+                    <span class="stat-label">Havmøller</span>
+                </div>
+            </div>
+            <div class="header-controls">
+                <button id="toggle-offshore" class="header-control-btn active">
+                    <i class="fas fa-water"></i>
+                    <span class="btn-text">Sluk</span>
+                </button>
+                <button id="toggle-onshore" class="header-control-btn active">
+                    <i class="fas fa-industry"></i>
+                    <span class="btn-text">Sluk</span>
+                </button>
+            </div>
+        </div>
+    </header>
+
+    <!-- Left Panel Overlay - Filters -->
+    <div class="panel-overlay left-panel-overlay collapsed" id="filters-panel">
+        <div class="panel-header">
+            <h3><i class="fas fa-filter"></i> Filtre</h3>
+            <button class="panel-toggle" onclick="togglePanel('filters-panel')">
+                <i class="fas fa-chevron-left"></i>
+            </button>
+        </div>
+        <div class="panel-content">
+            <div class="filter-group">
+                <label>Placeringstype:</label>
+                <select id="location-filter">
+                    <option value="all">Alle Placeringer</option>
+                    <option value="onshore">Kun Landmøller</option>
+                    <option value="offshore">Kun Havmøller</option>
+                </select>
+            </div>
+            <div class="filter-group">
+                <label>Kapacitetsområde (MW):</label>
+                <div class="range-inputs">
+                    <input type="number" id="min-capacity" placeholder="Min" min="0" max="10">
+                    <span>-</span>
+                    <input type="number" id="max-capacity" placeholder="Max" min="0" max="10">
+                </div>
+            </div>
+            <div class="filter-group">
+                <label>Fabrikat:</label>
+                <select id="manufacturer-filter">
+                    <option value="all">Alle Fabrikater</option>
+                </select>
+            </div>
+            <div class="filter-group">
+                <label>Havområde:</label>
+                <select id="offshore-area-filter">
+                    <option value="all">Alle Områder</option>
+                    <option value="North Sea">Nordsøen</option>
+                    <option value="Baltic Sea">Østersøen</option>
+                    <option value="Kattegat">Kattegat</option>
+                </select>
+            </div>
+            <button id="apply-filters" class="btn-primary">
+                <i class="fas fa-search"></i> Anvend Filtre
+            </button>
+            <button id="reset-filters" class="btn-secondary">
+                <i class="fas fa-undo"></i> Nulstil
+            </button>
+        </div>
+    </div>
+
+    <!-- Right Panel Overlay - Charts -->
+    <div class="panel-overlay right-panel-overlay collapsed" id="charts-panel">
+        <div class="panel-header">
+            <h3><i class="fas fa-chart-bar"></i> Analyser</h3>
+            <button class="panel-toggle" onclick="togglePanel('charts-panel')">
+                <i class="fas fa-chevron-right"></i>
+            </button>
+        </div>
+        <div class="panel-content">
+            <div class="chart-section">
+                <h4><i class="fas fa-chart-bar"></i> Kapacitetsfordeling</h4>
+                <canvas id="capacity-chart"></canvas>
+            </div>
+            
+            <div class="chart-section">
+                <h4><i class="fas fa-chart-pie"></i> Havmøller vs Landmøller</h4>
+                <canvas id="location-chart"></canvas>
+            </div>
+            
+            <div class="chart-section">
+                <h4><i class="fas fa-industry"></i> Top Fabrikater</h4>
+                <canvas id="manufacturer-chart"></canvas>
+            </div>
+        </div>
+    </div>
+
+    <!-- Map Controls Overlay -->
+    <div class="map-controls-overlay">
+        <button id="toggle-dark-mode" class="map-control-btn" title="Skift mørk/lys tilstand">
+            <i class="fas fa-moon"></i>
+        </button>
+        <button id="reset-map" class="map-control-btn" title="Nulstil kort">
+            <i class="fas fa-home"></i>
+        </button>
+        <div class="map-control-separator"></div>
+        <button id="toggle-charts" class="map-control-btn" title="Vis/skjul analyser">
+            <i class="fas fa-chart-bar"></i>
+        </button>
+    </div>
+
+    <!-- Left Side Filter Button -->
+    <div class="map-controls-left">
+        <button id="toggle-filters" class="map-control-btn" title="Vis/skjul filtre">
+            <i class="fas fa-filter"></i>
+        </button>
+    </div>
+
+    <!-- AdSense Ad Units (Conditional Loading) -->
+    <!-- Top Banner Ad -->
+    <div class="ad-container top-ad" id="top-ad-container" style="display: none;">
+        <ins class="adsbygoogle"
+             style="display:block"
+             data-ad-client="ca-pub-3311320113448786"
+             data-ad-slot="YOUR_AD_SLOT_ID_HERE"
+             data-ad-format="auto"
+             data-full-width-responsive="true"></ins>
+    </div>
+
+    <!-- Sidebar Ad (Right side) -->
+    <div class="ad-container sidebar-ad" id="sidebar-ad-container" style="display: none;">
+        <ins class="adsbygoogle"
+             style="display:block"
+             data-ad-client="ca-pub-3311320113448786"
+             data-ad-slot="YOUR_AD_SLOT_ID_HERE"
+             data-ad-format="auto"
+             data-full-width-responsive="true"></ins>
+    </div>
+
+    <!-- Bottom Banner Ad -->
+    <div class="ad-container bottom-ad" id="bottom-ad-container" style="display: none;">
+        <ins class="adsbygoogle"
+             style="display:block"
+             data-ad-client="ca-pub-3311320113448786"
+             data-ad-slot="YOUR_AD_SLOT_ID_HERE"
+             data-ad-format="auto"
+             data-full-width-responsive="true"></ins>
+    </div>
+
+    <!-- Turbine Details Overlay -->
+    <div class="panel-overlay details-overlay" id="details-panel">
+        <div class="panel-header">
+            <h3><i class="fas fa-info-circle"></i> Mølle Detaljer</h3>
+            <button class="panel-toggle" onclick="togglePanel('details-panel')">
+                <i class="fas fa-times"></i>
+            </button>
+        </div>
+        <div class="panel-content">
+            <div id="turbine-details" class="turbine-details">
+                <p class="no-selection">Klik på en mølle for at se detaljer</p>
+            </div>
+        </div>
+    </div>
+
+    <!-- Loading Overlay -->
+    <div id="loading-overlay" class="loading-overlay">
+        <div class="loading-content">
+            <i class="fas fa-spinner fa-spin"></i>
+            <p>Indlæser vindmølledata...</p>
+        </div>
+    </div>
+
+    <!-- Leaflet JS -->
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    
+    <!-- Custom JavaScript -->
+    <script src="/static/js/dashboard.js"></script>
+</body>
+</html>

@@ -1,0 +1,79 @@
+{
+    "total_offshore_turbines": 710,
+    "total_offshore_capacity_mw": 2344.417,
+    "average_offshore_capacity_kw": 3301.995774647887,
+    "offshore_areas": {
+        "Unknown": 519,
+        "North Sea": 187,
+        "Baltic Sea": 4
+    },
+    "offshore_confidence_levels": {
+        "High": 630,
+        "Medium": 80
+    },
+    "offshore_manufacturers": {
+        "SIEMENS": 296,
+        "Vestas Wind Systems A/S": 110,
+        "BONUS": 109,
+        "Siemens Wind Power A/S": 76,
+        "MHI Vestas Offshore Wind A/S": 49,
+        "Ukendt": 26,
+        "NEG Micon": 20,
+        "Nordex": 5,
+        "Gaia-Wind Ltd": 5,
+        "Wind World": 5,
+        "Nordtank": 4,
+        "Solid Wind Power A/S": 2,
+        "Kongsted": 1,
+        "HSWind Aps": 1,
+        "Micon": 1
+    },
+    "offshore_models": {
+        "SWT 2.3-93": 182,
+        "SWT 3.6-120": 112,
+        "2,3 MW": 86,
+        "V 80": 80,
+        "SG 8.0-167 DD": 72,
+        "V164-8.0MW/8.3MW": 49,
+        "Ukendt": 26,
+        "2 MW": 20,
+        "V 39": 10,
+        "V 90 3": 8
+    },
+    "offshore_kommunes": {
+        "Esbjerg": 220,
+        "Norddjurs": 157,
+        "Lolland": 90,
+        "Vordingborg": 72,
+        "Guldborgsund": 72,
+        "København": 20,
+        "Syddjurs": 14,
+        "Lemvig": 12,
+        "Odder": 10,
+        "Samsø": 10,
+        "Halsnæs": 8,
+        "Slagelse": 7,
+        "Odsherred": 6,
+        "Frederikshavn": 3,
+        "Hvidovre": 3,
+        "Gribskov": 2,
+        "Helsingør": 2,
+        "Hillerød": 1,
+        "Læsø": 1
+    },
+    "average_rotor_diameter_m": 99.46084507042254,
+    "average_hub_height_m": 72.91338028169014,
+    "average_age_years": 16.361971830985915,
+    "capacity_by_area": {
+        "North Sea": {
+            "turbine_count": 187,
+            "total_capacity_mw": 437.709,
+            "average_capacity_kw": 2340.6898395721923
+        },
+        "Baltic Sea": {
+            "turbine_count": 4,
+            "total_capacity_mw": 0.708,
+            "average_capacity_kw": 177.0
+        }
+    }
+}
