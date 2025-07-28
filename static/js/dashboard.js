@@ -311,49 +311,53 @@ function initializeCharts() {
     });
 }
 
-// Load consolidated data from single file (GitHub Pages compatible)
+// Load data from individual files (original working method)
 async function loadConsolidatedData() {
     showLoading(true);
     console.log('Starting to load turbine data...');
+    
+    // Test if we can access the data directory
     try {
-        // Load consolidated data file
-        const response = await fetch('/data/consolidated_data.json');
-        if (!response.ok) {
-            throw new Error(`HTTP error! status: ${response.status}`);
+        const testResponse = await fetch('/data/communes/summary_statistics.json');
+        console.log('Test response status:', testResponse.status);
+        console.log('Test response ok:', testResponse.ok);
+        if (testResponse.ok) {
+            const testData = await testResponse.json();
+            console.log('Test data loaded:', testData);
         }
-        const data = await response.json();
-        
-        console.log('Data loaded successfully:', data);
-        
-        allTurbines = data.turbines;
-        const summaryData = data.summary;
-        
-        updateHeaderStats(summaryData);
-        filteredTurbines = [...allTurbines];
-        displayTurbines();
-        updateCharts();
-        populateFilters();
-        isDataLoaded = true;
-        showLoading(false);
-        
-        console.log(`Loaded ${allTurbines.length} turbines`);
-        console.log('Summary:', summaryData);
-        
     } catch (error) {
-        console.error('Error loading data:', error);
-        showLoading(false);
-        
-        // Fallback: try loading individual files (for local development)
-        console.log('Trying fallback loading method...');
-        await loadIndividualFiles();
+        console.error('Test failed:', error);
     }
-}
-
-// Fallback method for loading individual files (local development)
-async function loadIndividualFiles() {
+    
+    try {
+        // First try the consolidated file (for GitHub Pages)
+        const consolidatedResponse = await fetch('/data/consolidated_data.json');
+        console.log('Consolidated response status:', consolidatedResponse.status);
+        if (consolidatedResponse.ok) {
+            const data = await consolidatedResponse.json();
+            console.log('Loaded consolidated data successfully');
+            allTurbines = data.turbines;
+            const summaryData = data.summary;
+            updateHeaderStats(summaryData);
+            filteredTurbines = [...allTurbines];
+            displayTurbines();
+            updateCharts();
+            populateFilters();
+            isDataLoaded = true;
+            showLoading(false);
+            return;
+        }
+    } catch (error) {
+        console.log('Consolidated data not available, trying individual files...');
+    }
+    
+    // Fallback to individual files (original method)
     try {
         // Load summary statistics first
         const summaryResponse = await fetch('/data/communes/summary_statistics.json');
+        if (!summaryResponse.ok) {
+            throw new Error('Summary statistics not available');
+        }
         const summaryData = await summaryResponse.json();
         updateHeaderStats(summaryData);
         
@@ -370,20 +374,30 @@ async function loadIndividualFiles() {
         ];
         
         allTurbines = [];
+        let loadedCount = 0;
+        
         for (const kommune of kommunes) {
             try {
                 const response = await fetch(`/data/communes/${kommune}.json`);
                 if (response.ok) {
                     const data = await response.json();
                     allTurbines = allTurbines.concat(data);
+                    loadedCount++;
                     console.log(`Loaded ${data.length} turbines from ${kommune}`);
+                } else {
+                    console.warn(`Failed to load ${kommune}: ${response.status}`);
                 }
             } catch (error) {
-                console.warn(`Failed to load ${kommune}:`, error);
+                console.warn(`Error loading ${kommune}:`, error);
             }
         }
         
-        console.log('Total turbines loaded:', allTurbines.length);
+        console.log(`Total turbines loaded: ${allTurbines.length} from ${loadedCount} communes`);
+        
+        if (allTurbines.length === 0) {
+            throw new Error('No turbine data loaded');
+        }
+        
         filteredTurbines = [...allTurbines];
         displayTurbines();
         updateCharts();
@@ -392,8 +406,17 @@ async function loadIndividualFiles() {
         showLoading(false);
         
     } catch (error) {
-        console.error('Fallback loading also failed:', error);
+        console.error('Error loading data:', error);
         showLoading(false);
+        
+        // Show error message to user
+        const loadingElement = document.querySelector('.loading-message');
+        if (loadingElement) {
+            loadingElement.innerHTML = `
+                <p>Fejl ved indlæsning af data</p>
+                <p style="font-size: 12px; color: #999;">Kunne ikke indlæse vindmølledata. Prøv at genindlæse siden.</p>
+            `;
+        }
     }
 }
 
@@ -607,56 +630,60 @@ function updateCharts() {
     charts.manufacturer.update('none');
 }
 
-// Populate filter dropdowns
+// Populate filter options
 function populateFilters() {
+    // Get unique manufacturers
     const manufacturers = [...new Set(allTurbines.map(t => t.manufacture).filter(m => m !== 'N/A'))];
     const manufacturerSelect = document.getElementById('manufacturer-filter');
     
     // Clear existing options except "All"
     manufacturerSelect.innerHTML = '<option value="all">Alle Fabrikater</option>';
     
+    // Add manufacturer options
     manufacturers.forEach(manufacturer => {
         const option = document.createElement('option');
         option.value = manufacturer;
         option.textContent = manufacturer;
         manufacturerSelect.appendChild(option);
     });
+    
+    // Get unique offshore areas
+    const offshoreAreas = [...new Set(allTurbines.map(t => t.offshore_area).filter(a => a && a !== 'Onshore'))];
+    const offshoreAreaSelect = document.getElementById('offshore-area-filter');
+    
+    // Clear existing options except "All"
+    offshoreAreaSelect.innerHTML = '<option value="all">Alle Områder</option>';
+    
+    // Add offshore area options
+    offshoreAreas.forEach(area => {
+        const option = document.createElement('option');
+        option.value = area;
+        option.textContent = area === 'North Sea' ? 'Nordsøen' : 
+                           area === 'Baltic Sea' ? 'Østersøen' : area;
+        offshoreAreaSelect.appendChild(option);
+    });
 }
 
-// Apply filters with debouncing
-let filterTimeout;
+// Apply filters
 function applyFilters() {
-    clearTimeout(filterTimeout);
-    filterTimeout = setTimeout(() => {
-        const locationFilter = document.getElementById('location-filter').value;
-        const minCapacity = parseFloat(document.getElementById('min-capacity').value) || 0;
-        const maxCapacity = parseFloat(document.getElementById('max-capacity').value) || Infinity;
-        const manufacturerFilter = document.getElementById('manufacturer-filter').value;
-        const offshoreAreaFilter = document.getElementById('offshore-area-filter').value;
+    const minCapacity = parseFloat(document.getElementById('min-capacity').value) || 0;
+    const maxCapacity = parseFloat(document.getElementById('max-capacity').value) || Infinity;
+    const manufacturer = document.getElementById('manufacturer-filter').value;
+    const offshoreArea = document.getElementById('offshore-area-filter').value;
+    
+    filteredTurbines = allTurbines.filter(turbine => {
+        const capacity = turbine.capacity_kw / 1000;
+        const capacityMatch = capacity >= minCapacity && capacity <= maxCapacity;
         
-        filteredTurbines = allTurbines.filter(turbine => {
-            const capacity = turbine.capacity_kw / 1000;
-            const isOffshore = turbine.is_offshore;
-            
-            // Location filter
-            if (locationFilter === 'onshore' && isOffshore) return false;
-            if (locationFilter === 'offshore' && !isOffshore) return false;
-            
-            // Capacity filter
-            if (capacity < minCapacity || capacity > maxCapacity) return false;
-            
-            // Manufacturer filter
-            if (manufacturerFilter !== 'all' && turbine.manufacture !== manufacturerFilter) return false;
-            
-            // Offshore area filter
-            if (offshoreAreaFilter !== 'all' && turbine.offshore_area !== offshoreAreaFilter) return false;
-            
-            return true;
-        });
+        const manufacturerMatch = manufacturer === 'all' || turbine.manufacture === manufacturer;
         
-        displayTurbines();
-        updateCharts();
-    }, 100); // 100ms debounce
+        const offshoreAreaMatch = offshoreArea === 'all' || turbine.offshore_area === offshoreArea;
+        
+        return capacityMatch && manufacturerMatch && offshoreAreaMatch;
+    });
+    
+    displayTurbines();
+    updateCharts();
 }
 
 // Reset filters
@@ -685,10 +712,9 @@ function setupEventListeners() {
     document.getElementById('apply-filters').addEventListener('click', applyFilters);
     document.getElementById('reset-filters').addEventListener('click', resetFilters);
     
-    // Add input event listeners for real-time filtering
+    // Real-time filtering event listeners
     document.getElementById('min-capacity').addEventListener('input', applyFilters);
     document.getElementById('max-capacity').addEventListener('input', applyFilters);
-    document.getElementById('location-filter').addEventListener('change', applyFilters);
     document.getElementById('manufacturer-filter').addEventListener('change', applyFilters);
     document.getElementById('offshore-area-filter').addEventListener('change', applyFilters);
     

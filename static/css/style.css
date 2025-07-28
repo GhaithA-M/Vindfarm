@@ -186,6 +186,11 @@ body.dark-mode .map-control-separator {
     background: var(--border-dark);
 }
 
+/* Adjust left panel to avoid overlap with map controls */
+.left-panel-overlay:not(.collapsed) {
+    left: 80px; /* Move panel right to avoid left floating button */
+}
+
 /* Left side filter button */
 .map-controls-left {
     position: fixed;

@@ -66,34 +66,26 @@
         </div>
         <div class="panel-content">
             <div class="filter-group">
-                <label>Placeringstype:</label>
-                <select id="location-filter">
-                    <option value="all">Alle Placeringer</option>
-                    <option value="onshore">Kun Landmøller</option>
-                    <option value="offshore">Kun Havmøller</option>
-                </select>
-            </div>
-            <div class="filter-group">
                 <label>Kapacitetsområde (MW):</label>
                 <div class="range-inputs">
-                    <input type="number" id="min-capacity" placeholder="Min" min="0" max="10">
-                    <span>-</span>
-                    <input type="number" id="max-capacity" placeholder="Max" min="0" max="10">
+                    <input type="number" id="min-capacity" placeholder="Min" min="0" step="0.1">
+                    <input type="number" id="max-capacity" placeholder="Max" min="0" step="0.1">
                 </div>
             </div>
+            
             <div class="filter-group">
                 <label>Fabrikat:</label>
                 <select id="manufacturer-filter">
                     <option value="all">Alle Fabrikater</option>
                 </select>
             </div>
+            
             <div class="filter-group">
                 <label>Havområde:</label>
                 <select id="offshore-area-filter">
                     <option value="all">Alle Områder</option>
                     <option value="North Sea">Nordsøen</option>
                     <option value="Baltic Sea">Østersøen</option>
-                    <option value="Kattegat">Kattegat</option>
                 </select>
             </div>
             <button id="apply-filters" class="btn-primary">
