@@ -436,7 +436,7 @@ async function loadConsolidatedData() {
 // Update header statistics
 function updateHeaderStats(summaryData) {
     document.getElementById('total-turbines').textContent = summaryData.total_turbines.toLocaleString();
-    document.getElementById('total-capacity').textContent = summaryData.total_capacity_mw.toLocaleString();
+    document.getElementById('total-capacity').textContent = Math.round(summaryData.total_capacity_mw).toLocaleString();
     document.getElementById('offshore-turbines').textContent = summaryData.offshore_turbines.toLocaleString();
 }
 
