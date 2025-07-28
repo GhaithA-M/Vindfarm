@@ -11,6 +11,7 @@ let charts = {};
 let isDataLoaded = false;
 let isDarkMode = true; // Start with dark mode
 let darkTileLayer, lightTileLayer;
+let isInitialLoad = true; // Track if this is the very first load
 
 // Initialize the dashboard
 document.addEventListener('DOMContentLoaded', function() {
@@ -311,45 +312,10 @@ function initializeCharts() {
     });
 }
 
-// Load data from individual files (original working method)
+// Load data from individual files
 async function loadConsolidatedData() {
     showLoading(true);
     console.log('Starting to load turbine data...');
-    
-    // Test if we can access the data directory
-    try {
-        const testResponse = await fetch('/data/communes/summary_statistics.json');
-        console.log('Test response status:', testResponse.status);
-        console.log('Test response ok:', testResponse.ok);
-        if (testResponse.ok) {
-            const testData = await testResponse.json();
-            console.log('Test data loaded:', testData);
-        }
-    } catch (error) {
-        console.error('Test failed:', error);
-    }
-    
-    try {
-        // First try the consolidated file (for GitHub Pages)
-        const consolidatedResponse = await fetch('/data/consolidated_data.json');
-        console.log('Consolidated response status:', consolidatedResponse.status);
-        if (consolidatedResponse.ok) {
-            const data = await consolidatedResponse.json();
-            console.log('Loaded consolidated data successfully');
-            allTurbines = data.turbines;
-            const summaryData = data.summary;
-            updateHeaderStats(summaryData);
-            filteredTurbines = [...allTurbines];
-            displayTurbines();
-            updateCharts();
-            populateFilters();
-            isDataLoaded = true;
-            showLoading(false);
-            return;
-        }
-    } catch (error) {
-        console.log('Consolidated data not available, trying individual files...');
-    }
     
     // Fallback to individual files (original method)
     try {
@@ -399,11 +365,58 @@ async function loadConsolidatedData() {
         }
         
         filteredTurbines = [...allTurbines];
-        displayTurbines();
+        
+        // Ensure initial state is set correctly
+        if (isInitialLoad) {
+            // Use setTimeout to ensure DOM is fully ready
+            setTimeout(() => {
+                const offshoreBtn = document.getElementById('toggle-offshore');
+                const onshoreBtn = document.getElementById('toggle-onshore');
+                
+                // Set initial button states
+                if (offshoreBtn) {
+                    offshoreBtn.classList.add('active');
+                    updateButtonText(offshoreBtn, true);
+                }
+                if (onshoreBtn) {
+                    onshoreBtn.classList.remove('active');
+                    updateButtonText(onshoreBtn, false);
+                }
+                
+                // Call displayTurbines after setting initial state
+                displayTurbines();
+            }, 100);
+        } else {
+            displayTurbines();
+        }
         updateCharts();
         populateFilters();
         isDataLoaded = true;
         showLoading(false);
+        
+        // Final check: ensure visibility state is correct
+        if (isInitialLoad) {
+            setTimeout(() => {
+                const offshoreBtn = document.getElementById('toggle-offshore');
+                const onshoreBtn = document.getElementById('toggle-onshore');
+                
+                if (offshoreBtn && onshoreBtn) {
+                    // Double-check that the initial state is correct
+                    if (!offshoreBtn.classList.contains('user-interacted') && 
+                        !onshoreBtn.classList.contains('user-interacted')) {
+                        
+                        offshoreBtn.classList.add('active');
+                        onshoreBtn.classList.remove('active');
+                        updateButtonText(offshoreBtn, true);
+                        updateButtonText(onshoreBtn, false);
+                        
+                        // Ensure map layers match
+                        map.addLayer(markerGroups.offshore);
+                        map.removeLayer(markerGroups.onshore);
+                    }
+                }
+            }, 200);
+        }
         
     } catch (error) {
         console.error('Error loading data:', error);
@@ -464,16 +477,27 @@ function displayTurbines() {
     onshoreMarkers.forEach(marker => markerGroups.onshore.addLayer(marker));
     markers = [...offshoreMarkers, ...onshoreMarkers];
     
-    // Preserve user's visibility preferences instead of resetting to defaults
+    // Get button references
     const offshoreBtn = document.getElementById('toggle-offshore');
     const onshoreBtn = document.getElementById('toggle-onshore');
     
-    // Only set defaults if this is the initial load (no user interaction yet)
-    if (!offshoreBtn.classList.contains('user-interacted') && !onshoreBtn.classList.contains('user-interacted')) {
-        // Default: show only offshore turbines for better performance
+    // Safety check: if buttons don't exist yet, just show all turbines
+    if (!offshoreBtn || !onshoreBtn) {
+        map.addLayer(markerGroups.offshore);
+        map.addLayer(markerGroups.onshore);
+        return;
+    }
+    
+    // Check if this is the initial load or if user has interacted
+    const hasUserInteracted = offshoreBtn.classList.contains('user-interacted') || 
+                             onshoreBtn.classList.contains('user-interacted');
+    
+    if (isInitialLoad && !hasUserInteracted) {
+        // Very first load: show only offshore turbines for better performance
         map.addLayer(markerGroups.offshore);
         map.removeLayer(markerGroups.onshore);
         
+        // Ensure button states match the default behavior
         if (offshoreBtn) {
             offshoreBtn.classList.add('active');
             updateButtonText(offshoreBtn, true);
@@ -483,15 +507,21 @@ function displayTurbines() {
             onshoreBtn.classList.remove('active');
             updateButtonText(onshoreBtn, false);
         }
+        
+        // Mark that initial load is complete
+        isInitialLoad = false;
     } else {
-        // Preserve current visibility state
-        if (offshoreBtn && offshoreBtn.classList.contains('active')) {
+        // Either not initial load or user has interacted: preserve current visibility state
+        const offshoreActive = offshoreBtn && offshoreBtn.classList.contains('active');
+        const onshoreActive = onshoreBtn && onshoreBtn.classList.contains('active');
+        
+        if (offshoreActive) {
             map.addLayer(markerGroups.offshore);
         } else {
             map.removeLayer(markerGroups.offshore);
         }
         
-        if (onshoreBtn && onshoreBtn.classList.contains('active')) {
+        if (onshoreActive) {
             map.addLayer(markerGroups.onshore);
         } else {
             map.removeLayer(markerGroups.onshore);

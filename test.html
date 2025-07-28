@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html lang="da">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Test - Vindfarm.dk</title>
+    
+    <!-- Leaflet CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    
+    <!-- Font Awesome for icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    
+    <style>
+        body {
+            margin: 0;
+            padding: 20px;
+            font-family: Arial, sans-serif;
+        }
+        
+        .test-container {
+            max-width: 800px;
+            margin: 0 auto;
+        }
+        
+        .test-section {
+            margin: 20px 0;
+            padding: 15px;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+        }
+        
+        .test-button {
+            background: #3498db;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 5px;
+            cursor: pointer;
+            margin: 5px;
+        }
+        
+        .test-button:hover {
+            background: #2980b9;
+        }
+        
+        .test-button.active {
+            background: #27ae60;
+        }
+        
+        .test-button.user-interacted {
+            border: 2px solid #e74c3c;
+        }
+        
+        .log {
+            background: #f8f9fa;
+            border: 1px solid #dee2e6;
+            padding: 10px;
+            border-radius: 5px;
+            font-family: monospace;
+            font-size: 12px;
+            max-height: 200px;
+            overflow-y: auto;
+        }
+    </style>
+</head>
+<body>
+    <div class="test-container">
+        <h1>Test: Turbine Visibility Fix</h1>
+        
+        <div class="test-section">
+            <h3>Test Buttons (simulating the real buttons)</h3>
+            <button id="toggle-offshore" class="test-button active">
+                <i class="fas fa-water"></i>
+                <span class="btn-text">Sluk</span>
+            </button>
+            <button id="toggle-onshore" class="test-button">
+                <i class="fas fa-industry"></i>
+                <span class="btn-text">Tænd</span>
+            </button>
+        </div>
+        
+        <div class="test-section">
+            <h3>Test Functions</h3>
+            <button onclick="testInitialLoad()" class="test-button">Test Initial Load</button>
+            <button onclick="testUserInteraction()" class="test-button">Test User Interaction</button>
+            <button onclick="testFilterApplication()" class="test-button">Test Filter Application</button>
+            <button onclick="resetTest()" class="test-button">Reset Test</button>
+        </div>
+        
+        <div class="test-section">
+            <h3>Test Log</h3>
+            <div id="test-log" class="log"></div>
+        </div>
+    </div>
+
+    <script>
+        // Global variables (simulating the real ones)
+        let isInitialLoad = true;
+        let hasUserInteracted = false;
+        
+        // Test logging function
+        function log(message) {
+            const logElement = document.getElementById('test-log');
+            const timestamp = new Date().toLocaleTimeString();
+            logElement.innerHTML += `[${timestamp}] ${message}\n`;
+            logElement.scrollTop = logElement.scrollHeight;
+        }
+        
+        // Simulate the displayTurbines function logic
+        function displayTurbines() {
+            const offshoreBtn = document.getElementById('toggle-offshore');
+            const onshoreBtn = document.getElementById('toggle-onshore');
+            
+            // Safety check
+            if (!offshoreBtn || !onshoreBtn) {
+                log('ERROR: Buttons not found');
+                return;
+            }
+            
+            // Check if user has interacted
+            const userInteracted = offshoreBtn.classList.contains('user-interacted') || 
+                                 onshoreBtn.classList.contains('user-interacted');
+            
+            log(`displayTurbines called - isInitialLoad: ${isInitialLoad}, userInteracted: ${userInteracted}`);
+            log(`Offshore button classes: ${offshoreBtn.className}`);
+            log(`Onshore button classes: ${onshoreBtn.className}`);
+            
+            if (isInitialLoad && !userInteracted) {
+                // Very first load: show only offshore turbines
+                log('Setting default behavior (offshore only)');
+                
+                // Simulate map layer changes
+                offshoreBtn.classList.add('active');
+                onshoreBtn.classList.remove('active');
+                updateButtonText(offshoreBtn, true);
+                updateButtonText(onshoreBtn, false);
+                
+                isInitialLoad = false;
+            } else {
+                // Preserve current visibility state
+                const offshoreActive = offshoreBtn.classList.contains('active');
+                const onshoreActive = onshoreBtn.classList.contains('active');
+                
+                log(`Preserving user preferences - offshore: ${offshoreActive}, onshore: ${onshoreActive}`);
+            }
+        }
+        
+        // Update button text function
+        function updateButtonText(button, isActive) {
+            const textSpan = button.querySelector('.btn-text');
+            if (textSpan) {
+                textSpan.textContent = isActive ? 'Sluk' : 'Tænd';
+            }
+        }
+        
+        // Test functions
+        function testInitialLoad() {
+            log('=== Testing Initial Load ===');
+            isInitialLoad = true;
+            hasUserInteracted = false;
+            
+            // Reset buttons
+            const offshoreBtn = document.getElementById('toggle-offshore');
+            const onshoreBtn = document.getElementById('toggle-onshore');
+            
+            offshoreBtn.classList.remove('user-interacted');
+            onshoreBtn.classList.remove('user-interacted');
+            
+            displayTurbines();
+        }
+        
+        function testUserInteraction() {
+            log('=== Testing User Interaction ===');
+            
+            const offshoreBtn = document.getElementById('toggle-offshore');
+            const onshoreBtn = document.getElementById('toggle-onshore');
+            
+            // Simulate user clicking onshore button
+            log('User clicks onshore button');
+            onshoreBtn.classList.toggle('active');
+            onshoreBtn.classList.add('user-interacted');
+            updateButtonText(onshoreBtn, onshoreBtn.classList.contains('active'));
+            
+            // Now apply filters (should preserve user preferences)
+            log('Applying filters after user interaction');
+            displayTurbines();
+        }
+        
+        function testFilterApplication() {
+            log('=== Testing Filter Application ===');
+            displayTurbines();
+        }
+        
+        function resetTest() {
+            log('=== Resetting Test ===');
+            document.getElementById('test-log').innerHTML = '';
+            isInitialLoad = true;
+            hasUserInteracted = false;
+            
+            const offshoreBtn = document.getElementById('toggle-offshore');
+            const onshoreBtn = document.getElementById('toggle-onshore');
+            
+            offshoreBtn.classList.remove('user-interacted');
+            onshoreBtn.classList.remove('user-interacted');
+        }
+        
+        // Initialize test
+        log('Test initialized. Click "Test Initial Load" to start.');
+    </script>
+</body>
+</html> 
