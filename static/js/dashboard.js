@@ -311,39 +311,65 @@ function initializeCharts() {
     });
 }
 
-// Load all turbine data
+// Load consolidated data from single file (GitHub Pages compatible)
 async function loadConsolidatedData() {
     showLoading(true);
     console.log('Starting to load turbine data...');
-    
+    try {
+        // Load consolidated data file
+        const response = await fetch('/data/consolidated_data.json');
+        if (!response.ok) {
+            throw new Error(`HTTP error! status: ${response.status}`);
+        }
+        const data = await response.json();
+        
+        console.log('Data loaded successfully:', data);
+        
+        allTurbines = data.turbines;
+        const summaryData = data.summary;
+        
+        updateHeaderStats(summaryData);
+        filteredTurbines = [...allTurbines];
+        displayTurbines();
+        updateCharts();
+        populateFilters();
+        isDataLoaded = true;
+        showLoading(false);
+        
+        console.log(`Loaded ${allTurbines.length} turbines`);
+        console.log('Summary:', summaryData);
+        
+    } catch (error) {
+        console.error('Error loading data:', error);
+        showLoading(false);
+        
+        // Fallback: try loading individual files (for local development)
+        console.log('Trying fallback loading method...');
+        await loadIndividualFiles();
+    }
+}
+
+// Fallback method for loading individual files (local development)
+async function loadIndividualFiles() {
     try {
         // Load summary statistics first
         const summaryResponse = await fetch('/data/communes/summary_statistics.json');
         const summaryData = await summaryResponse.json();
-        
-        // Update header statistics
         updateHeaderStats(summaryData);
         
         // Load all commune data
         const kommunes = [
-            "aalborg", "aarhus", "aabenraa", "aeroe", "alleroed", "assens", "billund", 
-            "bornholm", "broendby", "broenderslev", "egedal", "esbjerg", "faaborg-midtfyn", 
-            "fanoe", "favrskov", "faxe", "fredericia", "frederikshavn", "frederikssund", 
-            "greve", "gribskov", "guldborgsund", "haderslev", "halsnaes", "hedensted", 
-            "helsingoer", "herning", "hilleroed", "hjoerring", "hoeje-taastrup", "holbaek", 
-            "holstebro", "horsens", "hvidovre", "ikast-brande", "ishoej", "jammerbugt", 
-            "kalundborg", "kerteminde", "koebenhavn", "koege", "kolding", "kommune", 
-            "laesoe", "langeland", "lejre", "lemvig", "lolland", "mariagerfjord", 
-            "middelfart", "morsoe", "naestved", "norddjurs", "nordfyns", "nyborg", 
-            "odder", "odense", "odsherred", "randers", "rebild", "ringkoebing-skjern", 
-            "ringsted", "roskilde", "samsoe", "silkeborg", "skanderborg", "skive", 
-            "slagelse", "soenderborg", "solroed", "soroe", "stevns", "struer", 
-            "svendborg", "syddjurs", "thisted", "toender", "varde", "vejen", "vejle", 
-            "vesthimmerlands", "viborg", "vordingborg"
+            'aabenraa', 'aalborg', 'aarhus', 'aeroe', 'alleroed', 'assens', 'billund', 'bornholm', 
+            'broendby', 'broenderslev', 'egedal', 'esbjerg', 'faaborg-midtfyn', 'fanoe', 'favrskov', 
+            'faxe', 'fredericia', 'frederikshavn', 'frederikssund', 'greve', 'guldborgsund', 
+            'haderslev', 'halsnaes', 'hedensted', 'helsingoer', 'herning', 'hilleroed', 'hjoerring', 
+            'hoeje-taastrup', 'holbaek', 'holstebro', 'horsens', 'hvidovre', 'ikast-brande', 
+            'ishoej', 'jammerbugt', 'kalundborg', 'kerteminde', 'koebenhavn', 'koege', 'kolding', 
+            'kommune', 'laesoe', 'langeland', 'lejre', 'lemvig', 'lolland', 'vesthimmerlands', 
+            'viborg', 'vordingborg'
         ];
         
         allTurbines = [];
-        
         for (const kommune of kommunes) {
             try {
                 const response = await fetch(`/data/communes/${kommune}.json`);
@@ -358,19 +384,15 @@ async function loadConsolidatedData() {
         }
         
         console.log('Total turbines loaded:', allTurbines.length);
-        
-        // Process and display data
         filteredTurbines = [...allTurbines];
         displayTurbines();
         updateCharts();
         populateFilters();
-        
         isDataLoaded = true;
         showLoading(false);
-        console.log('Data loading completed successfully!');
         
     } catch (error) {
-        console.error('Error loading data:', error);
+        console.error('Fallback loading also failed:', error);
         showLoading(false);
     }
 }
