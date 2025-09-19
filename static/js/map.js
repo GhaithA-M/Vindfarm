@@ -9,16 +9,7 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 // Function to load turbine data from all kommunes
 const loadTurbineData = async () => {
     const kommunes = [
-        "aalborg",
-        "aarhus",
-        "aabenraa",
-        "aeroe",
-        "alleroed",
-        "assens",
-        "billund",
-        "bornholm",
-        "broendby",
-        "broenderslev"
+        ""
     ];
 
     for (const kommune of kommunes) {

@@ -335,7 +335,7 @@ async function loadConsolidatedData() {
             'haderslev', 'halsnaes', 'hedensted', 'helsingoer', 'herning', 'hilleroed', 'hjoerring', 
             'hoeje-taastrup', 'holbaek', 'holstebro', 'horsens', 'hvidovre', 'ikast-brande', 
             'ishoej', 'jammerbugt', 'kalundborg', 'kerteminde', 'koebenhavn', 'koege', 'kolding', 
-            'kommune', 'laesoe', 'langeland', 'lejre', 'lemvig', 'lolland', 'vesthimmerlands', 
+            'kommune', 'laesoe', 'langeland', 'lejre', 'lemvig', 'lolland', 'osterild', 'vesthimmerlands', 
             'viborg', 'vordingborg'
         ];
         
